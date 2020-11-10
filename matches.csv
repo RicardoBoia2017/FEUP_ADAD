@@ -1,380 +1,380 @@
-match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht_goals,away_ht_goals,stadium_name,city,country,continent,competition_name,type,tier,hour,minute,day,dayofweek,month,year
-152587,7,Liverpool,492,Norwich City,4,1,0,0,Anfield,City,England,Europe,Premier League,League,1,19,00,09,Friday,08,2019
-152653,14,West Ham United,12,Manchester City,0,5,0,1,,City,England,Europe,Premier League,League,1,11,30,10,Saturday,08,2019
-152730,1,AFC Bournemouth,281,Sheffield United,1,1,0,0,,City,England,Europe,Premier League,League,1,14,00,10,Saturday,08,2019
-152731,8,Burnley,4,Southampton,3,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,14,00,10,Saturday,08,2019
-152732,3,Crystal Palace,20,Everton,0,0,0,0,,City,England,Europe,Premier League,League,1,14,00,10,Saturday,08,2019
-152733,11,Watford,2,Brighton Hove Albion,0,3,0,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,14,00,10,Saturday,08,2019
-152906,15,Tottenham Hotspur,495,Aston Villa,3,1,0,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,16,30,10,Saturday,08,2019
-153107,6,Leicester City,497,Wolverhampton Wanderers,0,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,13,00,11,Sunday,08,2019
-153108,9,Newcastle United,18,Arsenal,0,1,0,0,St. James' Park,City,England,Europe,Premier League,League,1,13,00,11,Sunday,08,2019
-153181,19,Manchester United,17,Chelsea,4,0,1,0,Old Trafford,City,England,Europe,Premier League,League,1,15,30,11,Sunday,08,2019
-154078,18,Arsenal,8,Burnley,2,1,1,1,Emirates Stadium,City,England,Europe,Premier League,League,1,11,30,17,Saturday,08,2019
-154144,495,Aston Villa,1,AFC Bournemouth,1,2,0,2,,City,England,Europe,Premier League,League,1,14,00,17,Saturday,08,2019
-154145,2,Brighton Hove Albion,14,West Ham United,1,1,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,00,17,Saturday,08,2019
-154146,20,Everton,11,Watford,1,0,1,0,Goodison Park,City,England,Europe,Premier League,League,1,14,00,17,Saturday,08,2019
-154147,492,Norwich City,9,Newcastle United,3,1,1,0,,City,England,Europe,Premier League,League,1,14,00,17,Saturday,08,2019
-154148,4,Southampton,7,Liverpool,1,2,0,1,,City,England,Europe,Premier League,League,1,14,00,17,Saturday,08,2019
-154312,12,Manchester City,15,Tottenham Hotspur,2,2,2,1,Etihad Stadium,City,England,Europe,Premier League,League,1,16,30,17,Saturday,08,2019
-154521,281,Sheffield United,3,Crystal Palace,1,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,13,00,18,Sunday,08,2019
-154598,17,Chelsea,6,Leicester City,1,1,1,0,,City,England,Europe,Premier League,League,1,15,30,18,Sunday,08,2019
-154792,497,Wolverhampton Wanderers,19,Manchester United,1,1,0,1,,City,England,Europe,Premier League,League,1,19,00,19,Monday,08,2019
-155216,495,Aston Villa,20,Everton,2,0,1,0,Villa Park,City,England,Europe,Premier League,League,1,19,00,23,Friday,08,2019
-155293,492,Norwich City,17,Chelsea,2,3,2,2,,City,England,Europe,Premier League,League,1,11,30,24,Saturday,08,2019
-155372,2,Brighton Hove Albion,4,Southampton,0,2,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,00,24,Saturday,08,2019
-155373,19,Manchester United,3,Crystal Palace,1,2,0,1,,City,England,Europe,Premier League,League,1,14,00,24,Saturday,08,2019
-155374,281,Sheffield United,6,Leicester City,1,2,0,1,,City,England,Europe,Premier League,League,1,14,00,24,Saturday,08,2019
-155375,11,Watford,14,West Ham United,1,3,1,1,,City,England,Europe,Premier League,League,1,14,00,24,Saturday,08,2019
-155580,7,Liverpool,18,Arsenal,3,1,1,0,Anfield,City,England,Europe,Premier League,League,1,16,30,24,Saturday,08,2019
-155811,1,AFC Bournemouth,12,Manchester City,1,3,1,2,Vitality Stadium,City,England,Europe,Premier League,League,1,13,00,25,Sunday,08,2019
-155932,15,Tottenham Hotspur,9,Newcastle United,0,1,0,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,30,25,Sunday,08,2019
-155933,497,Wolverhampton Wanderers,8,Burnley,1,1,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,15,30,25,Sunday,08,2019
-156859,4,Southampton,19,Manchester United,1,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,11,30,31,Saturday,08,2019
-156944,17,Chelsea,281,Sheffield United,2,2,2,0,,City,England,Europe,Premier League,League,1,14,00,31,Saturday,08,2019
-156945,3,Crystal Palace,495,Aston Villa,1,0,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,14,00,31,Saturday,08,2019
-156946,6,Leicester City,1,AFC Bournemouth,3,1,2,1,,City,England,Europe,Premier League,League,1,14,00,31,Saturday,08,2019
-156947,12,Manchester City,2,Brighton Hove Albion,4,0,2,0,Etihad Stadium,City,England,Europe,Premier League,League,1,14,00,31,Saturday,08,2019
-156948,9,Newcastle United,11,Watford,1,1,1,1,St. James' Park,City,England,Europe,Premier League,League,1,14,00,31,Saturday,08,2019
-156949,14,West Ham United,492,Norwich City,2,0,1,0,,City,England,Europe,Premier League,League,1,14,00,31,Saturday,08,2019
-157169,8,Burnley,7,Liverpool,0,3,0,2,,City,England,Europe,Premier League,League,1,16,30,31,Saturday,08,2019
-157413,20,Everton,497,Wolverhampton Wanderers,3,2,2,1,Goodison Park,City,England,Europe,Premier League,League,1,13,00,01,Sunday,09,2019
-157537,18,Arsenal,15,Tottenham Hotspur,2,2,1,2,Emirates Stadium,City,England,Europe,Premier League,League,1,15,30,01,Sunday,09,2019
-159010,7,Liverpool,9,Newcastle United,3,1,2,1,,City,England,Europe,Premier League,League,1,11,30,14,Saturday,09,2019
-159270,2,Brighton Hove Albion,8,Burnley,1,1,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,00,14,Saturday,09,2019
-159272,19,Manchester United,6,Leicester City,1,0,1,0,,City,England,Europe,Premier League,League,1,14,00,14,Saturday,09,2019
-159275,281,Sheffield United,4,Southampton,0,1,0,0,,City,England,Europe,Premier League,League,1,14,00,14,Saturday,09,2019
-159278,15,Tottenham Hotspur,3,Crystal Palace,4,0,4,0,,City,England,Europe,Premier League,League,1,14,00,14,Saturday,09,2019
-159280,497,Wolverhampton Wanderers,17,Chelsea,2,5,0,3,,City,England,Europe,Premier League,League,1,14,00,14,Saturday,09,2019
-159835,492,Norwich City,12,Manchester City,3,2,2,1,Carrow Road,City,England,Europe,Premier League,League,1,16,30,14,Saturday,09,2019
-160213,1,AFC Bournemouth,20,Everton,3,1,1,1,,City,England,Europe,Premier League,League,1,13,00,15,Sunday,09,2019
-160541,11,Watford,18,Arsenal,2,2,0,2,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,30,15,Sunday,09,2019
-160889,495,Aston Villa,14,West Ham United,0,0,0,0,Villa Park,City,England,Europe,Premier League,League,1,19,00,16,Monday,09,2019
-161308,4,Southampton,1,AFC Bournemouth,1,3,0,2,,City,England,Europe,Premier League,League,1,19,00,20,Friday,09,2019
-161376,6,Leicester City,15,Tottenham Hotspur,2,1,0,1,,City,England,Europe,Premier League,League,1,11,30,21,Saturday,09,2019
-161483,8,Burnley,492,Norwich City,2,0,2,0,,City,England,Europe,Premier League,League,1,14,00,21,Saturday,09,2019
-161484,20,Everton,281,Sheffield United,0,2,0,1,,City,England,Europe,Premier League,League,1,14,00,21,Saturday,09,2019
-161485,12,Manchester City,11,Watford,8,0,5,0,,City,England,Europe,Premier League,League,1,14,00,21,Saturday,09,2019
-161723,9,Newcastle United,2,Brighton & Hove Albion,0,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,16,30,21,Saturday,09,2019
-161954,3,Crystal Palace,497,Wolverhampton Wanderers,1,1,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,13,00,22,Sunday,09,2019
-161955,14,West Ham United,19,Manchester United,2,0,1,0,London Stadium,City,England,Europe,Premier League,League,1,13,00,22,Sunday,09,2019
-162055,18,Arsenal,495,Aston Villa,3,2,0,1,,City,England,Europe,Premier League,League,1,15,30,22,Sunday,09,2019
-162056,17,Chelsea,7,Liverpool,1,2,0,2,Stamford Bridge,City,England,Europe,Premier League,League,1,15,30,22,Sunday,09,2019
-163011,281,Sheffield United,7,Liverpool,0,1,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,11,30,28,Saturday,09,2019
-163110,1,AFC Bournemouth,14,West Ham United,2,2,1,1,,City,England,Europe,Premier League,League,1,14,00,28,Saturday,09,2019
-163111,495,Aston Villa,8,Burnley,2,2,1,0,,City,England,Europe,Premier League,League,1,14,00,28,Saturday,09,2019
-163112,17,Chelsea,2,Brighton & Hove Albion,2,0,0,0,Stamford Bridge,City,England,Europe,Premier League,League,1,14,00,28,Saturday,09,2019
-163113,3,Crystal Palace,492,Norwich City,2,0,1,0,,City,England,Europe,Premier League,League,1,14,00,28,Saturday,09,2019
-163114,15,Tottenham Hotspur,4,Southampton,2,1,2,1,,City,England,Europe,Premier League,League,1,14,00,28,Saturday,09,2019
-163115,497,Wolverhampton Wanderers,11,Watford,2,0,1,0,,City,England,Europe,Premier League,League,1,14,00,28,Saturday,09,2019
-163666,6,Leicester City,9,Newcastle United,5,0,1,0,King Power Stadium,City,England,Europe,Premier League,League,1,15,30,29,Sunday,09,2019
-163924,19,Manchester United,18,Arsenal,1,1,1,0,Old Trafford,City,England,Europe,Premier League,League,1,19,00,30,Monday,09,2019
-164367,2,Brighton & Hove Albion,15,Tottenham Hotspur,3,0,2,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,11,30,05,Saturday,10,2019
-164456,8,Burnley,20,Everton,1,0,0,0,,City,England,Europe,Premier League,League,1,14,00,05,Saturday,10,2019
-164457,7,Liverpool,6,Leicester City,2,1,1,0,,City,England,Europe,Premier League,League,1,14,00,05,Saturday,10,2019
-164458,492,Norwich City,495,Aston Villa,1,5,0,2,,City,England,Europe,Premier League,League,1,14,00,05,Saturday,10,2019
-164459,11,Watford,281,Sheffield United,0,0,0,0,,City,England,Europe,Premier League,League,1,14,00,05,Saturday,10,2019
-164611,14,West Ham United,3,Crystal Palace,1,2,0,0,,City,England,Europe,Premier League,League,1,16,30,05,Saturday,10,2019
-164822,18,Arsenal,1,AFC Bournemouth,1,0,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,13,00,06,Sunday,10,2019
-164823,12,Manchester City,497,Wolverhampton Wanderers,0,2,0,0,Etihad Stadium,City,England,Europe,Premier League,League,1,13,00,06,Sunday,10,2019
-164824,4,Southampton,17,Chelsea,1,4,1,3,St. Mary's Stadium,City,England,Europe,Premier League,League,1,13,00,06,Sunday,10,2019
-164922,9,Newcastle United,19,Manchester United,1,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,15,30,06,Sunday,10,2019
-166437,20,Everton,14,West Ham United,2,0,1,0,,City,England,Europe,Premier League,League,1,11,30,19,Saturday,10,2019
-166646,1,AFC Bournemouth,492,Norwich City,0,0,0,0,,City,England,Europe,Premier League,League,1,14,00,19,Saturday,10,2019
-166647,495,Aston Villa,2,Brighton & Hove Albion,2,1,1,1,Villa Park,City,England,Europe,Premier League,League,1,14,00,19,Saturday,10,2019
-166648,17,Chelsea,9,Newcastle United,1,0,0,0,,City,England,Europe,Premier League,League,1,14,00,19,Saturday,10,2019
-166649,6,Leicester City,8,Burnley,2,1,1,1,,City,England,Europe,Premier League,League,1,14,00,19,Saturday,10,2019
-166650,15,Tottenham Hotspur,11,Watford,1,1,0,1,,City,England,Europe,Premier League,League,1,14,00,19,Saturday,10,2019
-166651,497,Wolverhampton Wanderers,4,Southampton,1,1,0,0,Molineux Stadium,City,England,Europe,Premier League,League,1,14,00,19,Saturday,10,2019
-166869,3,Crystal Palace,12,Manchester City,0,2,0,2,Selhurst Park,City,England,Europe,Premier League,League,1,16,30,19,Saturday,10,2019
-167271,19,Manchester United,7,Liverpool,1,1,1,0,,City,England,Europe,Premier League,League,1,15,30,20,Sunday,10,2019
-167457,281,Sheffield United,18,Arsenal,1,0,1,0,,City,England,Europe,Premier League,League,1,19,00,21,Monday,10,2019
-167970,4,Southampton,6,Leicester City,0,9,0,5,,City,England,Europe,Premier League,League,1,19,00,25,Friday,10,2019
-168084,12,Manchester City,495,Aston Villa,3,0,0,0,,City,England,Europe,Premier League,League,1,11,30,26,Saturday,10,2019
-168220,2,Brighton & Hove Albion,20,Everton,3,2,1,1,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,00,26,Saturday,10,2019
-168221,11,Watford,1,AFC Bournemouth,0,0,0,0,,City,England,Europe,Premier League,League,1,14,00,26,Saturday,10,2019
-168222,14,West Ham United,281,Sheffield United,1,1,1,0,,City,England,Europe,Premier League,League,1,14,00,26,Saturday,10,2019
-168380,8,Burnley,17,Chelsea,2,4,0,2,Turf Moor,City,England,Europe,Premier League,League,1,16,30,26,Saturday,10,2019
-168644,9,Newcastle United,497,Wolverhampton Wanderers,1,1,1,0,St. James' Park,City,England,Europe,Premier League,League,1,14,00,27,Sunday,10,2019
-168759,18,Arsenal,3,Crystal Palace,2,2,2,1,Emirates Stadium,City,England,Europe,Premier League,League,1,16,30,27,Sunday,10,2019
-168760,7,Liverpool,15,Tottenham Hotspur,2,1,0,1,,City,England,Europe,Premier League,League,1,16,30,27,Sunday,10,2019
-168761,492,Norwich City,19,Manchester United,1,3,0,2,Carrow Road,City,England,Europe,Premier League,League,1,16,30,27,Sunday,10,2019
-169671,1,AFC Bournemouth,19,Manchester United,1,0,1,0,Vitality Stadium,City,England,Europe,Premier League,League,1,12,30,02,Saturday,11,2019
-169770,18,Arsenal,497,Wolverhampton Wanderers,1,1,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169771,495,Aston Villa,7,Liverpool,1,2,1,0,Villa Park,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169772,2,Brighton & Hove Albion,492,Norwich City,2,0,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169773,12,Manchester City,4,Southampton,2,1,0,1,Etihad Stadium,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169774,281,Sheffield United,8,Burnley,3,0,3,0,Bramall Lane,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169775,14,West Ham United,9,Newcastle United,2,3,0,2,London Stadium,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169933,11,Watford,17,Chelsea,1,2,0,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,17,30,02,Saturday,11,2019
-169987,1,AFC Bournemouth,19,Manchester United,1,0,0,0,Vitality Stadium,City,England,Europe,Premier League,League,1,12,30,02,Saturday,11,2019
-169988,18,Arsenal,497,Wolverhampton Wanderers,1,1,0,0,Emirates Stadium,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169989,495,Aston Villa,7,Liverpool,1,2,0,0,Villa Park,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169990,2,Brighton & Hove Albion,492,Norwich City,2,0,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169991,12,Manchester City,4,Southampton,2,1,0,0,Etihad Stadium,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169992,281,Sheffield United,8,Burnley,3,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-169993,14,West Ham United,9,Newcastle United,2,3,0,0,London Stadium,City,England,Europe,Premier League,League,1,15,00,02,Saturday,11,2019
-170500,3,Crystal Palace,6,Leicester City,0,2,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,14,00,03,Sunday,11,2019
-170630,20,Everton,15,Tottenham Hotspur,1,1,0,0,Goodison Park,City,England,Europe,Premier League,League,1,16,30,03,Sunday,11,2019
-170888,3,Crystal Palace,6,Leicester City,0,2,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,14,00,03,Sunday,11,2019
-170889,20,Everton,15,Tottenham Hotspur,1,1,0,0,Goodison Park,City,England,Europe,Premier League,League,1,16,30,03,Sunday,11,2019
-171483,492,Norwich City,11,Watford,0,2,0,1,Carrow Road,City,England,Europe,Premier League,League,1,20,00,08,Friday,11,2019
-171607,17,Chelsea,3,Crystal Palace,2,0,0,0,Stamford Bridge,City,England,Europe,Premier League,League,1,12,30,09,Saturday,11,2019
-171713,8,Burnley,14,West Ham United,3,0,2,0,Turf Moor,City,England,Europe,Premier League,League,1,15,00,09,Saturday,11,2019
-171714,9,Newcastle United,1,AFC Bournemouth,2,1,1,1,St. James' Park,City,England,Europe,Premier League,League,1,15,00,09,Saturday,11,2019
-171715,4,Southampton,20,Everton,1,2,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,00,09,Saturday,11,2019
-171716,15,Tottenham Hotspur,281,Sheffield United,1,1,0,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,00,09,Saturday,11,2019
-171865,6,Leicester City,18,Arsenal,2,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,17,30,09,Saturday,11,2019
-172143,19,Manchester United,2,Brighton & Hove Albion,3,1,2,0,Old Trafford,City,England,Europe,Premier League,League,1,14,00,10,Sunday,11,2019
-172144,497,Wolverhampton Wanderers,495,Aston Villa,2,1,1,0,Molineux Stadium,City,England,Europe,Premier League,League,1,14,00,10,Sunday,11,2019
-172252,7,Liverpool,12,Manchester City,3,1,2,0,Anfield,City,England,Europe,Premier League,League,1,16,30,10,Sunday,11,2019
-173567,14,West Ham United,15,Tottenham Hotspur,2,3,0,2,London Stadium,City,England,Europe,Premier League,League,1,12,30,23,Saturday,11,2019
-173659,1,AFC Bournemouth,497,Wolverhampton Wanderers,1,2,0,2,Vitality Stadium,City,England,Europe,Premier League,League,1,15,00,23,Saturday,11,2019
-173660,18,Arsenal,4,Southampton,2,2,1,1,Emirates Stadium,City,England,Europe,Premier League,League,1,15,00,23,Saturday,11,2019
-173661,2,Brighton & Hove Albion,6,Leicester City,0,2,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,00,23,Saturday,11,2019
-173662,3,Crystal Palace,7,Liverpool,1,2,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,15,00,23,Saturday,11,2019
-173663,20,Everton,492,Norwich City,0,2,0,0,Goodison Park,City,England,Europe,Premier League,League,1,15,00,23,Saturday,11,2019
-173664,11,Watford,8,Burnley,0,3,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,00,23,Saturday,11,2019
-173801,12,Manchester City,17,Chelsea,2,1,2,1,Etihad Stadium,City,England,Europe,Premier League,League,1,17,30,23,Saturday,11,2019
-174134,281,Sheffield United,19,Manchester United,3,3,1,0,Bramall Lane,City,England,Europe,Premier League,League,1,16,30,24,Sunday,11,2019
-174268,495,Aston Villa,9,Newcastle United,2,0,2,0,Villa Park,City,England,Europe,Premier League,League,1,20,00,25,Monday,11,2019
-174738,9,Newcastle United,12,Manchester City,2,2,1,1,St. James' Park,City,England,Europe,Premier League,League,1,12,30,30,Saturday,11,2019
-174818,8,Burnley,3,Crystal Palace,0,2,0,1,Turf Moor,City,England,Europe,Premier League,League,1,15,00,30,Saturday,11,2019
-174819,17,Chelsea,14,West Ham United,0,1,0,0,Stamford Bridge,City,England,Europe,Premier League,League,1,15,00,30,Saturday,11,2019
-174820,7,Liverpool,2,Brighton & Hove Albion,2,1,2,0,Anfield,City,England,Europe,Premier League,League,1,15,00,30,Saturday,11,2019
-174821,15,Tottenham Hotspur,1,AFC Bournemouth,3,2,1,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,00,30,Saturday,11,2019
-174959,4,Southampton,11,Watford,2,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,17,30,30,Saturday,11,2019
-175196,492,Norwich City,18,Arsenal,2,2,2,1,Carrow Road,City,England,Europe,Premier League,League,1,14,00,01,Sunday,12,2019
-175197,497,Wolverhampton Wanderers,281,Sheffield United,1,1,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,14,00,01,Sunday,12,2019
-175295,6,Leicester City,20,Everton,2,1,0,1,King Power Stadium,City,England,Europe,Premier League,League,1,16,30,01,Sunday,12,2019
-175296,19,Manchester United,495,Aston Villa,2,2,1,1,Old Trafford,City,England,Europe,Premier League,League,1,16,30,01,Sunday,12,2019
-175503,3,Crystal Palace,1,AFC Bournemouth,1,0,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,19,30,03,Tuesday,12,2019
-175538,8,Burnley,12,Manchester City,1,4,0,1,Turf Moor,City,England,Europe,Premier League,League,1,20,15,03,Tuesday,12,2019
-175648,17,Chelsea,495,Aston Villa,2,1,1,1,Stamford Bridge,City,England,Europe,Premier League,League,1,19,30,04,Wednesday,12,2019
-175649,6,Leicester City,11,Watford,2,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,19,30,04,Wednesday,12,2019
-175650,19,Manchester United,15,Tottenham Hotspur,2,1,1,1,Old Trafford,City,England,Europe,Premier League,League,1,19,30,04,Wednesday,12,2019
-175651,4,Southampton,492,Norwich City,2,1,2,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,19,30,04,Wednesday,12,2019
-175652,497,Wolverhampton Wanderers,14,West Ham United,2,0,1,0,Molineux Stadium,City,England,Europe,Premier League,League,1,19,30,04,Wednesday,12,2019
-175668,7,Liverpool,20,Everton,5,2,4,2,Anfield,City,England,Europe,Premier League,League,1,20,15,04,Wednesday,12,2019
-175726,281,Sheffield United,9,Newcastle United,0,2,0,1,Bramall Lane,City,England,Europe,Premier League,League,1,19,30,05,Thursday,12,2019
-175735,18,Arsenal,2,Brighton & Hove Albion,1,2,0,1,Emirates Stadium,City,England,Europe,Premier League,League,1,20,15,05,Thursday,12,2019
-175890,20,Everton,17,Chelsea,3,1,1,0,Goodison Park,City,England,Europe,Premier League,League,1,12,30,07,Saturday,12,2019
-175971,1,AFC Bournemouth,7,Liverpool,0,3,0,2,Vitality Stadium,City,England,Europe,Premier League,League,1,15,00,07,Saturday,12,2019
-175972,15,Tottenham Hotspur,8,Burnley,5,0,3,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,00,07,Saturday,12,2019
-175973,11,Watford,3,Crystal Palace,0,0,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,00,07,Saturday,12,2019
-176121,12,Manchester City,19,Manchester United,1,2,0,2,Etihad Stadium,City,England,Europe,Premier League,League,1,17,30,07,Saturday,12,2019
-176319,495,Aston Villa,6,Leicester City,1,4,1,2,Villa Park,City,England,Europe,Premier League,League,1,14,00,08,Sunday,12,2019
-176320,9,Newcastle United,4,Southampton,2,1,0,0,St. James' Park,City,England,Europe,Premier League,League,1,14,00,08,Sunday,12,2019
-176321,492,Norwich City,281,Sheffield United,1,2,1,0,Carrow Road,City,England,Europe,Premier League,League,1,14,00,08,Sunday,12,2019
-176422,2,Brighton & Hove Albion,497,Wolverhampton Wanderers,2,2,2,2,The American Express Community Stadium,City,England,Europe,Premier League,League,1,16,30,08,Sunday,12,2019
-176533,14,West Ham United,18,Arsenal,1,3,1,0,London Stadium,City,England,Europe,Premier League,League,1,20,00,09,Monday,12,2019
-176831,7,Liverpool,11,Watford,2,0,1,0,Anfield,City,England,Europe,Premier League,League,1,12,30,14,Saturday,12,2019
-176897,8,Burnley,9,Newcastle United,1,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,15,00,14,Saturday,12,2019
-176898,17,Chelsea,1,AFC Bournemouth,0,1,0,0,Stamford Bridge,City,England,Europe,Premier League,League,1,15,00,14,Saturday,12,2019
-176899,6,Leicester City,492,Norwich City,1,1,1,1,King Power Stadium,City,England,Europe,Premier League,League,1,15,00,14,Saturday,12,2019
-176900,281,Sheffield United,495,Aston Villa,2,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,15,00,14,Saturday,12,2019
-177039,4,Southampton,14,West Ham United,0,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,17,30,14,Saturday,12,2019
-177182,19,Manchester United,20,Everton,1,1,0,1,Old Trafford,City,England,Europe,Premier League,League,1,14,00,15,Sunday,12,2019
-177183,497,Wolverhampton Wanderers,15,Tottenham Hotspur,1,2,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,14,00,15,Sunday,12,2019
-177258,18,Arsenal,12,Manchester City,0,3,0,3,Emirates Stadium,City,England,Europe,Premier League,League,1,16,30,15,Sunday,12,2019
-177364,3,Crystal Palace,2,Brighton & Hove Albion,1,1,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,19,45,16,Monday,12,2019
-177696,20,Everton,18,Arsenal,0,0,0,0,Goodison Park,City,England,Europe,Premier League,League,1,12,30,21,Saturday,12,2019
-177754,1,AFC Bournemouth,8,Burnley,0,1,0,0,Vitality Stadium,City,England,Europe,Premier League,League,1,15,00,21,Saturday,12,2019
-177755,495,Aston Villa,4,Southampton,1,3,0,2,Villa Park,City,England,Europe,Premier League,League,1,15,00,21,Saturday,12,2019
-177756,2,Brighton & Hove Albion,281,Sheffield United,0,1,0,1,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,00,21,Saturday,12,2019
-177757,9,Newcastle United,3,Crystal Palace,1,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,15,00,21,Saturday,12,2019
-177758,492,Norwich City,497,Wolverhampton Wanderers,1,2,1,0,Carrow Road,City,England,Europe,Premier League,League,1,15,00,21,Saturday,12,2019
-177879,12,Manchester City,6,Leicester City,3,1,2,1,Etihad Stadium,City,England,Europe,Premier League,League,1,17,30,21,Saturday,12,2019
-177996,11,Watford,19,Manchester United,2,0,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,14,00,22,Sunday,12,2019
-178044,15,Tottenham Hotspur,17,Chelsea,0,2,0,2,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,16,30,22,Sunday,12,2019
-178137,15,Tottenham Hotspur,2,Brighton & Hove Albion,2,1,0,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,12,30,26,Thursday,12,2019
-178165,1,AFC Bournemouth,18,Arsenal,1,1,1,0,Vitality Stadium,City,England,Europe,Premier League,League,1,15,00,26,Thursday,12,2019
-178166,495,Aston Villa,492,Norwich City,1,0,0,0,Villa Park,City,England,Europe,Premier League,League,1,15,00,26,Thursday,12,2019
-178167,17,Chelsea,4,Southampton,0,2,0,1,Stamford Bridge,City,England,Europe,Premier League,League,1,15,00,26,Thursday,12,2019
-178168,3,Crystal Palace,14,West Ham United,2,1,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,15,00,26,Thursday,12,2019
-178169,20,Everton,8,Burnley,1,0,0,0,Goodison Park,City,England,Europe,Premier League,League,1,15,00,26,Thursday,12,2019
-178170,281,Sheffield United,11,Watford,1,1,1,1,Bramall Lane,City,England,Europe,Premier League,League,1,15,00,26,Thursday,12,2019
-178243,19,Manchester United,9,Newcastle United,4,1,3,1,Old Trafford,City,England,Europe,Premier League,League,1,17,30,26,Thursday,12,2019
-178246,6,Leicester City,7,Liverpool,0,4,0,1,King Power Stadium,City,England,Europe,Premier League,League,1,20,00,26,Thursday,12,2019
-178268,497,Wolverhampton Wanderers,12,Manchester City,3,2,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,19,45,27,Friday,12,2019
-178277,2,Brighton & Hove Albion,1,AFC Bournemouth,2,0,1,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,12,30,28,Saturday,12,2019
-178298,9,Newcastle United,20,Everton,1,2,0,1,St. James' Park,City,England,Europe,Premier League,League,1,15,00,28,Saturday,12,2019
-178299,4,Southampton,3,Crystal Palace,1,1,0,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,00,28,Saturday,12,2019
-178300,11,Watford,495,Aston Villa,3,0,1,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,00,28,Saturday,12,2019
-178364,492,Norwich City,15,Tottenham Hotspur,2,2,1,0,Carrow Road,City,England,Europe,Premier League,League,1,17,30,28,Saturday,12,2019
-178365,14,West Ham United,6,Leicester City,1,2,1,1,London Stadium,City,England,Europe,Premier League,League,1,17,30,28,Saturday,12,2019
-178369,8,Burnley,19,Manchester United,0,2,0,1,Turf Moor,City,England,Europe,Premier League,League,1,19,45,28,Saturday,12,2019
-178399,18,Arsenal,17,Chelsea,1,2,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,14,00,29,Sunday,12,2019
-178470,7,Liverpool,497,Wolverhampton Wanderers,1,0,1,0,Anfield,City,England,Europe,Premier League,League,1,16,30,29,Sunday,12,2019
-178474,12,Manchester City,281,Sheffield United,2,0,0,0,Etihad Stadium,City,England,Europe,Premier League,League,1,18,00,29,Sunday,12,2019
-178506,2,Brighton & Hove Albion,17,Chelsea,1,1,0,1,The American Express Community Stadium,City,England,Europe,Premier League,League,1,12,30,01,Wednesday,01,2020
-178507,8,Burnley,495,Aston Villa,1,2,0,2,Turf Moor,City,England,Europe,Premier League,League,1,12,30,01,Wednesday,01,2020
-178514,9,Newcastle United,6,Leicester City,0,3,0,2,St. James' Park,City,England,Europe,Premier League,League,1,15,00,01,Wednesday,01,2020
-178515,4,Southampton,15,Tottenham Hotspur,1,0,1,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,00,01,Wednesday,01,2020
-178516,11,Watford,497,Wolverhampton Wanderers,2,1,1,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,00,01,Wednesday,01,2020
-178592,12,Manchester City,20,Everton,2,1,0,0,Etihad Stadium,City,England,Europe,Premier League,League,1,17,30,01,Wednesday,01,2020
-178593,492,Norwich City,3,Crystal Palace,1,1,1,0,Carrow Road,City,England,Europe,Premier League,League,1,17,30,01,Wednesday,01,2020
-178594,14,West Ham United,1,AFC Bournemouth,4,0,3,0,London Stadium,City,England,Europe,Premier League,League,1,17,30,01,Wednesday,01,2020
-178596,18,Arsenal,19,Manchester United,2,0,2,0,Emirates Stadium,City,England,Europe,Premier League,League,1,20,00,01,Wednesday,01,2020
-178614,7,Liverpool,281,Sheffield United,2,0,1,0,Anfield,City,England,Europe,Premier League,League,1,20,00,02,Thursday,01,2020
-179216,281,Sheffield United,14,West Ham United,1,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,20,00,10,Friday,01,2020
-179264,3,Crystal Palace,18,Arsenal,1,1,0,1,Selhurst Park,City,England,Europe,Premier League,League,1,12,30,11,Saturday,01,2020
-179319,17,Chelsea,8,Burnley,3,0,2,0,Stamford Bridge,City,England,Europe,Premier League,League,1,15,00,11,Saturday,01,2020
-179320,20,Everton,2,Brighton & Hove Albion,1,0,1,0,Goodison Park,City,England,Europe,Premier League,League,1,15,00,11,Saturday,01,2020
-179321,6,Leicester City,4,Southampton,1,2,1,1,King Power Stadium,City,England,Europe,Premier League,League,1,15,00,11,Saturday,01,2020
-179322,19,Manchester United,492,Norwich City,4,0,1,0,Old Trafford,City,England,Europe,Premier League,League,1,15,00,11,Saturday,01,2020
-179323,497,Wolverhampton Wanderers,9,Newcastle United,1,1,1,1,Molineux Stadium,City,England,Europe,Premier League,League,1,15,00,11,Saturday,01,2020
-179435,15,Tottenham Hotspur,7,Liverpool,0,1,0,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,17,30,11,Saturday,01,2020
-179543,1,AFC Bournemouth,11,Watford,0,3,0,1,Vitality Stadium,City,England,Europe,Premier League,League,1,14,00,12,Sunday,01,2020
-179602,495,Aston Villa,12,Manchester City,1,6,0,4,Villa Park,City,England,Europe,Premier League,League,1,16,30,12,Sunday,01,2020
-180141,11,Watford,15,Tottenham Hotspur,0,0,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,12,30,18,Saturday,01,2020
-180221,18,Arsenal,281,Sheffield United,1,1,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,15,00,18,Saturday,01,2020
-180222,2,Brighton & Hove Albion,495,Aston Villa,1,1,1,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,00,18,Saturday,01,2020
-180223,12,Manchester City,3,Crystal Palace,2,2,0,1,Etihad Stadium,City,England,Europe,Premier League,League,1,15,00,18,Saturday,01,2020
-180224,492,Norwich City,1,AFC Bournemouth,1,0,1,0,Carrow Road,City,England,Europe,Premier League,League,1,15,00,18,Saturday,01,2020
-180225,4,Southampton,497,Wolverhampton Wanderers,2,3,2,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,00,18,Saturday,01,2020
-180226,14,West Ham United,20,Everton,1,1,1,1,London Stadium,City,England,Europe,Premier League,League,1,15,00,18,Saturday,01,2020
-180352,9,Newcastle United,17,Chelsea,1,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,17,30,18,Saturday,01,2020
-180485,8,Burnley,6,Leicester City,2,1,0,1,Turf Moor,City,England,Europe,Premier League,League,1,14,00,19,Sunday,01,2020
-180562,7,Liverpool,19,Manchester United,2,0,1,0,Anfield,City,England,Europe,Premier League,League,1,16,30,19,Sunday,01,2020
-180716,1,AFC Bournemouth,2,Brighton & Hove Albion,3,1,2,0,Vitality Stadium,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,01,2020
-180717,495,Aston Villa,11,Watford,2,1,0,1,Villa Park,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,01,2020
-180718,3,Crystal Palace,4,Southampton,0,2,0,1,Selhurst Park,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,01,2020
-180719,20,Everton,9,Newcastle United,2,2,1,0,Goodison Park,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,01,2020
-180720,281,Sheffield United,12,Manchester City,0,1,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,01,2020
-180744,17,Chelsea,18,Arsenal,2,2,1,0,Stamford Bridge,City,England,Europe,Premier League,League,1,20,15,21,Tuesday,01,2020
-180840,6,Leicester City,14,West Ham United,4,1,2,0,King Power Stadium,City,England,Europe,Premier League,League,1,19,30,22,Wednesday,01,2020
-180841,15,Tottenham Hotspur,492,Norwich City,2,1,1,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,19,30,22,Wednesday,01,2020
-180874,19,Manchester United,8,Burnley,0,2,0,1,Old Trafford,City,England,Europe,Premier League,League,1,20,15,22,Wednesday,01,2020
-180945,497,Wolverhampton Wanderers,7,Liverpool,1,2,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,20,00,23,Thursday,01,2020
-188620,8,Burnley,18,Arsenal,0,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,14,00,02,Sunday,02,2020
-188721,15,Tottenham Hotspur,12,Manchester City,2,0,0,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,16,30,02,Sunday,02,2020
-189320,20,Everton,3,Crystal Palace,3,1,1,0,Goodison Park,City,England,Europe,Premier League,League,1,12,30,08,Saturday,02,2020
-189548,2,Brighton & Hove Albion,11,Watford,1,1,0,1,The American Express Community Stadium,City,England,Europe,Premier League,League,1,17,30,08,Saturday,02,2020
-189720,281,Sheffield United,1,AFC Bournemouth,2,1,1,1,Bramall Lane,City,England,Europe,Premier League,League,1,14,00,09,Sunday,02,2020
-190342,497,Wolverhampton Wanderers,6,Leicester City,0,0,0,0,Molineux Stadium,City,England,Europe,Premier League,League,1,20,00,14,Friday,02,2020
-190420,4,Southampton,8,Burnley,1,2,1,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,12,30,15,Saturday,02,2020
-190618,492,Norwich City,7,Liverpool,0,1,0,0,Carrow Road,City,England,Europe,Premier League,League,1,17,30,15,Saturday,02,2020
-190827,495,Aston Villa,15,Tottenham Hotspur,2,3,1,2,Villa Park,City,England,Europe,Premier League,League,1,14,00,16,Sunday,02,2020
-190934,18,Arsenal,9,Newcastle United,4,0,0,0,Emirates Stadium,City,England,Europe,Premier League,League,1,16,30,16,Sunday,02,2020
-191083,17,Chelsea,19,Manchester United,0,2,0,1,Stamford Bridge,City,England,Europe,Premier League,League,1,20,00,17,Monday,02,2020
-191225,12,Manchester City,14,West Ham United,2,0,1,0,Etihad Stadium,City,England,Europe,Premier League,League,1,19,30,19,Wednesday,02,2020
-191489,17,Chelsea,15,Tottenham Hotspur,2,1,1,0,Stamford Bridge,City,England,Europe,Premier League,League,1,12,30,22,Saturday,02,2020
-191585,8,Burnley,1,AFC Bournemouth,3,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,15,00,22,Saturday,02,2020
-191586,3,Crystal Palace,9,Newcastle United,1,0,1,0,Selhurst Park,City,England,Europe,Premier League,League,1,15,00,22,Saturday,02,2020
-191587,281,Sheffield United,2,Brighton & Hove Albion,1,1,1,1,Bramall Lane,City,England,Europe,Premier League,League,1,15,00,22,Saturday,02,2020
-191588,4,Southampton,495,Aston Villa,2,0,1,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,00,22,Saturday,02,2020
-191742,6,Leicester City,12,Manchester City,0,1,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,17,30,22,Saturday,02,2020
-191974,19,Manchester United,11,Watford,3,0,1,0,Old Trafford,City,England,Europe,Premier League,League,1,14,00,23,Sunday,02,2020
-191975,497,Wolverhampton Wanderers,492,Norwich City,3,0,2,0,Molineux Stadium,City,England,Europe,Premier League,League,1,14,00,23,Sunday,02,2020
-192075,18,Arsenal,20,Everton,3,2,2,2,Emirates Stadium,City,England,Europe,Premier League,League,1,16,30,23,Sunday,02,2020
-192191,7,Liverpool,14,West Ham United,3,2,1,1,Anfield,City,England,Europe,Premier League,League,1,20,00,24,Monday,02,2020
-192555,492,Norwich City,6,Leicester City,1,0,0,0,Carrow Road,City,England,Europe,Premier League,League,1,20,00,28,Friday,02,2020
-192647,2,Brighton & Hove Albion,3,Crystal Palace,0,1,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,12,30,29,Saturday,02,2020
-192809,1,AFC Bournemouth,17,Chelsea,2,2,0,1,Vitality Stadium,City,England,Europe,Premier League,League,1,15,00,29,Saturday,02,2020
-193007,9,Newcastle United,8,Burnley,0,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,15,00,29,Saturday,02,2020
-193008,14,West Ham United,4,Southampton,3,1,2,1,London Stadium,City,England,Europe,Premier League,League,1,15,00,29,Saturday,02,2020
-193309,11,Watford,7,Liverpool,3,0,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,17,30,29,Saturday,02,2020
-193555,20,Everton,19,Manchester United,1,1,1,1,Goodison Park,City,England,Europe,Premier League,League,1,14,00,01,Sunday,03,2020
-193556,15,Tottenham Hotspur,497,Wolverhampton Wanderers,2,3,2,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,14,00,01,Sunday,03,2020
-194379,7,Liverpool,1,AFC Bournemouth,2,1,2,1,Anfield,City,England,Europe,Premier League,League,1,12,30,07,Saturday,03,2020
-194509,18,Arsenal,14,West Ham United,1,0,0,0,Emirates Stadium,City,England,Europe,Premier League,League,1,15,00,07,Saturday,03,2020
-194510,3,Crystal Palace,11,Watford,1,0,1,0,Selhurst Park,City,England,Europe,Premier League,League,1,15,00,07,Saturday,03,2020
-194511,281,Sheffield United,492,Norwich City,1,0,1,0,Bramall Lane,City,England,Europe,Premier League,League,1,15,00,07,Saturday,03,2020
-194512,4,Southampton,9,Newcastle United,0,1,0,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,00,07,Saturday,03,2020
-194513,497,Wolverhampton Wanderers,2,Brighton & Hove Albion,0,0,0,0,Molineux Stadium,City,England,Europe,Premier League,League,1,15,00,07,Saturday,03,2020
-194684,8,Burnley,15,Tottenham Hotspur,1,1,1,0,Turf Moor,City,England,Europe,Premier League,League,1,17,30,07,Saturday,03,2020
-194959,17,Chelsea,20,Everton,4,0,2,0,Stamford Bridge,City,England,Europe,Premier League,League,1,14,00,08,Sunday,03,2020
-195054,19,Manchester United,12,Manchester City,2,0,1,0,Old Trafford,City,England,Europe,Premier League,League,1,16,30,08,Sunday,03,2020
-195235,6,Leicester City,495,Aston Villa,4,0,1,0,King Power Stadium,City,England,Europe,Premier League,League,1,20,00,09,Monday,03,2020
-197737,495,Aston Villa,281,Sheffield United,0,0,0,0,Villa Park,City,England,Europe,Premier League,League,1,17,00,17,Wednesday,06,2020
-197789,12,Manchester City,18,Arsenal,3,0,1,0,Etihad Stadium,City,England,Europe,Premier League,League,1,19,15,17,Wednesday,06,2020
-197891,492,Norwich City,4,Southampton,0,3,0,0,Carrow Road,City,England,Europe,Premier League,League,1,17,00,19,Friday,06,2020
-197918,15,Tottenham Hotspur,19,Manchester United,1,1,1,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,19,15,19,Friday,06,2020
-197944,11,Watford,6,Leicester City,1,1,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,11,30,20,Saturday,06,2020
-197999,2,Brighton & Hove Albion,18,Arsenal,2,1,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,00,20,Saturday,06,2020
-198072,14,West Ham United,497,Wolverhampton Wanderers,0,2,0,0,London Stadium,City,England,Europe,Premier League,League,1,16,30,20,Saturday,06,2020
-198111,1,AFC Bournemouth,3,Crystal Palace,0,2,0,2,Vitality Stadium,City,England,Europe,Premier League,League,1,18,45,20,Saturday,06,2020
-198145,9,Newcastle United,281,Sheffield United,3,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,13,00,21,Sunday,06,2020
-198201,495,Aston Villa,17,Chelsea,1,2,1,0,Villa Park,City,England,Europe,Premier League,League,1,15,15,21,Sunday,06,2020
-198243,20,Everton,7,Liverpool,0,0,0,0,Goodison Park,City,England,Europe,Premier League,League,1,18,00,21,Sunday,06,2020
-198296,12,Manchester City,8,Burnley,5,0,3,0,Etihad Stadium,City,England,Europe,Premier League,League,1,19,00,22,Monday,06,2020
-198337,6,Leicester City,2,Brighton & Hove Albion,0,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,17,00,23,Tuesday,06,2020
-198372,15,Tottenham Hotspur,14,West Ham United,2,0,0,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,19,15,23,Tuesday,06,2020
-198447,19,Manchester United,281,Sheffield United,3,0,2,0,Old Trafford,City,England,Europe,Premier League,League,1,17,00,24,Wednesday,06,2020
-198448,9,Newcastle United,495,Aston Villa,1,1,0,0,St. James' Park,City,England,Europe,Premier League,League,1,17,00,24,Wednesday,06,2020
-198449,492,Norwich City,20,Everton,0,1,0,0,Carrow Road,City,England,Europe,Premier League,League,1,17,00,24,Wednesday,06,2020
-198450,497,Wolverhampton Wanderers,1,AFC Bournemouth,1,0,0,0,Molineux Stadium,City,England,Europe,Premier League,League,1,17,00,24,Wednesday,06,2020
-198500,7,Liverpool,3,Crystal Palace,4,0,2,0,Anfield,City,England,Europe,Premier League,League,1,19,15,24,Wednesday,06,2020
-198540,8,Burnley,11,Watford,1,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,17,00,25,Thursday,06,2020
-198541,4,Southampton,18,Arsenal,0,2,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,17,00,25,Thursday,06,2020
-198568,17,Chelsea,12,Manchester City,2,1,1,0,Stamford Bridge,City,England,Europe,Premier League,League,1,19,15,25,Thursday,06,2020
-198674,495,Aston Villa,497,Wolverhampton Wanderers,0,1,0,0,Villa Park,City,England,Europe,Premier League,League,1,11,30,27,Saturday,06,2020
-198966,11,Watford,4,Southampton,1,3,0,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,30,28,Sunday,06,2020
-199077,3,Crystal Palace,8,Burnley,0,1,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,19,00,29,Monday,06,2020
-199171,2,Brighton & Hove Albion,19,Manchester United,0,3,0,2,The American Express Community Stadium,City,England,Europe,Premier League,League,1,19,15,30,Tuesday,06,2020
-199245,1,AFC Bournemouth,9,Newcastle United,1,4,0,2,Vitality Stadium,City,England,Europe,Premier League,League,1,17,00,01,Wednesday,07,2020
-199246,18,Arsenal,492,Norwich City,4,0,2,0,Emirates Stadium,City,England,Europe,Premier League,League,1,17,00,01,Wednesday,07,2020
-199247,20,Everton,6,Leicester City,2,1,2,0,Goodison Park,City,England,Europe,Premier League,League,1,17,00,01,Wednesday,07,2020
-199321,14,West Ham United,17,Chelsea,3,2,1,1,London Stadium,City,England,Europe,Premier League,League,1,19,15,01,Wednesday,07,2020
-199359,281,Sheffield United,15,Tottenham Hotspur,3,1,1,0,Bramall Lane,City,England,Europe,Premier League,League,1,17,00,02,Thursday,07,2020
-199392,12,Manchester City,7,Liverpool,4,0,3,0,Etihad Stadium,City,England,Europe,Premier League,League,1,19,15,02,Thursday,07,2020
-199514,492,Norwich City,2,Brighton & Hove Albion,0,1,0,1,Carrow Road,City,England,Europe,Premier League,League,1,11,30,04,Saturday,07,2020
-199551,6,Leicester City,3,Crystal Palace,3,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,14,00,04,Saturday,07,2020
-199552,19,Manchester United,1,AFC Bournemouth,5,2,3,1,Old Trafford,City,England,Europe,Premier League,League,1,14,00,04,Saturday,07,2020
-199613,497,Wolverhampton Wanderers,18,Arsenal,0,2,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,16,30,04,Saturday,07,2020
-199647,17,Chelsea,11,Watford,3,0,2,0,Stamford Bridge,City,England,Europe,Premier League,League,1,19,00,04,Saturday,07,2020
-199675,8,Burnley,281,Sheffield United,1,1,1,0,Turf Moor,City,England,Europe,Premier League,League,1,11,00,05,Sunday,07,2020
-199692,9,Newcastle United,14,West Ham United,2,2,1,1,St. James' Park,City,England,Europe,Premier League,League,1,13,15,05,Sunday,07,2020
-199722,7,Liverpool,495,Aston Villa,2,0,0,0,Anfield,City,England,Europe,Premier League,League,1,15,30,05,Sunday,07,2020
-199767,4,Southampton,12,Manchester City,1,0,1,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,18,00,05,Sunday,07,2020
-199833,15,Tottenham Hotspur,20,Everton,1,0,1,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,19,00,06,Monday,07,2020
-199858,3,Crystal Palace,17,Chelsea,2,3,1,2,Selhurst Park,City,England,Europe,Premier League,League,1,17,00,07,Tuesday,07,2020
-199859,11,Watford,492,Norwich City,2,1,1,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,17,00,07,Tuesday,07,2020
-199887,18,Arsenal,6,Leicester City,1,1,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,19,15,07,Tuesday,07,2020
-199951,12,Manchester City,9,Newcastle United,5,0,2,0,Etihad Stadium,City,England,Europe,Premier League,League,1,17,00,08,Wednesday,07,2020
-199952,281,Sheffield United,497,Wolverhampton Wanderers,1,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,17,00,08,Wednesday,07,2020
-199953,14,West Ham United,8,Burnley,0,1,0,1,London Stadium,City,England,Europe,Premier League,League,1,17,00,08,Wednesday,07,2020
-199990,2,Brighton & Hove Albion,7,Liverpool,1,3,1,2,The American Express Community Stadium,City,England,Europe,Premier League,League,1,19,15,08,Wednesday,07,2020
-200026,1,AFC Bournemouth,15,Tottenham Hotspur,0,0,0,0,Vitality Stadium,City,England,Europe,Premier League,League,1,17,00,09,Thursday,07,2020
-200027,20,Everton,4,Southampton,1,1,1,1,Goodison Park,City,England,Europe,Premier League,League,1,17,00,09,Thursday,07,2020
-200052,495,Aston Villa,19,Manchester United,0,3,0,2,Villa Park,City,England,Europe,Premier League,League,1,19,15,09,Thursday,07,2020
-200182,492,Norwich City,14,West Ham United,0,4,0,2,Carrow Road,City,England,Europe,Premier League,League,1,11,30,11,Saturday,07,2020
-200183,11,Watford,9,Newcastle United,2,1,0,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,11,30,11,Saturday,07,2020
-200218,7,Liverpool,8,Burnley,1,1,1,0,Anfield,City,England,Europe,Premier League,League,1,14,00,11,Saturday,07,2020
-200290,281,Sheffield United,17,Chelsea,3,0,2,0,Bramall Lane,City,England,Europe,Premier League,League,1,16,30,11,Saturday,07,2020
-200320,2,Brighton & Hove Albion,12,Manchester City,0,5,0,2,The American Express Community Stadium,City,England,Europe,Premier League,League,1,19,00,11,Saturday,07,2020
-200354,497,Wolverhampton Wanderers,20,Everton,3,0,1,0,Molineux Stadium,City,England,Europe,Premier League,League,1,11,00,12,Sunday,07,2020
-200381,495,Aston Villa,3,Crystal Palace,2,0,1,0,Villa Park,City,England,Europe,Premier League,League,1,13,15,12,Sunday,07,2020
-200426,15,Tottenham Hotspur,18,Arsenal,2,1,1,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,30,12,Sunday,07,2020
-200471,1,AFC Bournemouth,6,Leicester City,4,1,0,1,Vitality Stadium,City,England,Europe,Premier League,League,1,18,00,12,Sunday,07,2020
-200556,19,Manchester United,4,Southampton,2,2,2,1,Old Trafford,City,England,Europe,Premier League,League,1,19,00,13,Monday,07,2020
-200628,17,Chelsea,492,Norwich City,1,0,1,0,Stamford Bridge,City,England,Europe,Premier League,League,1,19,15,14,Tuesday,07,2020
-200708,8,Burnley,497,Wolverhampton Wanderers,1,1,0,0,Turf Moor,City,England,Europe,Premier League,League,1,17,00,15,Wednesday,07,2020
-200709,12,Manchester City,1,AFC Bournemouth,2,1,2,0,Etihad Stadium,City,England,Europe,Premier League,League,1,17,00,15,Wednesday,07,2020
-200710,9,Newcastle United,15,Tottenham Hotspur,1,3,0,1,St. James' Park,City,England,Europe,Premier League,League,1,17,00,15,Wednesday,07,2020
-200752,18,Arsenal,7,Liverpool,2,1,2,1,Emirates Stadium,City,England,Europe,Premier League,League,1,19,15,15,Wednesday,07,2020
-200784,20,Everton,495,Aston Villa,1,1,0,0,Goodison Park,City,England,Europe,Premier League,League,1,17,00,16,Thursday,07,2020
-200785,6,Leicester City,281,Sheffield United,2,0,1,0,King Power Stadium,City,England,Europe,Premier League,League,1,17,00,16,Thursday,07,2020
-200810,3,Crystal Palace,19,Manchester United,0,2,0,1,Selhurst Park,City,England,Europe,Premier League,League,1,19,15,16,Thursday,07,2020
-200811,4,Southampton,2,Brighton & Hove Albion,1,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,19,15,16,Thursday,07,2020
-200876,14,West Ham United,11,Watford,3,1,3,0,London Stadium,City,England,Europe,Premier League,League,1,19,00,17,Friday,07,2020
-201058,492,Norwich City,8,Burnley,0,2,0,1,Carrow Road,City,England,Europe,Premier League,League,1,16,30,18,Saturday,07,2020
-201143,1,AFC Bournemouth,4,Southampton,0,2,0,1,Vitality Stadium,City,England,Europe,Premier League,League,1,13,00,19,Sunday,07,2020
-201180,15,Tottenham Hotspur,6,Leicester City,3,0,3,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,00,19,Sunday,07,2020
-201299,2,Brighton & Hove Albion,9,Newcastle United,0,0,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,17,00,20,Monday,07,2020
-201300,281,Sheffield United,20,Everton,0,1,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,17,00,20,Monday,07,2020
-201317,497,Wolverhampton Wanderers,3,Crystal Palace,2,0,1,0,Molineux Stadium,City,England,Europe,Premier League,League,1,19,15,20,Monday,07,2020
-201345,11,Watford,12,Manchester City,0,4,0,2,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,17,00,21,Tuesday,07,2020
-201358,495,Aston Villa,18,Arsenal,1,0,1,0,Villa Park,City,England,Europe,Premier League,League,1,19,15,21,Tuesday,07,2020
-201430,19,Manchester United,14,West Ham United,1,1,0,1,Old Trafford,City,England,Europe,Premier League,League,1,17,00,22,Wednesday,07,2020
-201470,7,Liverpool,17,Chelsea,5,3,3,1,Anfield,City,England,Europe,Premier League,League,1,19,15,22,Wednesday,07,2020
-201870,18,Arsenal,11,Watford,3,2,3,1,Emirates Stadium,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
-201871,8,Burnley,2,Brighton & Hove Albion,1,2,1,1,Turf Moor,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
-201872,17,Chelsea,497,Wolverhampton Wanderers,2,0,2,0,Stamford Bridge,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
-201873,3,Crystal Palace,15,Tottenham Hotspur,1,1,0,1,Selhurst Park,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
-201874,20,Everton,1,AFC Bournemouth,1,3,1,2,Goodison Park,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
-201875,6,Leicester City,19,Manchester United,0,2,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
-201876,12,Manchester City,492,Norwich City,5,0,2,0,Etihad Stadium,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
-201877,9,Newcastle United,7,Liverpool,1,3,1,1,St. James' Park,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
-201878,4,Southampton,281,Sheffield United,3,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
-201879,14,West Ham United,495,Aston Villa,1,1,0,0,London Stadium,City,England,Europe,Premier League,League,1,15,00,26,Sunday,07,2020
+match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht_goals,away_ht_goals,stadium_name,city,country,continent,competition_name,type,tier,hour,minute,day,dayofweek,month,year,got_stats,home_yc,away_yc,home_rc,away_rc,home_possession,away_possession,home_shots,away_shots,home_shots_on_target,away_shots_on_target,home_fouls,away_fouls,home_attacks,away_attacks
+152587,7,Liverpool,492,Norwich City,4,1,0,0,Anfield,City,England,Europe,Premier League,League,1,19,0,9,Friday,8,2019,T,,,,,,,,,,,,,,
+152653,14,West Ham United,12,Manchester City,0,5,0,1,,City,England,Europe,Premier League,League,1,11,30,10,Saturday,8,2019,T,,,,,,,,,,,,,,
+152730,1,AFC Bournemouth,281,Sheffield United,1,1,0,0,,City,England,Europe,Premier League,League,1,14,0,10,Saturday,8,2019,T,,,,,,,,,,,,,,
+152731,8,Burnley,4,Southampton,3,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,14,0,10,Saturday,8,2019,T,,,,,,,,,,,,,,
+152732,3,Crystal Palace,20,Everton,0,0,0,0,,City,England,Europe,Premier League,League,1,14,0,10,Saturday,8,2019,T,,,,,,,,,,,,,,
+152733,11,Watford,2,Brighton Hove Albion,0,3,0,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,14,0,10,Saturday,8,2019,T,,,,,,,,,,,,,,
+152906,15,Tottenham Hotspur,495,Aston Villa,3,1,0,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,16,30,10,Saturday,8,2019,T,,,,,,,,,,,,,,
+153107,6,Leicester City,497,Wolverhampton Wanderers,0,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,13,0,11,Sunday,8,2019,T,,,,,,,,,,,,,,
+153108,9,Newcastle United,18,Arsenal,0,1,0,0,St. James' Park,City,England,Europe,Premier League,League,1,13,0,11,Sunday,8,2019,T,,,,,,,,,,,,,,
+153181,19,Manchester United,17,Chelsea,4,0,1,0,Old Trafford,City,England,Europe,Premier League,League,1,15,30,11,Sunday,8,2019,T,,,,,,,,,,,,,,
+154078,18,Arsenal,8,Burnley,2,1,1,1,Emirates Stadium,City,England,Europe,Premier League,League,1,11,30,17,Saturday,8,2019,T,,,,,,,,,,,,,,
+154144,495,Aston Villa,1,AFC Bournemouth,1,2,0,2,,City,England,Europe,Premier League,League,1,14,0,17,Saturday,8,2019,T,,,,,,,,,,,,,,
+154145,2,Brighton Hove Albion,14,West Ham United,1,1,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,0,17,Saturday,8,2019,T,,,,,,,,,,,,,,
+154146,20,Everton,11,Watford,1,0,1,0,Goodison Park,City,England,Europe,Premier League,League,1,14,0,17,Saturday,8,2019,T,,,,,,,,,,,,,,
+154147,492,Norwich City,9,Newcastle United,3,1,1,0,,City,England,Europe,Premier League,League,1,14,0,17,Saturday,8,2019,T,,,,,,,,,,,,,,
+154148,4,Southampton,7,Liverpool,1,2,0,1,,City,England,Europe,Premier League,League,1,14,0,17,Saturday,8,2019,T,,,,,,,,,,,,,,
+154312,12,Manchester City,15,Tottenham Hotspur,2,2,2,1,Etihad Stadium,City,England,Europe,Premier League,League,1,16,30,17,Saturday,8,2019,T,,,,,,,,,,,,,,
+154521,281,Sheffield United,3,Crystal Palace,1,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,13,0,18,Sunday,8,2019,T,,,,,,,,,,,,,,
+154598,17,Chelsea,6,Leicester City,1,1,1,0,,City,England,Europe,Premier League,League,1,15,30,18,Sunday,8,2019,T,,,,,,,,,,,,,,
+154792,497,Wolverhampton Wanderers,19,Manchester United,1,1,0,1,,City,England,Europe,Premier League,League,1,19,0,19,Monday,8,2019,T,,,,,,,,,,,,,,
+155216,495,Aston Villa,20,Everton,2,0,1,0,Villa Park,City,England,Europe,Premier League,League,1,19,0,23,Friday,8,2019,T,,,,,,,,,,,,,,
+155293,492,Norwich City,17,Chelsea,2,3,2,2,,City,England,Europe,Premier League,League,1,11,30,24,Saturday,8,2019,T,,,,,,,,,,,,,,
+155372,2,Brighton Hove Albion,4,Southampton,0,2,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,0,24,Saturday,8,2019,T,,,,,,,,,,,,,,
+155373,19,Manchester United,3,Crystal Palace,1,2,0,1,,City,England,Europe,Premier League,League,1,14,0,24,Saturday,8,2019,T,,,,,,,,,,,,,,
+155374,281,Sheffield United,6,Leicester City,1,2,0,1,,City,England,Europe,Premier League,League,1,14,0,24,Saturday,8,2019,T,,,,,,,,,,,,,,
+155375,11,Watford,14,West Ham United,1,3,1,1,,City,England,Europe,Premier League,League,1,14,0,24,Saturday,8,2019,T,,,,,,,,,,,,,,
+155580,7,Liverpool,18,Arsenal,3,1,1,0,Anfield,City,England,Europe,Premier League,League,1,16,30,24,Saturday,8,2019,T,,,,,,,,,,,,,,
+155811,1,AFC Bournemouth,12,Manchester City,1,3,1,2,Vitality Stadium,City,England,Europe,Premier League,League,1,13,0,25,Sunday,8,2019,T,,,,,,,,,,,,,,
+155932,15,Tottenham Hotspur,9,Newcastle United,0,1,0,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,30,25,Sunday,8,2019,T,,,,,,,,,,,,,,
+155933,497,Wolverhampton Wanderers,8,Burnley,1,1,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,15,30,25,Sunday,8,2019,T,,,,,,,,,,,,,,
+156859,4,Southampton,19,Manchester United,1,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,11,30,31,Saturday,8,2019,T,,,,,,,,,,,,,,
+156944,17,Chelsea,281,Sheffield United,2,2,2,0,,City,England,Europe,Premier League,League,1,14,0,31,Saturday,8,2019,T,,,,,,,,,,,,,,
+156945,3,Crystal Palace,495,Aston Villa,1,0,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,14,0,31,Saturday,8,2019,T,,,,,,,,,,,,,,
+156946,6,Leicester City,1,AFC Bournemouth,3,1,2,1,,City,England,Europe,Premier League,League,1,14,0,31,Saturday,8,2019,T,,,,,,,,,,,,,,
+156947,12,Manchester City,2,Brighton Hove Albion,4,0,2,0,Etihad Stadium,City,England,Europe,Premier League,League,1,14,0,31,Saturday,8,2019,T,,,,,,,,,,,,,,
+156948,9,Newcastle United,11,Watford,1,1,1,1,St. James' Park,City,England,Europe,Premier League,League,1,14,0,31,Saturday,8,2019,T,,,,,,,,,,,,,,
+156949,14,West Ham United,492,Norwich City,2,0,1,0,,City,England,Europe,Premier League,League,1,14,0,31,Saturday,8,2019,T,,,,,,,,,,,,,,
+157169,8,Burnley,7,Liverpool,0,3,0,2,,City,England,Europe,Premier League,League,1,16,30,31,Saturday,8,2019,T,,,,,,,,,,,,,,
+157413,20,Everton,497,Wolverhampton Wanderers,3,2,2,1,Goodison Park,City,England,Europe,Premier League,League,1,13,0,1,Sunday,9,2019,T,,,,,,,,,,,,,,
+157537,18,Arsenal,15,Tottenham Hotspur,2,2,1,2,Emirates Stadium,City,England,Europe,Premier League,League,1,15,30,1,Sunday,9,2019,T,,,,,,,,,,,,,,
+159010,7,Liverpool,9,Newcastle United,3,1,2,1,,City,England,Europe,Premier League,League,1,11,30,14,Saturday,9,2019,T,,,,,,,,,,,,,,
+159270,2,Brighton Hove Albion,8,Burnley,1,1,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,0,14,Saturday,9,2019,T,,,,,,,,,,,,,,
+159272,19,Manchester United,6,Leicester City,1,0,1,0,,City,England,Europe,Premier League,League,1,14,0,14,Saturday,9,2019,T,,,,,,,,,,,,,,
+159275,281,Sheffield United,4,Southampton,0,1,0,0,,City,England,Europe,Premier League,League,1,14,0,14,Saturday,9,2019,T,,,,,,,,,,,,,,
+159278,15,Tottenham Hotspur,3,Crystal Palace,4,0,4,0,,City,England,Europe,Premier League,League,1,14,0,14,Saturday,9,2019,T,,,,,,,,,,,,,,
+159280,497,Wolverhampton Wanderers,17,Chelsea,2,5,0,3,,City,England,Europe,Premier League,League,1,14,0,14,Saturday,9,2019,T,,,,,,,,,,,,,,
+159835,492,Norwich City,12,Manchester City,3,2,2,1,Carrow Road,City,England,Europe,Premier League,League,1,16,30,14,Saturday,9,2019,T,,,,,,,,,,,,,,
+160213,1,AFC Bournemouth,20,Everton,3,1,1,1,,City,England,Europe,Premier League,League,1,13,0,15,Sunday,9,2019,T,,,,,,,,,,,,,,
+160541,11,Watford,18,Arsenal,2,2,0,2,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,30,15,Sunday,9,2019,T,,,,,,,,,,,,,,
+160889,495,Aston Villa,14,West Ham United,0,0,0,0,Villa Park,City,England,Europe,Premier League,League,1,19,0,16,Monday,9,2019,T,,,,,,,,,,,,,,
+161308,4,Southampton,1,AFC Bournemouth,1,3,0,2,,City,England,Europe,Premier League,League,1,19,0,20,Friday,9,2019,T,,,,,,,,,,,,,,
+161376,6,Leicester City,15,Tottenham Hotspur,2,1,0,1,,City,England,Europe,Premier League,League,1,11,30,21,Saturday,9,2019,T,,,,,,,,,,,,,,
+161483,8,Burnley,492,Norwich City,2,0,2,0,,City,England,Europe,Premier League,League,1,14,0,21,Saturday,9,2019,T,,,,,,,,,,,,,,
+161484,20,Everton,281,Sheffield United,0,2,0,1,,City,England,Europe,Premier League,League,1,14,0,21,Saturday,9,2019,T,,,,,,,,,,,,,,
+161485,12,Manchester City,11,Watford,8,0,5,0,,City,England,Europe,Premier League,League,1,14,0,21,Saturday,9,2019,T,,,,,,,,,,,,,,
+161723,9,Newcastle United,2,Brighton & Hove Albion,0,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,16,30,21,Saturday,9,2019,T,,,,,,,,,,,,,,
+161954,3,Crystal Palace,497,Wolverhampton Wanderers,1,1,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,13,0,22,Sunday,9,2019,T,,,,,,,,,,,,,,
+161955,14,West Ham United,19,Manchester United,2,0,1,0,London Stadium,City,England,Europe,Premier League,League,1,13,0,22,Sunday,9,2019,T,,,,,,,,,,,,,,
+162055,18,Arsenal,495,Aston Villa,3,2,0,1,,City,England,Europe,Premier League,League,1,15,30,22,Sunday,9,2019,T,,,,,,,,,,,,,,
+162056,17,Chelsea,7,Liverpool,1,2,0,2,Stamford Bridge,City,England,Europe,Premier League,League,1,15,30,22,Sunday,9,2019,T,,,,,,,,,,,,,,
+163011,281,Sheffield United,7,Liverpool,0,1,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,11,30,28,Saturday,9,2019,T,,,,,,,,,,,,,,
+163110,1,AFC Bournemouth,14,West Ham United,2,2,1,1,,City,England,Europe,Premier League,League,1,14,0,28,Saturday,9,2019,T,,,,,,,,,,,,,,
+163111,495,Aston Villa,8,Burnley,2,2,1,0,,City,England,Europe,Premier League,League,1,14,0,28,Saturday,9,2019,T,,,,,,,,,,,,,,
+163112,17,Chelsea,2,Brighton & Hove Albion,2,0,0,0,Stamford Bridge,City,England,Europe,Premier League,League,1,14,0,28,Saturday,9,2019,T,,,,,,,,,,,,,,
+163113,3,Crystal Palace,492,Norwich City,2,0,1,0,,City,England,Europe,Premier League,League,1,14,0,28,Saturday,9,2019,T,,,,,,,,,,,,,,
+163114,15,Tottenham Hotspur,4,Southampton,2,1,2,1,,City,England,Europe,Premier League,League,1,14,0,28,Saturday,9,2019,T,,,,,,,,,,,,,,
+163115,497,Wolverhampton Wanderers,11,Watford,2,0,1,0,,City,England,Europe,Premier League,League,1,14,0,28,Saturday,9,2019,T,,,,,,,,,,,,,,
+163666,6,Leicester City,9,Newcastle United,5,0,1,0,King Power Stadium,City,England,Europe,Premier League,League,1,15,30,29,Sunday,9,2019,T,,,,,,,,,,,,,,
+163924,19,Manchester United,18,Arsenal,1,1,1,0,Old Trafford,City,England,Europe,Premier League,League,1,19,0,30,Monday,9,2019,T,,,,,,,,,,,,,,
+164367,2,Brighton & Hove Albion,15,Tottenham Hotspur,3,0,2,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,11,30,5,Saturday,10,2019,T,,,,,,,,,,,,,,
+164456,8,Burnley,20,Everton,1,0,0,0,,City,England,Europe,Premier League,League,1,14,0,5,Saturday,10,2019,T,,,,,,,,,,,,,,
+164457,7,Liverpool,6,Leicester City,2,1,1,0,,City,England,Europe,Premier League,League,1,14,0,5,Saturday,10,2019,T,,,,,,,,,,,,,,
+164458,492,Norwich City,495,Aston Villa,1,5,0,2,,City,England,Europe,Premier League,League,1,14,0,5,Saturday,10,2019,T,,,,,,,,,,,,,,
+164459,11,Watford,281,Sheffield United,0,0,0,0,,City,England,Europe,Premier League,League,1,14,0,5,Saturday,10,2019,T,,,,,,,,,,,,,,
+164611,14,West Ham United,3,Crystal Palace,1,2,0,0,,City,England,Europe,Premier League,League,1,16,30,5,Saturday,10,2019,T,,,,,,,,,,,,,,
+164822,18,Arsenal,1,AFC Bournemouth,1,0,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,13,0,6,Sunday,10,2019,T,,,,,,,,,,,,,,
+164823,12,Manchester City,497,Wolverhampton Wanderers,0,2,0,0,Etihad Stadium,City,England,Europe,Premier League,League,1,13,0,6,Sunday,10,2019,T,,,,,,,,,,,,,,
+164824,4,Southampton,17,Chelsea,1,4,1,3,St. Mary's Stadium,City,England,Europe,Premier League,League,1,13,0,6,Sunday,10,2019,T,,,,,,,,,,,,,,
+164922,9,Newcastle United,19,Manchester United,1,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,15,30,6,Sunday,10,2019,T,,,,,,,,,,,,,,
+166437,20,Everton,14,West Ham United,2,0,1,0,,City,England,Europe,Premier League,League,1,11,30,19,Saturday,10,2019,T,,,,,,,,,,,,,,
+166646,1,AFC Bournemouth,492,Norwich City,0,0,0,0,,City,England,Europe,Premier League,League,1,14,0,19,Saturday,10,2019,T,,,,,,,,,,,,,,
+166647,495,Aston Villa,2,Brighton & Hove Albion,2,1,1,1,Villa Park,City,England,Europe,Premier League,League,1,14,0,19,Saturday,10,2019,T,,,,,,,,,,,,,,
+166648,17,Chelsea,9,Newcastle United,1,0,0,0,,City,England,Europe,Premier League,League,1,14,0,19,Saturday,10,2019,T,,,,,,,,,,,,,,
+166649,6,Leicester City,8,Burnley,2,1,1,1,,City,England,Europe,Premier League,League,1,14,0,19,Saturday,10,2019,T,,,,,,,,,,,,,,
+166650,15,Tottenham Hotspur,11,Watford,1,1,0,1,,City,England,Europe,Premier League,League,1,14,0,19,Saturday,10,2019,T,,,,,,,,,,,,,,
+166651,497,Wolverhampton Wanderers,4,Southampton,1,1,0,0,Molineux Stadium,City,England,Europe,Premier League,League,1,14,0,19,Saturday,10,2019,T,,,,,,,,,,,,,,
+166869,3,Crystal Palace,12,Manchester City,0,2,0,2,Selhurst Park,City,England,Europe,Premier League,League,1,16,30,19,Saturday,10,2019,T,,,,,,,,,,,,,,
+167271,19,Manchester United,7,Liverpool,1,1,1,0,,City,England,Europe,Premier League,League,1,15,30,20,Sunday,10,2019,T,,,,,,,,,,,,,,
+167457,281,Sheffield United,18,Arsenal,1,0,1,0,,City,England,Europe,Premier League,League,1,19,0,21,Monday,10,2019,T,,,,,,,,,,,,,,
+167970,4,Southampton,6,Leicester City,0,9,0,5,,City,England,Europe,Premier League,League,1,19,0,25,Friday,10,2019,T,,,,,,,,,,,,,,
+168084,12,Manchester City,495,Aston Villa,3,0,0,0,,City,England,Europe,Premier League,League,1,11,30,26,Saturday,10,2019,T,,,,,,,,,,,,,,
+168220,2,Brighton & Hove Albion,20,Everton,3,2,1,1,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,0,26,Saturday,10,2019,T,,,,,,,,,,,,,,
+168221,11,Watford,1,AFC Bournemouth,0,0,0,0,,City,England,Europe,Premier League,League,1,14,0,26,Saturday,10,2019,T,,,,,,,,,,,,,,
+168222,14,West Ham United,281,Sheffield United,1,1,1,0,,City,England,Europe,Premier League,League,1,14,0,26,Saturday,10,2019,T,,,,,,,,,,,,,,
+168380,8,Burnley,17,Chelsea,2,4,0,2,Turf Moor,City,England,Europe,Premier League,League,1,16,30,26,Saturday,10,2019,T,,,,,,,,,,,,,,
+168644,9,Newcastle United,497,Wolverhampton Wanderers,1,1,1,0,St. James' Park,City,England,Europe,Premier League,League,1,14,0,27,Sunday,10,2019,T,,,,,,,,,,,,,,
+168759,18,Arsenal,3,Crystal Palace,2,2,2,1,Emirates Stadium,City,England,Europe,Premier League,League,1,16,30,27,Sunday,10,2019,T,,,,,,,,,,,,,,
+168760,7,Liverpool,15,Tottenham Hotspur,2,1,0,1,,City,England,Europe,Premier League,League,1,16,30,27,Sunday,10,2019,T,,,,,,,,,,,,,,
+168761,492,Norwich City,19,Manchester United,1,3,0,2,Carrow Road,City,England,Europe,Premier League,League,1,16,30,27,Sunday,10,2019,T,,,,,,,,,,,,,,
+169671,1,AFC Bournemouth,19,Manchester United,1,0,1,0,Vitality Stadium,City,England,Europe,Premier League,League,1,12,30,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169770,18,Arsenal,497,Wolverhampton Wanderers,1,1,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169771,495,Aston Villa,7,Liverpool,1,2,1,0,Villa Park,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169772,2,Brighton & Hove Albion,492,Norwich City,2,0,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169773,12,Manchester City,4,Southampton,2,1,0,1,Etihad Stadium,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169774,281,Sheffield United,8,Burnley,3,0,3,0,Bramall Lane,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169775,14,West Ham United,9,Newcastle United,2,3,0,2,London Stadium,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169933,11,Watford,17,Chelsea,1,2,0,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,17,30,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169987,1,AFC Bournemouth,19,Manchester United,1,0,0,0,Vitality Stadium,City,England,Europe,Premier League,League,1,12,30,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169988,18,Arsenal,497,Wolverhampton Wanderers,1,1,0,0,Emirates Stadium,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169989,495,Aston Villa,7,Liverpool,1,2,0,0,Villa Park,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169990,2,Brighton & Hove Albion,492,Norwich City,2,0,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169991,12,Manchester City,4,Southampton,2,1,0,0,Etihad Stadium,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169992,281,Sheffield United,8,Burnley,3,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+169993,14,West Ham United,9,Newcastle United,2,3,0,0,London Stadium,City,England,Europe,Premier League,League,1,15,0,2,Saturday,11,2019,T,,,,,,,,,,,,,,
+170500,3,Crystal Palace,6,Leicester City,0,2,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,14,0,3,Sunday,11,2019,T,,,,,,,,,,,,,,
+170630,20,Everton,15,Tottenham Hotspur,1,1,0,0,Goodison Park,City,England,Europe,Premier League,League,1,16,30,3,Sunday,11,2019,T,,,,,,,,,,,,,,
+170888,3,Crystal Palace,6,Leicester City,0,2,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,14,0,3,Sunday,11,2019,T,,,,,,,,,,,,,,
+170889,20,Everton,15,Tottenham Hotspur,1,1,0,0,Goodison Park,City,England,Europe,Premier League,League,1,16,30,3,Sunday,11,2019,T,,,,,,,,,,,,,,
+171483,492,Norwich City,11,Watford,0,2,0,1,Carrow Road,City,England,Europe,Premier League,League,1,20,0,8,Friday,11,2019,T,,,,,,,,,,,,,,
+171607,17,Chelsea,3,Crystal Palace,2,0,0,0,Stamford Bridge,City,England,Europe,Premier League,League,1,12,30,9,Saturday,11,2019,T,,,,,,,,,,,,,,
+171713,8,Burnley,14,West Ham United,3,0,2,0,Turf Moor,City,England,Europe,Premier League,League,1,15,0,9,Saturday,11,2019,T,,,,,,,,,,,,,,
+171714,9,Newcastle United,1,AFC Bournemouth,2,1,1,1,St. James' Park,City,England,Europe,Premier League,League,1,15,0,9,Saturday,11,2019,T,,,,,,,,,,,,,,
+171715,4,Southampton,20,Everton,1,2,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,0,9,Saturday,11,2019,T,,,,,,,,,,,,,,
+171716,15,Tottenham Hotspur,281,Sheffield United,1,1,0,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,0,9,Saturday,11,2019,T,,,,,,,,,,,,,,
+171865,6,Leicester City,18,Arsenal,2,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,17,30,9,Saturday,11,2019,T,,,,,,,,,,,,,,
+172143,19,Manchester United,2,Brighton & Hove Albion,3,1,2,0,Old Trafford,City,England,Europe,Premier League,League,1,14,0,10,Sunday,11,2019,T,,,,,,,,,,,,,,
+172144,497,Wolverhampton Wanderers,495,Aston Villa,2,1,1,0,Molineux Stadium,City,England,Europe,Premier League,League,1,14,0,10,Sunday,11,2019,T,,,,,,,,,,,,,,
+172252,7,Liverpool,12,Manchester City,3,1,2,0,Anfield,City,England,Europe,Premier League,League,1,16,30,10,Sunday,11,2019,T,0,2,0,0,48,52,9.0,11.0,5,3,10,5,82,91
+173567,14,West Ham United,15,Tottenham Hotspur,2,3,0,2,London Stadium,City,England,Europe,Premier League,League,1,12,30,23,Saturday,11,2019,T,,,,,,,,,,,,,,
+173659,1,AFC Bournemouth,497,Wolverhampton Wanderers,1,2,0,2,Vitality Stadium,City,England,Europe,Premier League,League,1,15,0,23,Saturday,11,2019,T,,,,,,,,,,,,,,
+173660,18,Arsenal,4,Southampton,2,2,1,1,Emirates Stadium,City,England,Europe,Premier League,League,1,15,0,23,Saturday,11,2019,T,6,2,0,0,61,39,7.0,17.0,5,6,13,18,103,80
+173661,2,Brighton & Hove Albion,6,Leicester City,0,2,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,0,23,Saturday,11,2019,T,,,,,,,,,,,,,,
+173662,3,Crystal Palace,7,Liverpool,1,2,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,15,0,23,Saturday,11,2019,T,,,,,,,,,,,,,,
+173663,20,Everton,492,Norwich City,0,2,0,0,Goodison Park,City,England,Europe,Premier League,League,1,15,0,23,Saturday,11,2019,T,,,,,,,,,,,,,,
+173664,11,Watford,8,Burnley,0,3,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,0,23,Saturday,11,2019,T,,,,,,,,,,,,,,
+173801,12,Manchester City,17,Chelsea,2,1,2,1,Etihad Stadium,City,England,Europe,Premier League,League,1,17,30,23,Saturday,11,2019,T,1,1,0,0,47,53,11.0,8.0,4,2,5,8,111,93
+174134,281,Sheffield United,19,Manchester United,3,3,1,0,Bramall Lane,City,England,Europe,Premier League,League,1,16,30,24,Sunday,11,2019,T,1,2,0,0,41,59,9.0,9.0,8,5,11,10,90,104
+174268,495,Aston Villa,9,Newcastle United,2,0,2,0,Villa Park,City,England,Europe,Premier League,League,1,20,0,25,Monday,11,2019,T,1,1,0,0,66,34,13.0,8.0,8,6,10,9,97,79
+174738,9,Newcastle United,12,Manchester City,2,2,1,1,St. James' Park,City,England,Europe,Premier League,League,1,12,30,30,Saturday,11,2019,T,1,2,0,0,19,81,6.0,14.0,3,6,4,6,80,121
+174818,8,Burnley,3,Crystal Palace,0,2,0,1,Turf Moor,City,England,Europe,Premier League,League,1,15,0,30,Saturday,11,2019,T,0,0,0,0,43,57,2.0,2.0,1,1,3,1,39,41
+174819,17,Chelsea,14,West Ham United,0,1,0,0,Stamford Bridge,City,England,Europe,Premier League,League,1,15,0,30,Saturday,11,2019,T,0,0,0,0,64,36,6.0,2.0,3,1,1,7,41,47
+174820,7,Liverpool,2,Brighton & Hove Albion,2,1,2,0,Anfield,City,England,Europe,Premier League,League,1,15,0,30,Saturday,11,2019,T,0,0,0,0,57,43,7.0,3.0,6,1,1,8,54,43
+174821,15,Tottenham Hotspur,1,AFC Bournemouth,3,2,1,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,0,30,Saturday,11,2019,T,,,,,,,,,,,,,,
+174959,4,Southampton,11,Watford,2,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,17,30,30,Saturday,11,2019,T,,,,,,,,,,,,,,
+175196,492,Norwich City,18,Arsenal,2,2,2,1,Carrow Road,City,England,Europe,Premier League,League,1,14,0,1,Sunday,12,2019,T,2,1,0,0,40,60,12.0,8.0,8,7,6,11,72,96
+175197,497,Wolverhampton Wanderers,281,Sheffield United,1,1,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,14,0,1,Sunday,12,2019,T,,,,,,,,,,,,,,
+175295,6,Leicester City,20,Everton,2,1,0,1,King Power Stadium,City,England,Europe,Premier League,League,1,16,30,1,Sunday,12,2019,T,,,,,,,,,,,,,,
+175296,19,Manchester United,495,Aston Villa,2,2,1,1,Old Trafford,City,England,Europe,Premier League,League,1,16,30,1,Sunday,12,2019,T,4,1,0,0,62,38,10.0,7.0,5,4,16,8,88,62
+175503,3,Crystal Palace,1,AFC Bournemouth,1,0,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,19,30,3,Tuesday,12,2019,T,,,,,,,,,,,,,,
+175538,8,Burnley,12,Manchester City,1,4,0,1,Turf Moor,City,England,Europe,Premier League,League,1,20,15,3,Tuesday,12,2019,T,1,1,0,0,24,76,2.0,12.0,2,8,9,6,74,129
+175648,17,Chelsea,495,Aston Villa,2,1,1,1,Stamford Bridge,City,England,Europe,Premier League,League,1,19,30,4,Wednesday,12,2019,T,2,1,0,0,66,34,17.0,8.0,11,6,18,10,89,83
+175649,6,Leicester City,11,Watford,2,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,19,30,4,Wednesday,12,2019,T,3,2,0,0,63,37,8.0,2.0,4,1,13,15,113,109
+175650,19,Manchester United,15,Tottenham Hotspur,2,1,1,1,Old Trafford,City,England,Europe,Premier League,League,1,19,30,4,Wednesday,12,2019,T,0,1,0,0,50,50,10.0,6.0,6,5,10,6,104,109
+175651,4,Southampton,492,Norwich City,2,1,2,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,19,30,4,Wednesday,12,2019,T,,,,,,,,,,,,,,
+175652,497,Wolverhampton Wanderers,14,West Ham United,2,0,1,0,Molineux Stadium,City,England,Europe,Premier League,League,1,19,30,4,Wednesday,12,2019,T,,,,,,,,,,,,,,
+175668,7,Liverpool,20,Everton,5,2,4,2,Anfield,City,England,Europe,Premier League,League,1,20,15,4,Wednesday,12,2019,T,1,2,0,0,60,40,8.0,10.0,5,4,13,17,96,79
+175726,281,Sheffield United,9,Newcastle United,0,2,0,1,Bramall Lane,City,England,Europe,Premier League,League,1,19,30,5,Thursday,12,2019,T,1,0,0,0,73,27,8.0,1.0,6,1,6,5,81,51
+175735,18,Arsenal,2,Brighton & Hove Albion,1,2,0,1,Emirates Stadium,City,England,Europe,Premier League,League,1,20,15,5,Thursday,12,2019,T,3,1,0,0,49,51,8.0,12.0,5,10,11,12,89,83
+175890,20,Everton,17,Chelsea,3,1,1,0,Goodison Park,City,England,Europe,Premier League,League,1,12,30,7,Saturday,12,2019,T,3,0,0,0,31,69,9.0,9.0,7,3,13,10,79,113
+175971,1,AFC Bournemouth,7,Liverpool,0,3,0,2,Vitality Stadium,City,England,Europe,Premier League,League,1,15,0,7,Saturday,12,2019,T,,,,,,,,,,,,,,
+175972,15,Tottenham Hotspur,8,Burnley,5,0,3,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,0,7,Saturday,12,2019,T,,,,,,,,,,,,,,
+175973,11,Watford,3,Crystal Palace,0,0,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,0,7,Saturday,12,2019,T,,,,,,,,,,,,,,
+176121,12,Manchester City,19,Manchester United,1,2,0,2,Etihad Stadium,City,England,Europe,Premier League,League,1,17,30,7,Saturday,12,2019,T,1,0,0,0,65,35,7.0,7.0,2,5,1,5,73,29
+176319,495,Aston Villa,6,Leicester City,1,4,1,2,Villa Park,City,England,Europe,Premier League,League,1,14,0,8,Sunday,12,2019,T,6,2,0,0,43,57,7.0,14.0,1,8,22,16,81,89
+176320,9,Newcastle United,4,Southampton,2,1,0,0,St. James' Park,City,England,Europe,Premier League,League,1,14,0,8,Sunday,12,2019,T,0,1,0,0,40,60,2.0,4.0,1,2,4,6,38,45
+176321,492,Norwich City,281,Sheffield United,1,2,1,0,Carrow Road,City,England,Europe,Premier League,League,1,14,0,8,Sunday,12,2019,T,0,2,0,0,52,48,3.0,3.0,3,1,1,2,50,53
+176422,2,Brighton & Hove Albion,497,Wolverhampton Wanderers,2,2,2,2,The American Express Community Stadium,City,England,Europe,Premier League,League,1,16,30,8,Sunday,12,2019,T,2,0,0,0,65,35,9.0,7.0,4,5,6,6,95,84
+176533,14,West Ham United,18,Arsenal,1,3,1,0,London Stadium,City,England,Europe,Premier League,League,1,20,0,9,Monday,12,2019,T,2,0,0,0,36,64,8.0,6.0,5,3,12,6,95,107
+176831,7,Liverpool,11,Watford,2,0,1,0,Anfield,City,England,Europe,Premier League,League,1,12,30,14,Saturday,12,2019,T,2,1,0,0,69,31,11.0,7.0,5,3,9,4,117,78
+176897,8,Burnley,9,Newcastle United,1,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,15,0,14,Saturday,12,2019,T,,,,,,,,,,,,,,
+176898,17,Chelsea,1,AFC Bournemouth,0,1,0,0,Stamford Bridge,City,England,Europe,Premier League,League,1,15,0,14,Saturday,12,2019,T,,,,,,,,,,,,,,
+176899,6,Leicester City,492,Norwich City,1,1,1,1,King Power Stadium,City,England,Europe,Premier League,League,1,15,0,14,Saturday,12,2019,T,,,,,,,,,,,,,,
+176900,281,Sheffield United,495,Aston Villa,2,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,15,0,14,Saturday,12,2019,T,,,,,,,,,,,,,,
+177039,4,Southampton,14,West Ham United,0,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,17,30,14,Saturday,12,2019,T,,,,,,,,,,,,,,
+177182,19,Manchester United,20,Everton,1,1,0,1,Old Trafford,City,England,Europe,Premier League,League,1,14,0,15,Sunday,12,2019,T,1,2,0,0,67,33,16.0,8.0,8,4,10,12,89,71
+177183,497,Wolverhampton Wanderers,15,Tottenham Hotspur,1,2,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,14,0,15,Sunday,12,2019,T,4,4,0,0,57,43,11.0,9.0,7,7,14,10,111,81
+177258,18,Arsenal,12,Manchester City,0,3,0,3,Emirates Stadium,City,England,Europe,Premier League,League,1,16,30,15,Sunday,12,2019,T,1,4,0,0,43,57,5.0,11.0,2,7,9,24,85,101
+177364,3,Crystal Palace,2,Brighton & Hove Albion,1,1,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,19,45,16,Monday,12,2019,T,1,1,0,0,35,65,11.0,12.0,6,8,6,11,76,120
+177696,20,Everton,18,Arsenal,0,0,0,0,Goodison Park,City,England,Europe,Premier League,League,1,12,30,21,Saturday,12,2019,T,2,3,0,0,43,57,5.0,5.0,0,2,10,12,81,93
+177754,1,AFC Bournemouth,8,Burnley,0,1,0,0,Vitality Stadium,City,England,Europe,Premier League,League,1,15,0,21,Saturday,12,2019,T,0,1,0,0,67,33,1,1,0,0,6,11,52,52
+177755,495,Aston Villa,4,Southampton,1,3,0,2,Villa Park,City,England,Europe,Premier League,League,1,15,0,21,Saturday,12,2019,T,,,,,,,,,,,,,,
+177756,2,Brighton & Hove Albion,281,Sheffield United,0,1,0,1,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,0,21,Saturday,12,2019,T,,,,,,,,,,,,,,
+177757,9,Newcastle United,3,Crystal Palace,1,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,15,0,21,Saturday,12,2019,T,0,0,0,0,50,50,4,4,3,1,5,4,51,60
+177758,492,Norwich City,497,Wolverhampton Wanderers,1,2,1,0,Carrow Road,City,England,Europe,Premier League,League,1,15,0,21,Saturday,12,2019,T,,,,,,,,,,,,,,
+177879,12,Manchester City,6,Leicester City,3,1,2,1,Etihad Stadium,City,England,Europe,Premier League,League,1,17,30,21,Saturday,12,2019,T,2,2,0,0,70,30,16,5,11,2,14,8,137,70
+177996,11,Watford,19,Manchester United,2,0,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,14,0,22,Sunday,12,2019,T,1,1,0,0,35,65,1,2,0,0,7,5,60,47
+178044,15,Tottenham Hotspur,17,Chelsea,0,2,0,2,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,16,30,22,Sunday,12,2019,T,,,,,,,,,,,,,,
+178137,15,Tottenham Hotspur,2,Brighton & Hove Albion,2,1,0,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,12,30,26,Thursday,12,2019,T,,,,,,,,,,,,,,
+178165,1,AFC Bournemouth,18,Arsenal,1,1,1,0,Vitality Stadium,City,England,Europe,Premier League,League,1,15,0,26,Thursday,12,2019,T,4,4,0,0,41,59,9,8,4,2,5,13,71,103
+178166,495,Aston Villa,492,Norwich City,1,0,0,0,Villa Park,City,England,Europe,Premier League,League,1,15,0,26,Thursday,12,2019,T,0,2,0,0,49,51,3,5,0,3,9,9,38,36
+178167,17,Chelsea,4,Southampton,0,2,0,1,Stamford Bridge,City,England,Europe,Premier League,League,1,15,0,26,Thursday,12,2019,T,,,,,,,,,,,,,,
+178168,3,Crystal Palace,14,West Ham United,2,1,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,15,0,26,Thursday,12,2019,T,0,0,0,0,58,42,2,2,0,1,1,6,58,58
+178169,20,Everton,8,Burnley,1,0,0,0,Goodison Park,City,England,Europe,Premier League,League,1,15,0,26,Thursday,12,2019,T,0,0,0,0,75,25,6,2,2,0,9,7,70,33
+178170,281,Sheffield United,11,Watford,1,1,1,1,Bramall Lane,City,England,Europe,Premier League,League,1,15,0,26,Thursday,12,2019,T,,,,,,,,,,,,,,
+178243,19,Manchester United,9,Newcastle United,4,1,3,1,Old Trafford,City,England,Europe,Premier League,League,1,17,30,26,Thursday,12,2019,T,,,,,,,,,,,,,,
+178246,6,Leicester City,7,Liverpool,0,4,0,1,King Power Stadium,City,England,Europe,Premier League,League,1,20,0,26,Thursday,12,2019,T,0,0,0,0,55,45,0,6,0,3,3,3,34,47
+178268,497,Wolverhampton Wanderers,12,Manchester City,3,2,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,19,45,27,Friday,12,2019,T,0,1,0,1,61,39,15,5,10,2,7,11,99,69
+178277,2,Brighton & Hove Albion,1,AFC Bournemouth,2,0,1,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,12,30,28,Saturday,12,2019,T,,,,,,,,,,,,,,
+178298,9,Newcastle United,20,Everton,1,2,0,1,St. James' Park,City,England,Europe,Premier League,League,1,15,0,28,Saturday,12,2019,T,,,,,,,,,,,,,,
+178299,4,Southampton,3,Crystal Palace,1,1,0,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,0,28,Saturday,12,2019,T,0,1,0,0,59,41,2,2,0,1,8,6,59,41
+178300,11,Watford,495,Aston Villa,3,0,1,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,0,28,Saturday,12,2019,T,,,,,,,,,,,,,,
+178364,492,Norwich City,15,Tottenham Hotspur,2,2,1,0,Carrow Road,City,England,Europe,Premier League,League,1,17,30,28,Saturday,12,2019,T,,,,,,,,,,,,,,
+178365,14,West Ham United,6,Leicester City,1,2,1,1,London Stadium,City,England,Europe,Premier League,League,1,17,30,28,Saturday,12,2019,T,,,,,,,,,,,,,,
+178369,8,Burnley,19,Manchester United,0,2,0,1,Turf Moor,City,England,Europe,Premier League,League,1,19,45,28,Saturday,12,2019,T,,,,,,,,,,,,,,
+178399,18,Arsenal,17,Chelsea,1,2,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,14,0,29,Sunday,12,2019,T,,,,,,,,,,,,,,
+178470,7,Liverpool,497,Wolverhampton Wanderers,1,0,1,0,Anfield,City,England,Europe,Premier League,League,1,16,30,29,Sunday,12,2019,T,,,,,,,,,,,,,,
+178474,12,Manchester City,281,Sheffield United,2,0,0,0,Etihad Stadium,City,England,Europe,Premier League,League,1,18,0,29,Sunday,12,2019,T,0,0,0,0,76,24,3,4,1,0,2,1,87,42
+178506,2,Brighton & Hove Albion,17,Chelsea,1,1,0,1,The American Express Community Stadium,City,England,Europe,Premier League,League,1,12,30,1,Wednesday,1,2020,T,2,3,0,0,48,52,8,8,5,4,7,15,92,101
+178507,8,Burnley,495,Aston Villa,1,2,0,2,Turf Moor,City,England,Europe,Premier League,League,1,12,30,1,Wednesday,1,2020,T,1,1,0,0,62,38,7,9,1,6,11,7,105,70
+178514,9,Newcastle United,6,Leicester City,0,3,0,2,St. James' Park,City,England,Europe,Premier League,League,1,15,0,1,Wednesday,1,2020,T,1,1,0,0,23,77,4,13,2,10,8,12,72,132
+178515,4,Southampton,15,Tottenham Hotspur,1,0,1,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,0,1,Wednesday,1,2020,T,3,4,0,0,43,57,8,9,3,5,20,7,95,114
+178516,11,Watford,497,Wolverhampton Wanderers,2,1,1,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,0,1,Wednesday,1,2020,T,3,1,1,0,38,62,6,9,3,4,12,6,87,117
+178592,12,Manchester City,20,Everton,2,1,0,0,Etihad Stadium,City,England,Europe,Premier League,League,1,17,30,1,Wednesday,1,2020,T,0,4,0,0,67,33,13,5,9,2,10,10,106,80
+178593,492,Norwich City,3,Crystal Palace,1,1,1,0,Carrow Road,City,England,Europe,Premier League,League,1,17,30,1,Wednesday,1,2020,T,5,0,0,0,41,59,10,6,4,3,11,10,74,101
+178594,14,West Ham United,1,AFC Bournemouth,4,0,3,0,London Stadium,City,England,Europe,Premier League,League,1,17,30,1,Wednesday,1,2020,T,1,2,0,0,35,65,12,3,7,2,3,11,107,98
+178596,18,Arsenal,19,Manchester United,2,0,2,0,Emirates Stadium,City,England,Europe,Premier League,League,1,20,0,1,Wednesday,1,2020,T,2,0,0,0,57,43,8,8,3,5,11,15,90,94
+178614,7,Liverpool,281,Sheffield United,2,0,1,0,Anfield,City,England,Europe,Premier League,League,1,20,0,2,Thursday,1,2020,T,0,0,0,0,71,29,10,3,7,2,5,8,144,74
+179216,281,Sheffield United,14,West Ham United,1,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,20,0,10,Friday,1,2020,T,1,0,0,0,47,53,9,7,3,2,13,6,104,99
+179264,3,Crystal Palace,18,Arsenal,1,1,0,1,Selhurst Park,City,England,Europe,Premier League,League,1,12,30,11,Saturday,1,2020,T,2,3,0,1,42,58,4,5,2,2,14,21,87,99
+179319,17,Chelsea,8,Burnley,3,0,2,0,Stamford Bridge,City,England,Europe,Premier League,League,1,15,0,11,Saturday,1,2020,T,0,3,0,0,62,38,10,3,6,1,7,4,55,53
+179320,20,Everton,2,Brighton & Hove Albion,1,0,1,0,Goodison Park,City,England,Europe,Premier League,League,1,15,0,11,Saturday,1,2020,T,0,0,0,0,64,36,3,1,2,0,2,2,36,34
+179321,6,Leicester City,4,Southampton,1,2,1,1,King Power Stadium,City,England,Europe,Premier League,League,1,15,0,11,Saturday,1,2020,T,0,3,0,0,57,43,5,13,5,10,8,14,74,75
+179322,19,Manchester United,492,Norwich City,4,0,1,0,Old Trafford,City,England,Europe,Premier League,League,1,15,0,11,Saturday,1,2020,T,0,0,0,0,61,39,10,4,6,2,18,7,88,71
+179323,497,Wolverhampton Wanderers,9,Newcastle United,1,1,1,1,Molineux Stadium,City,England,Europe,Premier League,League,1,15,0,11,Saturday,1,2020,T,0,0,0,0,56,44,3,2,2,1,6,3,47,37
+179435,15,Tottenham Hotspur,7,Liverpool,0,1,0,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,17,30,11,Saturday,1,2020,T,0,2,0,0,32,68,11,11,4,6,4,8,100,135
+179543,1,AFC Bournemouth,11,Watford,0,3,0,1,Vitality Stadium,City,England,Europe,Premier League,League,1,14,0,12,Sunday,1,2020,T,1,1,0,0,58,42,7,10,1,5,3,13,90,89
+179602,495,Aston Villa,12,Manchester City,1,6,0,4,Villa Park,City,England,Europe,Premier League,League,1,16,30,12,Sunday,1,2020,T,2,1,0,0,33,67,4,19,1,11,5,12,53,95
+180141,11,Watford,15,Tottenham Hotspur,0,0,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,12,30,18,Saturday,1,2020,T,2,3,0,0,41,59,9,10,2,4,12,12,97,92
+180221,18,Arsenal,281,Sheffield United,1,1,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,15,0,18,Saturday,1,2020,T,0,1,0,0,58,42,4,3,2,0,2,8,53,52
+180222,2,Brighton & Hove Albion,495,Aston Villa,1,1,1,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,15,0,18,Saturday,1,2020,T,1,1,0,0,52,48,2,4,1,0,6,5,83,55
+180223,12,Manchester City,3,Crystal Palace,2,2,0,1,Etihad Stadium,City,England,Europe,Premier League,League,1,15,0,18,Saturday,1,2020,T,0,2,0,0,74,26,5,0,1,0,1,1,32,19
+180224,492,Norwich City,1,AFC Bournemouth,1,0,1,0,Carrow Road,City,England,Europe,Premier League,League,1,15,0,18,Saturday,1,2020,T,2,1,1,1,71,29,9,1,3,1,8,6,79,37
+180225,4,Southampton,497,Wolverhampton Wanderers,2,3,2,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,0,18,Saturday,1,2020,T,2,1,0,0,42,58,7,6,4,3,9,12,117,90
+180226,14,West Ham United,20,Everton,1,1,1,1,London Stadium,City,England,Europe,Premier League,League,1,15,0,18,Saturday,1,2020,T,0,0,0,0,45,55,9,6,5,3,11,10,76,68
+180352,9,Newcastle United,17,Chelsea,1,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,17,30,18,Saturday,1,2020,T,1,1,0,0,35,65,7,10,3,4,9,14,71,94
+180485,8,Burnley,6,Leicester City,2,1,0,1,Turf Moor,City,England,Europe,Premier League,League,1,14,0,19,Sunday,1,2020,T,1,0,0,0,45,55,7,14,5,7,14,8,84,88
+180562,7,Liverpool,19,Manchester United,2,0,1,0,Anfield,City,England,Europe,Premier League,League,1,16,30,19,Sunday,1,2020,T,1,3,0,0,55,45,10,7,4,3,8,10,121,69
+180716,1,AFC Bournemouth,2,Brighton & Hove Albion,3,1,2,0,Vitality Stadium,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,1,2020,T,1,1,0,0,48,52,7,11,3,5,9,11,55,85
+180717,495,Aston Villa,11,Watford,2,1,0,1,Villa Park,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,1,2020,T,2,2,0,0,65,35,13,5,5,3,11,17,121,101
+180718,3,Crystal Palace,4,Southampton,0,2,0,1,Selhurst Park,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,1,2020,T,1,2,0,0,42,58,5,10,1,6,11,12,91,108
+180719,20,Everton,9,Newcastle United,2,2,1,0,Goodison Park,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,1,2020,T,1,1,0,0,58,42,14,7,9,4,12,9,146,139
+180720,281,Sheffield United,12,Manchester City,0,1,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,19,30,21,Tuesday,1,2020,T,4,3,0,0,32,68,3,12,1,4,11,13,97,112
+180744,17,Chelsea,18,Arsenal,2,2,1,0,Stamford Bridge,City,England,Europe,Premier League,League,1,20,15,21,Tuesday,1,2020,T,2,1,0,1,58,42,15,2,9,2,11,6,111,93
+180840,6,Leicester City,14,West Ham United,4,1,2,0,King Power Stadium,City,England,Europe,Premier League,League,1,19,30,22,Wednesday,1,2020,T,1,1,0,0,72,28,10,3,8,1,8,17,99,70
+180841,15,Tottenham Hotspur,492,Norwich City,2,1,1,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,19,30,22,Wednesday,1,2020,T,0,1,0,0,50,50,8,9,3,2,11,7,145,111
+180874,19,Manchester United,8,Burnley,0,2,0,1,Old Trafford,City,England,Europe,Premier League,League,1,20,15,22,Wednesday,1,2020,T,0,2,0,0,71,29,16,4,7,2,10,7,112,82
+180945,497,Wolverhampton Wanderers,7,Liverpool,1,2,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,20,0,23,Thursday,1,2020,T,0,1,0,0,0,0,8,7,3,6,7,12,103,115
+188620,8,Burnley,18,Arsenal,0,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,14,0,2,Sunday,2,2020,T,1,3,0,0,42,58,12,9,2,3,9,11,90,76
+188721,15,Tottenham Hotspur,12,Manchester City,2,0,0,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,16,30,2,Sunday,2,2020,T,2,4,0,0,31,69,3,9,3,3,8,14,71,110
+189320,20,Everton,3,Crystal Palace,3,1,1,0,Goodison Park,City,England,Europe,Premier League,League,1,12,30,8,Saturday,2,2020,T,,,,,,,,,,,,,,
+189548,2,Brighton & Hove Albion,11,Watford,1,1,0,1,The American Express Community Stadium,City,England,Europe,Premier League,League,1,17,30,8,Saturday,2,2020,T,,,,,,,,,,,,,,
+189720,281,Sheffield United,1,AFC Bournemouth,2,1,1,1,Bramall Lane,City,England,Europe,Premier League,League,1,14,0,9,Sunday,2,2020,T,,,,,,,,,,,,,,
+190342,497,Wolverhampton Wanderers,6,Leicester City,0,0,0,0,Molineux Stadium,City,England,Europe,Premier League,League,1,20,0,14,Friday,2,2020,T,2,3,0,0,40,60,10,3,3,2,12,10,81,96
+190420,4,Southampton,8,Burnley,1,2,1,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,12,30,15,Saturday,2,2020,T,2,2,0,0,63,37,7,9,3,6,8,10,133,117
+190618,492,Norwich City,7,Liverpool,0,1,0,0,Carrow Road,City,England,Europe,Premier League,League,1,17,30,15,Saturday,2,2020,T,1,2,0,0,36,64,3,9,1,5,7,11,65,109
+190827,495,Aston Villa,15,Tottenham Hotspur,2,3,1,2,Villa Park,City,England,Europe,Premier League,League,1,14,0,16,Sunday,2,2020,T,2,0,0,0,54,46,9,17,4,11,11,9,84,81
+190934,18,Arsenal,9,Newcastle United,4,0,0,0,Emirates Stadium,City,England,Europe,Premier League,League,1,16,30,16,Sunday,2,2020,T,2,0,0,0,68,32,12,8,7,2,15,9,97,64
+191083,17,Chelsea,19,Manchester United,0,2,0,1,Stamford Bridge,City,England,Europe,Premier League,League,1,20,0,17,Monday,2,2020,T,4,3,0,0,60,40,6,7,1,3,13,9,90,77
+191225,12,Manchester City,14,West Ham United,2,0,1,0,Etihad Stadium,City,England,Europe,Premier League,League,1,19,30,19,Wednesday,2,2020,T,0,1,0,0,78,22,9,2,5,0,5,6,115,69
+191489,17,Chelsea,15,Tottenham Hotspur,2,1,1,0,Stamford Bridge,City,England,Europe,Premier League,League,1,12,30,22,Saturday,2,2020,T,1,2,0,0,53,47,14,4,6,4,12,14,101,107
+191585,8,Burnley,1,AFC Bournemouth,3,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,15,0,22,Saturday,2,2020,T,4,3,0,0,42,58,9,3,7,3,7,7,90,67
+191586,3,Crystal Palace,9,Newcastle United,1,0,1,0,Selhurst Park,City,England,Europe,Premier League,League,1,15,0,22,Saturday,2,2020,T,2,6,0,1,46,54,14,3,7,1,10,11,77,66
+191587,281,Sheffield United,2,Brighton & Hove Albion,1,1,1,1,Bramall Lane,City,England,Europe,Premier League,League,1,15,0,22,Saturday,2,2020,T,0,2,0,0,67,33,8,5,3,2,3,6,111,63
+191588,4,Southampton,495,Aston Villa,2,0,1,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,0,22,Saturday,2,2020,T,1,4,0,0,45,55,17,3,8,2,13,17,96,83
+191742,6,Leicester City,12,Manchester City,0,1,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,17,30,22,Saturday,2,2020,T,0,0,0,0,32,68,4,12,2,6,14,10,81,113
+191974,19,Manchester United,11,Watford,3,0,1,0,Old Trafford,City,England,Europe,Premier League,League,1,14,0,23,Sunday,2,2020,T,0,1,0,0,57,43,13,3,6,2,5,6,80,91
+191975,497,Wolverhampton Wanderers,492,Norwich City,3,0,2,0,Molineux Stadium,City,England,Europe,Premier League,League,1,14,0,23,Sunday,2,2020,T,2,3,0,0,40,60,8,4,5,3,11,6,98,127
+192075,18,Arsenal,20,Everton,3,2,2,2,Emirates Stadium,City,England,Europe,Premier League,League,1,16,30,23,Sunday,2,2020,T,0,4,0,0,52,48,9,11,4,4,12,12,77,80
+192191,7,Liverpool,14,West Ham United,3,2,1,1,Anfield,City,England,Europe,Premier League,League,1,20,0,24,Monday,2,2020,T,0,3,0,0,69,31,15,5,7,4,4,10,120,72
+192555,492,Norwich City,6,Leicester City,1,0,0,0,Carrow Road,City,England,Europe,Premier League,League,1,20,0,28,Friday,2,2020,T,1,2,0,0,42,58,7,11,6,4,13,16,77,95
+192647,2,Brighton & Hove Albion,3,Crystal Palace,0,1,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,12,30,29,Saturday,2,2020,T,2,1,0,0,67,33,15,9,8,3,8,9,104,74
+192809,1,AFC Bournemouth,17,Chelsea,2,2,0,1,Vitality Stadium,City,England,Europe,Premier League,League,1,15,0,29,Saturday,2,2020,T,2,2,0,0,27,73,7,11,4,5,8,5,61,84
+193007,9,Newcastle United,8,Burnley,0,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,15,0,29,Saturday,2,2020,T,4,3,0,0,67,33,10,5,4,2,11,9,98,98
+193008,14,West Ham United,4,Southampton,3,1,2,1,London Stadium,City,England,Europe,Premier League,League,1,15,0,29,Saturday,2,2020,T,1,1,0,0,34,66,13,4,8,2,8,11,80,122
+193309,11,Watford,7,Liverpool,3,0,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,17,30,29,Saturday,2,2020,T,0,0,0,0,30,70,10,6,5,1,4,8,71,98
+193555,20,Everton,19,Manchester United,1,1,1,1,Goodison Park,City,England,Europe,Premier League,League,1,14,0,1,Sunday,3,2020,T,3,4,0,0,44,56,8,9,3,5,11,11,78,80
+193556,15,Tottenham Hotspur,497,Wolverhampton Wanderers,2,3,2,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,14,0,1,Sunday,3,2020,T,3,2,0,0,64,36,6,9,3,3,12,14,138,89
+194379,7,Liverpool,1,AFC Bournemouth,2,1,2,1,Anfield,City,England,Europe,Premier League,League,1,12,30,7,Saturday,3,2020,T,0,1,0,0,75,25,10,5,6,4,10,12,109,60
+194509,18,Arsenal,14,West Ham United,1,0,0,0,Emirates Stadium,City,England,Europe,Premier League,League,1,15,0,7,Saturday,3,2020,F,,,,,,,,,,,,,,
+194510,3,Crystal Palace,11,Watford,1,0,1,0,Selhurst Park,City,England,Europe,Premier League,League,1,15,0,7,Saturday,3,2020,F,,,,,,,,,,,,,,
+194511,281,Sheffield United,492,Norwich City,1,0,1,0,Bramall Lane,City,England,Europe,Premier League,League,1,15,0,7,Saturday,3,2020,F,,,,,,,,,,,,,,
+194512,4,Southampton,9,Newcastle United,0,1,0,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,0,7,Saturday,3,2020,F,,,,,,,,,,,,,,
+194513,497,Wolverhampton Wanderers,2,Brighton & Hove Albion,0,0,0,0,Molineux Stadium,City,England,Europe,Premier League,League,1,15,0,7,Saturday,3,2020,F,,,,,,,,,,,,,,
+194684,8,Burnley,15,Tottenham Hotspur,1,1,1,0,Turf Moor,City,England,Europe,Premier League,League,1,17,30,7,Saturday,3,2020,F,,,,,,,,,,,,,,
+194959,17,Chelsea,20,Everton,4,0,2,0,Stamford Bridge,City,England,Europe,Premier League,League,1,14,0,8,Sunday,3,2020,F,,,,,,,,,,,,,,
+195054,19,Manchester United,12,Manchester City,2,0,1,0,Old Trafford,City,England,Europe,Premier League,League,1,16,30,8,Sunday,3,2020,F,,,,,,,,,,,,,,
+195235,6,Leicester City,495,Aston Villa,4,0,1,0,King Power Stadium,City,England,Europe,Premier League,League,1,20,0,9,Monday,3,2020,F,,,,,,,,,,,,,,
+197737,495,Aston Villa,281,Sheffield United,0,0,0,0,Villa Park,City,England,Europe,Premier League,League,1,17,0,17,Wednesday,6,2020,F,,,,,,,,,,,,,,
+197789,12,Manchester City,18,Arsenal,3,0,1,0,Etihad Stadium,City,England,Europe,Premier League,League,1,19,15,17,Wednesday,6,2020,F,,,,,,,,,,,,,,
+197891,492,Norwich City,4,Southampton,0,3,0,0,Carrow Road,City,England,Europe,Premier League,League,1,17,0,19,Friday,6,2020,F,,,,,,,,,,,,,,
+197918,15,Tottenham Hotspur,19,Manchester United,1,1,1,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,19,15,19,Friday,6,2020,F,,,,,,,,,,,,,,
+197944,11,Watford,6,Leicester City,1,1,0,0,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,11,30,20,Saturday,6,2020,F,,,,,,,,,,,,,,
+197999,2,Brighton & Hove Albion,18,Arsenal,2,1,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,14,0,20,Saturday,6,2020,F,,,,,,,,,,,,,,
+198072,14,West Ham United,497,Wolverhampton Wanderers,0,2,0,0,London Stadium,City,England,Europe,Premier League,League,1,16,30,20,Saturday,6,2020,F,,,,,,,,,,,,,,
+198111,1,AFC Bournemouth,3,Crystal Palace,0,2,0,2,Vitality Stadium,City,England,Europe,Premier League,League,1,18,45,20,Saturday,6,2020,F,,,,,,,,,,,,,,
+198145,9,Newcastle United,281,Sheffield United,3,0,0,0,St. James' Park,City,England,Europe,Premier League,League,1,13,0,21,Sunday,6,2020,F,,,,,,,,,,,,,,
+198201,495,Aston Villa,17,Chelsea,1,2,1,0,Villa Park,City,England,Europe,Premier League,League,1,15,15,21,Sunday,6,2020,F,,,,,,,,,,,,,,
+198243,20,Everton,7,Liverpool,0,0,0,0,Goodison Park,City,England,Europe,Premier League,League,1,18,0,21,Sunday,6,2020,F,,,,,,,,,,,,,,
+198296,12,Manchester City,8,Burnley,5,0,3,0,Etihad Stadium,City,England,Europe,Premier League,League,1,19,0,22,Monday,6,2020,F,,,,,,,,,,,,,,
+198337,6,Leicester City,2,Brighton & Hove Albion,0,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,17,0,23,Tuesday,6,2020,F,,,,,,,,,,,,,,
+198372,15,Tottenham Hotspur,14,West Ham United,2,0,0,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,19,15,23,Tuesday,6,2020,F,,,,,,,,,,,,,,
+198447,19,Manchester United,281,Sheffield United,3,0,2,0,Old Trafford,City,England,Europe,Premier League,League,1,17,0,24,Wednesday,6,2020,F,,,,,,,,,,,,,,
+198448,9,Newcastle United,495,Aston Villa,1,1,0,0,St. James' Park,City,England,Europe,Premier League,League,1,17,0,24,Wednesday,6,2020,F,,,,,,,,,,,,,,
+198449,492,Norwich City,20,Everton,0,1,0,0,Carrow Road,City,England,Europe,Premier League,League,1,17,0,24,Wednesday,6,2020,F,,,,,,,,,,,,,,
+198450,497,Wolverhampton Wanderers,1,AFC Bournemouth,1,0,0,0,Molineux Stadium,City,England,Europe,Premier League,League,1,17,0,24,Wednesday,6,2020,F,,,,,,,,,,,,,,
+198500,7,Liverpool,3,Crystal Palace,4,0,2,0,Anfield,City,England,Europe,Premier League,League,1,19,15,24,Wednesday,6,2020,F,,,,,,,,,,,,,,
+198540,8,Burnley,11,Watford,1,0,0,0,Turf Moor,City,England,Europe,Premier League,League,1,17,0,25,Thursday,6,2020,F,,,,,,,,,,,,,,
+198541,4,Southampton,18,Arsenal,0,2,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,17,0,25,Thursday,6,2020,F,,,,,,,,,,,,,,
+198568,17,Chelsea,12,Manchester City,2,1,1,0,Stamford Bridge,City,England,Europe,Premier League,League,1,19,15,25,Thursday,6,2020,F,,,,,,,,,,,,,,
+198674,495,Aston Villa,497,Wolverhampton Wanderers,0,1,0,0,Villa Park,City,England,Europe,Premier League,League,1,11,30,27,Saturday,6,2020,F,,,,,,,,,,,,,,
+198966,11,Watford,4,Southampton,1,3,0,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,15,30,28,Sunday,6,2020,F,,,,,,,,,,,,,,
+199077,3,Crystal Palace,8,Burnley,0,1,0,0,Selhurst Park,City,England,Europe,Premier League,League,1,19,0,29,Monday,6,2020,F,,,,,,,,,,,,,,
+199171,2,Brighton & Hove Albion,19,Manchester United,0,3,0,2,The American Express Community Stadium,City,England,Europe,Premier League,League,1,19,15,30,Tuesday,6,2020,F,,,,,,,,,,,,,,
+199245,1,AFC Bournemouth,9,Newcastle United,1,4,0,2,Vitality Stadium,City,England,Europe,Premier League,League,1,17,0,1,Wednesday,7,2020,F,,,,,,,,,,,,,,
+199246,18,Arsenal,492,Norwich City,4,0,2,0,Emirates Stadium,City,England,Europe,Premier League,League,1,17,0,1,Wednesday,7,2020,F,,,,,,,,,,,,,,
+199247,20,Everton,6,Leicester City,2,1,2,0,Goodison Park,City,England,Europe,Premier League,League,1,17,0,1,Wednesday,7,2020,F,,,,,,,,,,,,,,
+199321,14,West Ham United,17,Chelsea,3,2,1,1,London Stadium,City,England,Europe,Premier League,League,1,19,15,1,Wednesday,7,2020,F,,,,,,,,,,,,,,
+199359,281,Sheffield United,15,Tottenham Hotspur,3,1,1,0,Bramall Lane,City,England,Europe,Premier League,League,1,17,0,2,Thursday,7,2020,F,,,,,,,,,,,,,,
+199392,12,Manchester City,7,Liverpool,4,0,3,0,Etihad Stadium,City,England,Europe,Premier League,League,1,19,15,2,Thursday,7,2020,F,,,,,,,,,,,,,,
+199514,492,Norwich City,2,Brighton & Hove Albion,0,1,0,1,Carrow Road,City,England,Europe,Premier League,League,1,11,30,4,Saturday,7,2020,F,,,,,,,,,,,,,,
+199551,6,Leicester City,3,Crystal Palace,3,0,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,14,0,4,Saturday,7,2020,F,,,,,,,,,,,,,,
+199552,19,Manchester United,1,AFC Bournemouth,5,2,3,1,Old Trafford,City,England,Europe,Premier League,League,1,14,0,4,Saturday,7,2020,F,,,,,,,,,,,,,,
+199613,497,Wolverhampton Wanderers,18,Arsenal,0,2,0,1,Molineux Stadium,City,England,Europe,Premier League,League,1,16,30,4,Saturday,7,2020,F,,,,,,,,,,,,,,
+199647,17,Chelsea,11,Watford,3,0,2,0,Stamford Bridge,City,England,Europe,Premier League,League,1,19,0,4,Saturday,7,2020,F,,,,,,,,,,,,,,
+199675,8,Burnley,281,Sheffield United,1,1,1,0,Turf Moor,City,England,Europe,Premier League,League,1,11,0,5,Sunday,7,2020,F,,,,,,,,,,,,,,
+199692,9,Newcastle United,14,West Ham United,2,2,1,1,St. James' Park,City,England,Europe,Premier League,League,1,13,15,5,Sunday,7,2020,F,,,,,,,,,,,,,,
+199722,7,Liverpool,495,Aston Villa,2,0,0,0,Anfield,City,England,Europe,Premier League,League,1,15,30,5,Sunday,7,2020,F,,,,,,,,,,,,,,
+199767,4,Southampton,12,Manchester City,1,0,1,0,St. Mary's Stadium,City,England,Europe,Premier League,League,1,18,0,5,Sunday,7,2020,F,,,,,,,,,,,,,,
+199833,15,Tottenham Hotspur,20,Everton,1,0,1,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,19,0,6,Monday,7,2020,F,,,,,,,,,,,,,,
+199858,3,Crystal Palace,17,Chelsea,2,3,1,2,Selhurst Park,City,England,Europe,Premier League,League,1,17,0,7,Tuesday,7,2020,F,,,,,,,,,,,,,,
+199859,11,Watford,492,Norwich City,2,1,1,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,17,0,7,Tuesday,7,2020,F,,,,,,,,,,,,,,
+199887,18,Arsenal,6,Leicester City,1,1,1,0,Emirates Stadium,City,England,Europe,Premier League,League,1,19,15,7,Tuesday,7,2020,F,,,,,,,,,,,,,,
+199951,12,Manchester City,9,Newcastle United,5,0,2,0,Etihad Stadium,City,England,Europe,Premier League,League,1,17,0,8,Wednesday,7,2020,F,,,,,,,,,,,,,,
+199952,281,Sheffield United,497,Wolverhampton Wanderers,1,0,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,17,0,8,Wednesday,7,2020,F,,,,,,,,,,,,,,
+199953,14,West Ham United,8,Burnley,0,1,0,1,London Stadium,City,England,Europe,Premier League,League,1,17,0,8,Wednesday,7,2020,F,,,,,,,,,,,,,,
+199990,2,Brighton & Hove Albion,7,Liverpool,1,3,1,2,The American Express Community Stadium,City,England,Europe,Premier League,League,1,19,15,8,Wednesday,7,2020,F,,,,,,,,,,,,,,
+200026,1,AFC Bournemouth,15,Tottenham Hotspur,0,0,0,0,Vitality Stadium,City,England,Europe,Premier League,League,1,17,0,9,Thursday,7,2020,F,,,,,,,,,,,,,,
+200027,20,Everton,4,Southampton,1,1,1,1,Goodison Park,City,England,Europe,Premier League,League,1,17,0,9,Thursday,7,2020,F,,,,,,,,,,,,,,
+200052,495,Aston Villa,19,Manchester United,0,3,0,2,Villa Park,City,England,Europe,Premier League,League,1,19,15,9,Thursday,7,2020,F,,,,,,,,,,,,,,
+200182,492,Norwich City,14,West Ham United,0,4,0,2,Carrow Road,City,England,Europe,Premier League,League,1,11,30,11,Saturday,7,2020,F,,,,,,,,,,,,,,
+200183,11,Watford,9,Newcastle United,2,1,0,1,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,11,30,11,Saturday,7,2020,F,,,,,,,,,,,,,,
+200218,7,Liverpool,8,Burnley,1,1,1,0,Anfield,City,England,Europe,Premier League,League,1,14,0,11,Saturday,7,2020,F,,,,,,,,,,,,,,
+200290,281,Sheffield United,17,Chelsea,3,0,2,0,Bramall Lane,City,England,Europe,Premier League,League,1,16,30,11,Saturday,7,2020,F,,,,,,,,,,,,,,
+200320,2,Brighton & Hove Albion,12,Manchester City,0,5,0,2,The American Express Community Stadium,City,England,Europe,Premier League,League,1,19,0,11,Saturday,7,2020,F,,,,,,,,,,,,,,
+200354,497,Wolverhampton Wanderers,20,Everton,3,0,1,0,Molineux Stadium,City,England,Europe,Premier League,League,1,11,0,12,Sunday,7,2020,F,,,,,,,,,,,,,,
+200381,495,Aston Villa,3,Crystal Palace,2,0,1,0,Villa Park,City,England,Europe,Premier League,League,1,13,15,12,Sunday,7,2020,F,,,,,,,,,,,,,,
+200426,15,Tottenham Hotspur,18,Arsenal,2,1,1,1,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,30,12,Sunday,7,2020,F,,,,,,,,,,,,,,
+200471,1,AFC Bournemouth,6,Leicester City,4,1,0,1,Vitality Stadium,City,England,Europe,Premier League,League,1,18,0,12,Sunday,7,2020,F,,,,,,,,,,,,,,
+200556,19,Manchester United,4,Southampton,2,2,2,1,Old Trafford,City,England,Europe,Premier League,League,1,19,0,13,Monday,7,2020,F,,,,,,,,,,,,,,
+200628,17,Chelsea,492,Norwich City,1,0,1,0,Stamford Bridge,City,England,Europe,Premier League,League,1,19,15,14,Tuesday,7,2020,F,,,,,,,,,,,,,,
+200708,8,Burnley,497,Wolverhampton Wanderers,1,1,0,0,Turf Moor,City,England,Europe,Premier League,League,1,17,0,15,Wednesday,7,2020,F,,,,,,,,,,,,,,
+200709,12,Manchester City,1,AFC Bournemouth,2,1,2,0,Etihad Stadium,City,England,Europe,Premier League,League,1,17,0,15,Wednesday,7,2020,F,,,,,,,,,,,,,,
+200710,9,Newcastle United,15,Tottenham Hotspur,1,3,0,1,St. James' Park,City,England,Europe,Premier League,League,1,17,0,15,Wednesday,7,2020,F,,,,,,,,,,,,,,
+200752,18,Arsenal,7,Liverpool,2,1,2,1,Emirates Stadium,City,England,Europe,Premier League,League,1,19,15,15,Wednesday,7,2020,F,,,,,,,,,,,,,,
+200784,20,Everton,495,Aston Villa,1,1,0,0,Goodison Park,City,England,Europe,Premier League,League,1,17,0,16,Thursday,7,2020,F,,,,,,,,,,,,,,
+200785,6,Leicester City,281,Sheffield United,2,0,1,0,King Power Stadium,City,England,Europe,Premier League,League,1,17,0,16,Thursday,7,2020,F,,,,,,,,,,,,,,
+200810,3,Crystal Palace,19,Manchester United,0,2,0,1,Selhurst Park,City,England,Europe,Premier League,League,1,19,15,16,Thursday,7,2020,F,,,,,,,,,,,,,,
+200811,4,Southampton,2,Brighton & Hove Albion,1,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,19,15,16,Thursday,7,2020,F,,,,,,,,,,,,,,
+200876,14,West Ham United,11,Watford,3,1,3,0,London Stadium,City,England,Europe,Premier League,League,1,19,0,17,Friday,7,2020,F,,,,,,,,,,,,,,
+201058,492,Norwich City,8,Burnley,0,2,0,1,Carrow Road,City,England,Europe,Premier League,League,1,16,30,18,Saturday,7,2020,F,,,,,,,,,,,,,,
+201143,1,AFC Bournemouth,4,Southampton,0,2,0,1,Vitality Stadium,City,England,Europe,Premier League,League,1,13,0,19,Sunday,7,2020,F,,,,,,,,,,,,,,
+201180,15,Tottenham Hotspur,6,Leicester City,3,0,3,0,Tottenham Hotspur Stadium,City,England,Europe,Premier League,League,1,15,0,19,Sunday,7,2020,F,,,,,,,,,,,,,,
+201299,2,Brighton & Hove Albion,9,Newcastle United,0,0,0,0,The American Express Community Stadium,City,England,Europe,Premier League,League,1,17,0,20,Monday,7,2020,F,,,,,,,,,,,,,,
+201300,281,Sheffield United,20,Everton,0,1,0,0,Bramall Lane,City,England,Europe,Premier League,League,1,17,0,20,Monday,7,2020,F,,,,,,,,,,,,,,
+201317,497,Wolverhampton Wanderers,3,Crystal Palace,2,0,1,0,Molineux Stadium,City,England,Europe,Premier League,League,1,19,15,20,Monday,7,2020,F,,,,,,,,,,,,,,
+201345,11,Watford,12,Manchester City,0,4,0,2,Vicarage Road Stadium,City,England,Europe,Premier League,League,1,17,0,21,Tuesday,7,2020,F,,,,,,,,,,,,,,
+201358,495,Aston Villa,18,Arsenal,1,0,1,0,Villa Park,City,England,Europe,Premier League,League,1,19,15,21,Tuesday,7,2020,F,,,,,,,,,,,,,,
+201430,19,Manchester United,14,West Ham United,1,1,0,1,Old Trafford,City,England,Europe,Premier League,League,1,17,0,22,Wednesday,7,2020,F,,,,,,,,,,,,,,
+201470,7,Liverpool,17,Chelsea,5,3,3,1,Anfield,City,England,Europe,Premier League,League,1,19,15,22,Wednesday,7,2020,F,,,,,,,,,,,,,,
+201870,18,Arsenal,11,Watford,3,2,3,1,Emirates Stadium,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+201871,8,Burnley,2,Brighton & Hove Albion,1,2,1,1,Turf Moor,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+201872,17,Chelsea,497,Wolverhampton Wanderers,2,0,2,0,Stamford Bridge,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+201873,3,Crystal Palace,15,Tottenham Hotspur,1,1,0,1,Selhurst Park,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+201874,20,Everton,1,AFC Bournemouth,1,3,1,2,Goodison Park,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+201875,6,Leicester City,19,Manchester United,0,2,0,0,King Power Stadium,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+201876,12,Manchester City,492,Norwich City,5,0,2,0,Etihad Stadium,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+201877,9,Newcastle United,7,Liverpool,1,3,1,1,St. James' Park,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+201878,4,Southampton,281,Sheffield United,3,1,0,1,St. Mary's Stadium,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+201879,14,West Ham United,495,Aston Villa,1,1,0,0,London Stadium,City,England,Europe,Premier League,League,1,15,0,26,Sunday,7,2020,F,,,,,,,,,,,,,,
