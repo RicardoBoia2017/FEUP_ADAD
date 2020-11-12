@@ -2476,47 +2476,47 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 199155,171,Vitoria de Guimaraes,602,Vitoria de Setubal,2,0,1,0,Estádio Dom Afonso Henriques,City,Primeira Liga,Europe,Portugal,League,1,18,15,30,Tuesday,6,2020,T,0,1,0,3,61,39,10,5,4,1,11,8,91,67
 199175,603,Rio Ave,153,Braga,4,3,3,2,Estádio do Rio Ave Futebol Clube,City,Primeira Liga,Europe,Portugal,League,1,20,30,30,Tuesday,6,2020,T,2,2,0,1,48,52,9,8,5,5,16,21,110,86
 199299,1096,Belenenses,650,Tondela,1,1,1,1,Estádio Nacional,City,Primeira Liga,Europe,Portugal,League,1,18,0,1,Wednesday,7,2020,T,3,4,0,0,61,39,9,7,3,4,19,15,130,107
-199330,138,Sporting CP,601,Gil Vicente,2,1,1,0,Estádio José Alvalade,City,Primeira Liga,Europe,Portugal,League,1,20,15,1,Wednesday,7,2020,F,,,,,,,,,,,,,,
-199461,826,Santa Clara,810,Maritimo,0,1,0,0,Estádio de São Miguel,City,Primeira Liga,Europe,Portugal,League,1,18,15,3,Friday,7,2020,F,,,,,,,,,,,,,,
-199602,602,Vitoria de Setubal,1260,Pacos de Ferreira,2,3,2,0,Estádio do Bonfim,City,Primeira Liga,Europe,Portugal,League,1,16,0,4,Saturday,7,2020,F,,,,,,,,,,,,,,
-199641,358,Portimonense,171,Vitoria de Guimaraes,0,1,0,0,Estádio Municipal de Portimão,City,Primeira Liga,Europe,Portugal,League,1,18,15,4,Saturday,7,2020,F,,,,,,,,,,,,,,
-199654,131,Benfica,1150,Boavista,3,1,3,0,Estádio do Sport Lisboa e Benfica ,City,Primeira Liga,Europe,Portugal,League,1,20,15,4,Saturday,7,2020,F,,,,,,,,,,,,,,
-199655,153,Braga,821,Aves,4,0,0,0,Estádio Municipal de Braga,City,Primeira Liga,Europe,Portugal,League,1,20,30,4,Saturday,7,2020,F,,,,,,,,,,,,,,
-199742,601,Gil Vicente,603,Rio Ave,1,0,1,0,Estádio Cidade de Barcelos,City,Primeira Liga,Europe,Portugal,League,1,16,0,5,Sunday,7,2020,F,,,,,,,,,,,,,,
-199770,650,Tondela,1151,Famalicao,0,1,0,0,Estádio João Cardoso,City,Primeira Liga,Europe,Portugal,League,1,18,15,5,Sunday,7,2020,F,,,,,,,,,,,,,,
-199779,143,FC Porto,1096,Belenenses,5,0,1,0,Estádio Do Dragão,City,Primeira Liga,Europe,Portugal,League,1,20,30,5,Sunday,7,2020,F,,,,,,,,,,,,,,
-199835,816,Moreirense,138,Sporting CP,0,0,0,0,Parque Desportivo Comendador Joaquim de Almeida Freitas,City,Primeira Liga,Europe,Portugal,League,1,20,0,6,Monday,7,2020,F,,,,,,,,,,,,,,
-199971,1150,Boavista,810,Maritimo,0,1,0,1,Estádio do Bessa Século XXI,City,Primeira Liga,Europe,Portugal,League,1,18,0,8,Wednesday,7,2020,F,,,,,,,,,,,,,,
-200002,821,Aves,602,Vitoria de Setubal,1,0,1,0,Estádio Clube Desportivo das Aves,City,Primeira Liga,Europe,Portugal,League,1,20,15,8,Wednesday,7,2020,F,,,,,,,,,,,,,,
-200024,603,Rio Ave,358,Portimonense,2,1,1,1,Estádio do Rio Ave Futebol Clube,City,Primeira Liga,Europe,Portugal,League,1,16,0,9,Thursday,7,2020,F,,,,,,,,,,,,,,
-200042,650,Tondela,143,FC Porto,1,3,0,0,Estádio João Cardoso,City,Primeira Liga,Europe,Portugal,League,1,18,15,9,Thursday,7,2020,F,,,,,,,,,,,,,,
-200057,1151,Famalicao,131,Benfica,1,1,0,1,Estádio Municipal 22 de Junho,City,Primeira Liga,Europe,Portugal,League,1,20,30,9,Thursday,7,2020,F,,,,,,,,,,,,,,
-200083,171,Vitoria de Guimaraes,601,Gil Vicente,1,2,0,0,Estádio Dom Afonso Henriques,City,Primeira Liga,Europe,Portugal,League,1,16,0,10,Friday,7,2020,F,,,,,,,,,,,,,,
-200108,138,Sporting CP,826,Santa Clara,1,0,0,0,Estádio José Alvalade,City,Primeira Liga,Europe,Portugal,League,1,18,15,10,Friday,7,2020,F,,,,,,,,,,,,,,
-200124,1260,Pacos de Ferreira,153,Braga,1,5,0,3,Estádio da Capital do Móvel,City,Primeira Liga,Europe,Portugal,League,1,20,30,10,Friday,7,2020,F,,,,,,,,,,,,,,
-200312,1096,Belenenses,816,Moreirense,0,1,0,0,Estádio Nacional,City,Primeira Liga,Europe,Portugal,League,1,18,15,11,Saturday,7,2020,F,,,,,,,,,,,,,,
-200545,810,Maritimo,603,Rio Ave,0,0,0,0,Estádio dos Barreiros,City,Primeira Liga,Europe,Portugal,League,1,18,0,13,Monday,7,2020,F,,,,,,,,,,,,,,
-200573,602,Vitoria de Setubal,1151,Famalicao,1,2,1,1,Estádio do Bonfim,City,Primeira Liga,Europe,Portugal,League,1,20,15,13,Monday,7,2020,F,,,,,,,,,,,,,,
-200591,826,Santa Clara,821,Aves,3,0,2,0,Estádio de São Miguel,City,Primeira Liga,Europe,Portugal,League,1,16,0,14,Tuesday,7,2020,F,,,,,,,,,,,,,,
-200614,358,Portimonense,1150,Boavista,2,1,2,0,Estádio Municipal de Portimão,City,Primeira Liga,Europe,Portugal,League,1,18,15,14,Tuesday,7,2020,F,,,,,,,,,,,,,,
-200630,601,Gil Vicente,650,Tondela,3,2,1,0,Estádio Cidade de Barcelos,City,Primeira Liga,Europe,Portugal,League,1,20,30,14,Tuesday,7,2020,F,,,,,,,,,,,,,,
-200631,131,Benfica,171,Vitoria de Guimaraes,2,0,1,0,Estádio do Sport Lisboa e Benfica ,City,Primeira Liga,Europe,Portugal,League,1,20,30,14,Tuesday,7,2020,F,,,,,,,,,,,,,,
-200691,816,Moreirense,1260,Pacos de Ferreira,1,1,1,0,Parque Desportivo Comendador Joaquim de Almeida Freitas,City,Primeira Liga,Europe,Portugal,League,1,16,0,15,Wednesday,7,2020,F,,,,,,,,,,,,,,
-200740,153,Braga,1096,Belenenses,1,1,1,0,Estádio Municipal de Braga,City,Primeira Liga,Europe,Portugal,League,1,18,15,15,Wednesday,7,2020,F,,,,,,,,,,,,,,
-200757,143,FC Porto,138,Sporting CP,2,0,0,0,Estádio Do Dragão,City,Primeira Liga,Europe,Portugal,League,1,20,30,15,Wednesday,7,2020,F,,,,,,,,,,,,,,
-201070,603,Rio Ave,826,Santa Clara,2,2,1,1,Estádio do Rio Ave Futebol Clube,City,Primeira Liga,Europe,Portugal,League,1,18,0,18,Saturday,7,2020,F,,,,,,,,,,,,,,
-201241,1096,Belenenses,601,Gil Vicente,1,0,0,0,Estádio Nacional,City,Primeira Liga,Europe,Portugal,League,1,18,0,19,Sunday,7,2020,F,,,,,,,,,,,,,,
-201288,1260,Pacos de Ferreira,358,Portimonense,2,1,2,1,Estádio da Capital do Móvel,City,Primeira Liga,Europe,Portugal,League,1,16,0,20,Monday,7,2020,F,,,,,,,,,,,,,,
-201307,650,Tondela,153,Braga,1,0,0,0,Estádio João Cardoso,City,Primeira Liga,Europe,Portugal,League,1,18,15,20,Monday,7,2020,F,,,,,,,,,,,,,,
-201319,143,FC Porto,816,Moreirense,6,1,1,1,Estádio Do Dragão,City,Primeira Liga,Europe,Portugal,League,1,20,15,20,Monday,7,2020,F,,,,,,,,,,,,,,
-201353,138,Sporting CP,602,Vitoria de Setubal,0,0,0,0,Estádio José Alvalade,City,Primeira Liga,Europe,Portugal,League,1,18,0,21,Tuesday,7,2020,F,,,,,,,,,,,,,,
-201363,821,Aves,131,Benfica,0,4,0,1,Estádio Clube Desportivo das Aves,City,Primeira Liga,Europe,Portugal,League,1,20,15,21,Tuesday,7,2020,F,,,,,,,,,,,,,,
-201593,826,Santa Clara,171,Vitoria de Guimaraes,2,2,2,1,Estádio de São Miguel,City,Primeira Liga,Europe,Portugal,League,1,18,0,24,Friday,7,2020,F,,,,,,,,,,,,,,
-201617,601,Gil Vicente,1260,Pacos de Ferreira,3,3,2,2,Estádio Cidade de Barcelos,City,Primeira Liga,Europe,Portugal,League,1,20,15,24,Friday,7,2020,F,,,,,,,,,,,,,,
-201770,1150,Boavista,603,Rio Ave,0,2,0,1,Estádio do Bessa Século XXI,City,Primeira Liga,Europe,Portugal,League,1,18,0,25,Saturday,7,2020,F,,,,,,,,,,,,,,
-201771,810,Maritimo,1151,Famalicao,3,3,1,1,Estádio dos Barreiros,City,Primeira Liga,Europe,Portugal,League,1,18,0,25,Saturday,7,2020,F,,,,,,,,,,,,,,
-201787,153,Braga,143,FC Porto,2,1,0,1,Estádio Municipal de Braga,City,Primeira Liga,Europe,Portugal,League,1,20,15,25,Saturday,7,2020,F,,,,,,,,,,,,,,
-201788,131,Benfica,138,Sporting CP,2,1,1,0,Estádio do Sport Lisboa e Benfica ,City,Primeira Liga,Europe,Portugal,League,1,20,15,25,Saturday,7,2020,F,,,,,,,,,,,,,,
-201929,816,Moreirense,650,Tondela,1,2,0,1,Parque Desportivo Comendador Joaquim de Almeida Freitas,City,Primeira Liga,Europe,Portugal,League,1,18,30,26,Sunday,7,2020,F,,,,,,,,,,,,,,
-201930,358,Portimonense,821,Aves,2,0,0,0,Estádio Municipal de Portimão,City,Primeira Liga,Europe,Portugal,League,1,18,30,26,Sunday,7,2020,F,,,,,,,,,,,,,,
-201931,602,Vitoria de Setubal,1096,Belenenses,2,0,1,0,Estádio do Bonfim,City,Primeira Liga,Europe,Portugal,League,1,18,30,26,Sunday,7,2020,F,,,,,,,,,,,,,,
+199330,138,Sporting CP,601,Gil Vicente,2,1,1,0,Estádio José Alvalade,City,Primeira Liga,Europe,Portugal,League,1,20,15,1,Wednesday,7,2020,T,0,2,0,0,50,50,8,4,4,3,22,14,85,118
+199461,826,Santa Clara,810,Maritimo,0,1,0,0,Estádio de São Miguel,City,Primeira Liga,Europe,Portugal,League,1,18,15,3,Friday,7,2020,T,2,2,0,0,44,56,9,6,4,5,17,24,124,120
+199602,602,Vitoria de Setubal,1260,Pacos de Ferreira,2,3,2,0,Estádio do Bonfim,City,Primeira Liga,Europe,Portugal,League,1,16,0,4,Saturday,7,2020,T,1,2,0,0,51,49,5,13,3,8,10,17,91,95
+199641,358,Portimonense,171,Vitoria de Guimaraes,0,1,0,0,Estádio Municipal de Portimão,City,Primeira Liga,Europe,Portugal,League,1,18,15,4,Saturday,7,2020,T,1,1,0,0,57,43,9,9,2,3,21,13,128,121
+199654,131,Benfica,1150,Boavista,3,1,3,0,Estádio do Sport Lisboa e Benfica ,City,Primeira Liga,Europe,Portugal,League,1,20,15,4,Saturday,7,2020,T,1,2,0,0,63,37,14,5,11,3,13,16,125,85
+199655,153,Braga,821,Aves,4,0,0,0,Estádio Municipal de Braga,City,Primeira Liga,Europe,Portugal,League,1,20,30,4,Saturday,7,2020,T,1,1,0,0,63,37,10,5,8,2,13,13,133,77
+199742,601,Gil Vicente,603,Rio Ave,1,0,1,0,Estádio Cidade de Barcelos,City,Primeira Liga,Europe,Portugal,League,1,16,0,5,Sunday,7,2020,T,3,2,0,0,44,56,6,8,2,3,17,14,84,104
+199770,650,Tondela,1151,Famalicao,0,1,0,0,Estádio João Cardoso,City,Primeira Liga,Europe,Portugal,League,1,18,15,5,Sunday,7,2020,T,3,4,0,0,51,49,6,4,2,3,6,15,82,86
+199779,143,FC Porto,1096,Belenenses,5,0,1,0,Estádio Do Dragão,City,Primeira Liga,Europe,Portugal,League,1,20,30,5,Sunday,7,2020,T,2,3,0,0,56,44,11,7,7,1,19,12,119,78
+199835,816,Moreirense,138,Sporting CP,0,0,0,0,Parque Desportivo Comendador Joaquim de Almeida Freitas,City,Primeira Liga,Europe,Portugal,League,1,20,0,6,Monday,7,2020,T,3,4,1,0,42,58,7,8,0,2,17,19,76,89
+199971,1150,Boavista,810,Maritimo,0,1,0,1,Estádio do Bessa Século XXI,City,Primeira Liga,Europe,Portugal,League,1,18,0,8,Wednesday,7,2020,T,2,1,1,0,43,57,6,10,1,6,21,17,83,103
+200002,821,Aves,602,Vitoria de Setubal,1,0,1,0,Estádio Clube Desportivo das Aves,City,Primeira Liga,Europe,Portugal,League,1,20,15,8,Wednesday,7,2020,T,4,3,0,0,51,49,6,6,5,1,19,16,105,94
+200024,603,Rio Ave,358,Portimonense,2,1,1,1,Estádio do Rio Ave Futebol Clube,City,Primeira Liga,Europe,Portugal,League,1,16,0,9,Thursday,7,2020,T,1,2,0,0,59,41,5,3,2,1,12,19,96,67
+200042,650,Tondela,143,FC Porto,1,3,0,0,Estádio João Cardoso,City,Primeira Liga,Europe,Portugal,League,1,18,15,9,Thursday,7,2020,T,3,4,0,0,46,54,5,12,2,6,15,16,91,108
+200057,1151,Famalicao,131,Benfica,1,1,0,1,Estádio Municipal 22 de Junho,City,Primeira Liga,Europe,Portugal,League,1,20,30,9,Thursday,7,2020,T,2,3,0,0,52,48,9,13,6,9,12,16,91,95
+200083,171,Vitoria de Guimaraes,601,Gil Vicente,1,2,0,0,Estádio Dom Afonso Henriques,City,Primeira Liga,Europe,Portugal,League,1,16,0,10,Friday,7,2020,T,2,0,0,0,48,52,8,9,2,5,15,14,95,85
+200108,138,Sporting CP,826,Santa Clara,1,0,0,0,Estádio José Alvalade,City,Primeira Liga,Europe,Portugal,League,1,18,15,10,Friday,7,2020,T,4,2,0,0,67,33,7,2,1,0,12,15,136,99
+200124,1260,Pacos de Ferreira,153,Braga,1,5,0,3,Estádio da Capital do Móvel,City,Primeira Liga,Europe,Portugal,League,1,20,30,10,Friday,7,2020,T,5,3,0,0,50,50,11,9,3,8,15,12,112,93
+200312,1096,Belenenses,816,Moreirense,0,1,0,0,Estádio Nacional,City,Primeira Liga,Europe,Portugal,League,1,18,15,11,Saturday,7,2020,T,4,2,0,0,56,44,4,12,0,7,20,20,129,104
+200545,810,Maritimo,603,Rio Ave,0,0,0,0,Estádio dos Barreiros,City,Primeira Liga,Europe,Portugal,League,1,18,0,13,Monday,7,2020,T,0,2,0,0,35,65,13,8,4,2,20,20,109,128
+200573,602,Vitoria de Setubal,1151,Famalicao,1,2,1,1,Estádio do Bonfim,City,Primeira Liga,Europe,Portugal,League,1,20,15,13,Monday,7,2020,T,4,4,0,0,40,60,5,7,2,3,14,14,101,115
+200591,826,Santa Clara,821,Aves,3,0,2,0,Estádio de São Miguel,City,Primeira Liga,Europe,Portugal,League,1,16,0,14,Tuesday,7,2020,T,0,1,0,0,56,44,7,8,5,3,14,18,114,109
+200614,358,Portimonense,1150,Boavista,2,1,2,0,Estádio Municipal de Portimão,City,Primeira Liga,Europe,Portugal,League,1,18,15,14,Tuesday,7,2020,T,1,4,0,0,58,42,11,8,7,3,18,19,145,120
+200630,601,Gil Vicente,650,Tondela,3,2,1,0,Estádio Cidade de Barcelos,City,Primeira Liga,Europe,Portugal,League,1,20,30,14,Tuesday,7,2020,T,2,4,0,0,52,48,8,13,6,7,14,19,112,104
+200631,131,Benfica,171,Vitoria de Guimaraes,2,0,1,0,Estádio do Sport Lisboa e Benfica ,City,Primeira Liga,Europe,Portugal,League,1,20,30,14,Tuesday,7,2020,T,2,0,0,0,58,42,11,7,6,3,23,12,129,111
+200691,816,Moreirense,1260,Pacos de Ferreira,1,1,1,0,Parque Desportivo Comendador Joaquim de Almeida Freitas,City,Primeira Liga,Europe,Portugal,League,1,16,0,15,Wednesday,7,2020,T,2,5,0,0,40,60,11,4,4,2,16,12,59,86
+200740,153,Braga,1096,Belenenses,1,1,1,0,Estádio Municipal de Braga,City,Primeira Liga,Europe,Portugal,League,1,18,15,15,Wednesday,7,2020,T,2,2,0,0,61,39,19,6,8,1,19,17,132,78
+200757,143,FC Porto,138,Sporting CP,2,0,0,0,Estádio Do Dragão,City,Primeira Liga,Europe,Portugal,League,1,20,30,15,Wednesday,7,2020,T,4,2,0,0,53,47,6,5,3,2,16,20,97,84
+201070,603,Rio Ave,826,Santa Clara,2,2,1,1,Estádio do Rio Ave Futebol Clube,City,Primeira Liga,Europe,Portugal,League,1,18,0,18,Saturday,7,2020,T,3,2,0,0,64,36,12,10,6,6,22,14,97,60
+201241,1096,Belenenses,601,Gil Vicente,1,0,0,0,Estádio Nacional,City,Primeira Liga,Europe,Portugal,League,1,18,0,19,Sunday,7,2020,T,4,4,0,0,43,57,5,4,2,3,18,23,99,150
+201288,1260,Pacos de Ferreira,358,Portimonense,2,1,2,1,Estádio da Capital do Móvel,City,Primeira Liga,Europe,Portugal,League,1,16,0,20,Monday,7,2020,T,2,3,0,0,47,53,8,8,2,3,15,22,100,107
+201307,650,Tondela,153,Braga,1,0,0,0,Estádio João Cardoso,City,Primeira Liga,Europe,Portugal,League,1,18,15,20,Monday,7,2020,T,4,0,0,0,36,64,7,6,3,1,21,18,85,121
+201319,143,FC Porto,816,Moreirense,6,1,1,1,Estádio Do Dragão,City,Primeira Liga,Europe,Portugal,League,1,20,15,20,Monday,7,2020,T,1,1,0,0,58,42,12,6,8,4,13,8,82,79
+201353,138,Sporting CP,602,Vitoria de Setubal,0,0,0,0,Estádio José Alvalade,City,Primeira Liga,Europe,Portugal,League,1,18,0,21,Tuesday,7,2020,T,1,3,0,0,68,32,8,2,3,1,15,19,152,85
+201363,821,Aves,131,Benfica,0,4,0,1,Estádio Clube Desportivo das Aves,City,Primeira Liga,Europe,Portugal,League,1,20,15,21,Tuesday,7,2020,T,1,0,0,0,40,60,2,14,1,9,11,22,85,120
+201593,826,Santa Clara,171,Vitoria de Guimaraes,2,2,2,1,Estádio de São Miguel,City,Primeira Liga,Europe,Portugal,League,1,18,0,24,Friday,7,2020,T,4,3,1,0,45,55,3,7,2,4,21,11,89,98
+201617,601,Gil Vicente,1260,Pacos de Ferreira,3,3,2,2,Estádio Cidade de Barcelos,City,Primeira Liga,Europe,Portugal,League,1,20,15,24,Friday,7,2020,T,3,2,0,0,53,47,10,9,5,7,23,20,95,84
+201770,1150,Boavista,603,Rio Ave,0,2,0,1,Estádio do Bessa Século XXI,City,Primeira Liga,Europe,Portugal,League,1,18,0,25,Saturday,7,2020,T,3,2,0,0,50,50,7,7,2,5,18,18,94,91
+201771,810,Maritimo,1151,Famalicao,3,3,1,1,Estádio dos Barreiros,City,Primeira Liga,Europe,Portugal,League,1,18,0,25,Saturday,7,2020,T,4,3,0,0,35,65,8,12,5,6,17,18,91,158
+201787,153,Braga,143,FC Porto,2,1,0,1,Estádio Municipal de Braga,City,Primeira Liga,Europe,Portugal,League,1,20,15,25,Saturday,7,2020,T,6,3,0,0,45,55,9,6,5,4,18,14,81,101
+201788,131,Benfica,138,Sporting CP,2,1,1,0,Estádio do Sport Lisboa e Benfica ,City,Primeira Liga,Europe,Portugal,League,1,20,15,25,Saturday,7,2020,T,4,3,0,0,46,54,13,10,4,5,20,15,112,107
+201929,816,Moreirense,650,Tondela,1,2,0,1,Parque Desportivo Comendador Joaquim de Almeida Freitas,City,Primeira Liga,Europe,Portugal,League,1,18,30,26,Sunday,7,2020,T,2,1,0,0,61,39,7,6,4,4,16,19,86,65
+201930,358,Portimonense,821,Aves,2,0,0,0,Estádio Municipal de Portimão,City,Primeira Liga,Europe,Portugal,League,1,18,30,26,Sunday,7,2020,T,2,3,0,0,57,43,8,7,6,2,19,21,157,97
+201931,602,Vitoria de Setubal,1096,Belenenses,2,0,1,0,Estádio do Bonfim,City,Primeira Liga,Europe,Portugal,League,1,18,30,26,Sunday,7,2020,T,1,1,0,0,41,59,8,7,3,2,15,8,92,142
