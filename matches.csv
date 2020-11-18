@@ -7341,9 +7341,9 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 151576.0,1348.0,St. Pauli,1731.0,Greuther Fuerth,1,3,1.0,2.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,2.0,Friday,8.0,2019.0,T,,,,,,,,,,,,,,
 151638.0,1081.0,Karlsruher SC,953.0,Dynamo Dresden,4,2,1.0,1.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,3.0,Saturday,8.0,2019.0,T,,,,,,,,,,,,,,
 151706.0,43.0,Hannover 96,1144.0,Jahn Regensburg,1,1,0.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,3.0,Saturday,8.0,2019.0,T,,,,,,,,,,,,,,
-152171.0,1146.0,Arminia Bielefeld,47.0,Hamburger SV,0,4,0.0,2.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,5.0,Monday,8.0,2019.0,T,,,,,,,,,,,,,,
+152171.0,1146.0,Nurnberg,47.0,Hamburger SV,0,4,0.0,2.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,5.0,Monday,8.0,2019.0,T,,,,,,,,,,,,,,
 153915.0,47.0,Hamburger SV,1380.0,Bochum,1,0,0.0,0.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,16.0,Friday,8.0,2019.0,T,,,,,,,,,,,,,,
-153916.0,305.0,Sandhausen,1146.0,Arminia Bielefeld,3,2,2.0,1.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,16.0,Friday,8.0,2019.0,T,,,,,,,,,,,,,,
+153916.0,305.0,Sandhausen,1146.0,Nurnberg,3,2,2.0,1.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,16.0,Friday,8.0,2019.0,T,,,,,,,,,,,,,,
 154066.0,289.0,Arminia Bielefeld,1381.0,Erzgebirge Aue,3,1,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,17.0,Saturday,8.0,2019.0,T,,,,,,,,,,,,,,
 154067.0,300.0,Wehen,43.0,Hannover 96,0,3,0.0,1.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,17.0,Saturday,8.0,2019.0,T,,,,,,,,,,,,,,
 154068.0,54.0,VfB Stuttgart,1348.0,St. Pauli,2,1,0.0,1.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,17.0,Saturday,8.0,2019.0,T,,,,,,,,,,,,,,
@@ -7357,10 +7357,10 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 155281.0,1144.0,Jahn Regensburg,289.0,Arminia Bielefeld,1,3,0.0,1.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,24.0,Saturday,8.0,2019.0,T,,,,,,,,,,,,,,
 155282.0,1380.0,Bochum,300.0,Wehen,3,3,0.0,3.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,24.0,Saturday,8.0,2019.0,T,,,,,,,,,,,,,,
 155789.0,1077.0,FC Heidenheim,305.0,Sandhausen,0,2,0.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,25.0,Sunday,8.0,2019.0,T,,,,,,,,,,,,,,
-155790.0,1146.0,Arminia Bielefeld,302.0,Osnabrueck,1,0,0.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,25.0,Sunday,8.0,2019.0,T,,,,,,,,,,,,,,
+155790.0,1146.0,Nurnberg,302.0,Osnabrueck,1,0,0.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,25.0,Sunday,8.0,2019.0,T,,,,,,,,,,,,,,
 155791.0,1081.0,Karlsruher SC,47.0,Hamburger SV,2,4,0.0,2.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,25.0,Sunday,8.0,2019.0,T,,,,,,,,,,,,,,
 156219.0,1348.0,St. Pauli,1142.0,Holstein Kiel,2,1,0.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,26.0,Monday,8.0,2019.0,T,,,,,,,,,,,,,,
-156686.0,1146.0,Arminia Bielefeld,1077.0,FC Heidenheim,2,2,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,30.0,Friday,8.0,2019.0,T,,,,,,,,,,,,,,
+156686.0,1146.0,Nurnberg,1077.0,FC Heidenheim,2,2,1.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,30.0,Friday,8.0,2019.0,T,,,,,,,,,,,,,,
 156687.0,305.0,Sandhausen,306.0,Darmstadt,1,0,0.0,0.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,30.0,Friday,8.0,2019.0,T,,,,,,,,,,,,,,
 156851.0,289.0,Arminia Bielefeld,1731.0,Greuther Fuerth,2,2,1.0,2.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,31.0,Saturday,8.0,2019.0,T,,,,,,,,,,,,,,
 156852.0,953.0,Dynamo Dresden,1348.0,St. Pauli,3,3,1.0,3.0,DDV-Stadion,Dresden,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,31.0,Saturday,8.0,2019.0,T,,,,,,,,,,,,,,
@@ -7375,12 +7375,12 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 159000.0,43.0,Hannover 96,289.0,Arminia Bielefeld,0,2,0.0,1.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,14.0,Saturday,9.0,2019.0,T,,,,,,,,,,,,,,
 159001.0,1144.0,Jahn Regensburg,54.0,VfB Stuttgart,2,3,0.0,1.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,14.0,Saturday,9.0,2019.0,T,,,,,,,,,,,,,,
 160110.0,1381.0,Erzgebirge Aue,302.0,Osnabrueck,1,0,1.0,0.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,15.0,Sunday,9.0,2019.0,T,,,,,,,,,,,,,,
-160111.0,306.0,Darmstadt,1146.0,Arminia Bielefeld,3,3,1.0,2.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,15.0,Sunday,9.0,2019.0,T,,,,,,,,,,,,,,
+160111.0,306.0,Darmstadt,1146.0,Nurnberg,3,3,1.0,2.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,15.0,Sunday,9.0,2019.0,T,,,,,,,,,,,,,,
 160112.0,1380.0,Bochum,953.0,Dynamo Dresden,2,2,0.0,0.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,15.0,Sunday,9.0,2019.0,T,,,,,,,,,,,,,,
 160879.0,1348.0,St. Pauli,47.0,Hamburger SV,2,0,1.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,16.0,Monday,9.0,2019.0,T,,,,,,,,,,,,,,
 161241.0,1077.0,FC Heidenheim,306.0,Darmstadt,1,0,0.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,20.0,Friday,9.0,2019.0,T,,,,,,,,,,,,,,
 161242.0,1142.0,Holstein Kiel,43.0,Hannover 96,1,2,0.0,1.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,20.0,Friday,9.0,2019.0,T,,,,,,,,,,,,,,
-161361.0,1146.0,Arminia Bielefeld,1081.0,Karlsruher SC,1,1,1.0,1.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,21.0,Saturday,9.0,2019.0,T,,,,,,,,,,,,,,
+161361.0,1146.0,Nurnberg,1081.0,Karlsruher SC,1,1,1.0,1.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,21.0,Saturday,9.0,2019.0,T,,,,,,,,,,,,,,
 161362.0,305.0,Sandhausen,1380.0,Bochum,1,1,0.0,0.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,21.0,Saturday,9.0,2019.0,T,,,,,,,,,,,,,,
 161363.0,300.0,Wehen,289.0,Arminia Bielefeld,2,5,1.0,3.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,21.0,Saturday,9.0,2019.0,T,,,,,,,,,,,,,,
 161364.0,54.0,VfB Stuttgart,1731.0,Greuther Fuerth,2,0,1.0,0.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,21.0,Saturday,9.0,2019.0,T,,,,,,,,,,,,,,
@@ -7395,17 +7395,17 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 163459.0,1381.0,Erzgebirge Aue,953.0,Dynamo Dresden,4,1,3.0,1.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,29.0,Sunday,9.0,2019.0,T,,,,,,,,,,,,,,
 163460.0,1348.0,St. Pauli,305.0,Sandhausen,2,0,2.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,29.0,Sunday,9.0,2019.0,T,,,,,,,,,,,,,,
 163461.0,1731.0,Greuther Fuerth,1142.0,Holstein Kiel,0,3,0.0,1.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,29.0,Sunday,9.0,2019.0,T,,,,,,,,,,,,,,
-163919.0,43.0,Hannover 96,1146.0,Arminia Bielefeld,0,4,0.0,3.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,30.0,Monday,9.0,2019.0,T,,,,,,,,,,,,,,
+163919.0,43.0,Hannover 96,1146.0,Nurnberg,0,4,0.0,3.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,30.0,Monday,9.0,2019.0,T,,,,,,,,,,,,,,
 164229.0,306.0,Darmstadt,1081.0,Karlsruher SC,1,1,1.0,1.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,4.0,Friday,10.0,2019.0,T,,,,,,,,,,,,,,
 164230.0,54.0,VfB Stuttgart,300.0,Wehen,1,2,1.0,2.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,4.0,Friday,10.0,2019.0,T,,,,,,,,,,,,,,
 164349.0,47.0,Hamburger SV,1731.0,Greuther Fuerth,2,0,0.0,0.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,5.0,Saturday,10.0,2019.0,T,,,,,,,,,,,,,,
 164350.0,953.0,Dynamo Dresden,43.0,Hannover 96,0,2,0.0,0.0,DDV-Stadion,Dresden,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,5.0,Saturday,10.0,2019.0,T,,,,,,,,,,,,,,
 164351.0,305.0,Sandhausen,1381.0,Erzgebirge Aue,2,2,2.0,1.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,5.0,Saturday,10.0,2019.0,T,,,,,,,,,,,,,,
 164794.0,1077.0,FC Heidenheim,1380.0,Bochum,2,3,1.0,2.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,6.0,Sunday,10.0,2019.0,T,,,,,,,,,,,,,,
-164795.0,1146.0,Arminia Bielefeld,1348.0,St. Pauli,1,1,0.0,1.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,6.0,Sunday,10.0,2019.0,T,,,,,,,,,,,,,,
+164795.0,1146.0,Nurnberg,1348.0,St. Pauli,1,1,0.0,1.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,6.0,Sunday,10.0,2019.0,T,,,,,,,,,,,,,,
 164796.0,1142.0,Holstein Kiel,1144.0,Jahn Regensburg,1,2,1.0,1.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,6.0,Sunday,10.0,2019.0,T,,,,,,,,,,,,,,
 165101.0,302.0,Osnabrueck,289.0,Arminia Bielefeld,0,1,0.0,0.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,7.0,Monday,10.0,2019.0,T,,,,,,,,,,,,,,
-166247.0,1381.0,Erzgebirge Aue,1146.0,Arminia Bielefeld,4,3,0.0,0.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,18.0,Friday,10.0,2019.0,T,,,,,,,,,,,,,,
+166247.0,1381.0,Erzgebirge Aue,1146.0,Nurnberg,4,3,0.0,0.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,18.0,Friday,10.0,2019.0,T,,,,,,,,,,,,,,
 166248.0,1731.0,Greuther Fuerth,953.0,Dynamo Dresden,2,0,2.0,0.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,18.0,Friday,10.0,2019.0,T,,,,,,,,,,,,,,
 166418.0,1348.0,St. Pauli,306.0,Darmstadt,0,1,0.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,19.0,Saturday,10.0,2019.0,T,,,,,,,,,,,,,,
 166419.0,1144.0,Jahn Regensburg,305.0,Sandhausen,1,0,0.0,0.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,19.0,Saturday,10.0,2019.0,T,,,,,,,,,,,,,,
@@ -7420,7 +7420,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 168054.0,1081.0,Karlsruher SC,43.0,Hannover 96,3,3,1.0,2.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,26.0,Saturday,10.0,2019.0,T,,,,,,,,,,,,,,
 168055.0,953.0,Dynamo Dresden,289.0,Arminia Bielefeld,0,1,0.0,0.0,DDV-Stadion,Dresden,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,26.0,Saturday,10.0,2019.0,T,,,,,,,,,,,,,,
 168572.0,1077.0,FC Heidenheim,1348.0,St. Pauli,1,0,0.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,27.0,Sunday,10.0,2019.0,T,,,,,,,,,,,,,,
-168573.0,1146.0,Arminia Bielefeld,1144.0,Jahn Regensburg,1,1,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,27.0,Sunday,10.0,2019.0,T,,,,,,,,,,,,,,
+168573.0,1146.0,Nurnberg,1144.0,Jahn Regensburg,1,1,1.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,27.0,Sunday,10.0,2019.0,T,,,,,,,,,,,,,,
 168574.0,302.0,Osnabrueck,1731.0,Greuther Fuerth,0,0,0.0,0.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,27.0,Sunday,10.0,2019.0,T,,,,,,,,,,,,,,
 168901.0,305.0,Sandhausen,300.0,Wehen,0,0,0.0,0.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,28.0,Monday,10.0,2019.0,T,,,,,,,,,,,,,,
 169476.0,43.0,Hannover 96,305.0,Sandhausen,1,1,1.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,1.0,Friday,11.0,2019.0,T,,,,,,,,,,,,,,
@@ -7431,14 +7431,14 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 170434.0,289.0,Arminia Bielefeld,1142.0,Holstein Kiel,2,1,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,3.0,Sunday,11.0,2019.0,T,,,,,,,,,,,,,,
 170435.0,300.0,Wehen,47.0,Hamburger SV,1,1,0.0,0.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,3.0,Sunday,11.0,2019.0,T,,,,,,,,,,,,,,
 170436.0,54.0,VfB Stuttgart,953.0,Dynamo Dresden,3,1,2.0,0.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,3.0,Sunday,11.0,2019.0,T,,,,,,,,,,,,,,
-171104.0,1380.0,Bochum,1146.0,Arminia Bielefeld,3,1,3.0,0.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,4.0,Monday,11.0,2019.0,T,,,,,,,,,,,,,,
+171104.0,1380.0,Bochum,1146.0,Nurnberg,3,1,3.0,0.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,4.0,Monday,11.0,2019.0,T,,,,,,,,,,,,,,
 171422.0,1348.0,St. Pauli,1380.0,Bochum,1,1,1.0,1.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,8.0,Friday,11.0,2019.0,T,,,,,,,,,,,,,,
 171423.0,953.0,Dynamo Dresden,300.0,Wehen,1,0,1.0,0.0,DDV-Stadion,Dresden,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,8.0,Friday,11.0,2019.0,T,1.0,3.0,0.0,0.0,58.0,42.0,5.0,3.0,4.0,1.0,13.0,9.0,68.0,68.0
 171570.0,1142.0,Holstein Kiel,47.0,Hamburger SV,1,1,1.0,0.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,9.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
 171571.0,305.0,Sandhausen,1731.0,Greuther Fuerth,3,2,1.0,1.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,9.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
 171572.0,302.0,Osnabrueck,54.0,VfB Stuttgart,1,0,1.0,0.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,9.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
 172075.0,1077.0,FC Heidenheim,43.0,Hannover 96,4,0,1.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,10.0,Sunday,11.0,2019.0,T,,,,,,,,,,,,,,
-172076.0,1146.0,Arminia Bielefeld,289.0,Arminia Bielefeld,1,5,0.0,3.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,10.0,Sunday,11.0,2019.0,T,,,,,,,,,,,,,,
+172076.0,1146.0,Nurnberg,289.0,Arminia Bielefeld,1,5,0.0,3.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,10.0,Sunday,11.0,2019.0,T,,,,,,,,,,,,,,
 172077.0,306.0,Darmstadt,1144.0,Jahn Regensburg,2,2,0.0,1.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,10.0,Sunday,11.0,2019.0,T,,,,,,,,,,,,,,
 172393.0,1081.0,Karlsruher SC,1381.0,Erzgebirge Aue,1,1,0.0,1.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,11.0,Monday,11.0,2019.0,T,,,,,,,,,,,,,,
 173410.0,1381.0,Erzgebirge Aue,1348.0,St. Pauli,3,1,2.0,0.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,22.0,Friday,11.0,2019.0,T,,,,,,,,,,,,,,
@@ -7447,12 +7447,12 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 173543.0,47.0,Hamburger SV,953.0,Dynamo Dresden,2,1,0.0,0.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,23.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
 173544.0,300.0,Wehen,1142.0,Holstein Kiel,3,6,2.0,4.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,23.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
 173980.0,1144.0,Jahn Regensburg,1077.0,FC Heidenheim,3,1,1.0,0.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,24.0,Sunday,11.0,2019.0,T,,,,,,,,,,,,,,
-173981.0,1731.0,Greuther Fuerth,1146.0,Arminia Bielefeld,0,0,0.0,0.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,24.0,Sunday,11.0,2019.0,T,2.0,3.0,0.0,0.0,52.0,48.0,7.0,11.0,2.0,4.0,9.0,13.0,95.0,74.0
+173981.0,1731.0,Greuther Fuerth,1146.0,Nurnberg,0,0,0.0,0.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,24.0,Sunday,11.0,2019.0,T,2.0,3.0,0.0,0.0,52.0,48.0,7.0,11.0,2.0,4.0,9.0,13.0,95.0,74.0
 173982.0,54.0,VfB Stuttgart,1081.0,Karlsruher SC,3,0,0.0,0.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,24.0,Sunday,11.0,2019.0,T,,,,,,,,,,,,,,
 174264.0,43.0,Hannover 96,306.0,Darmstadt,1,2,1.0,2.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,25.0,Monday,11.0,2019.0,T,,,,,,,,,,,,,,
 174577.0,1081.0,Karlsruher SC,1144.0,Jahn Regensburg,4,1,2.0,0.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,29.0,Friday,11.0,2019.0,T,,,,,,,,,,,,,,
 174578.0,302.0,Osnabrueck,47.0,Hamburger SV,2,1,2.0,0.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,29.0,Friday,11.0,2019.0,T,,,,,,,,,,,,,,
-174693.0,1146.0,Arminia Bielefeld,300.0,Wehen,0,2,0.0,1.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,30.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
+174693.0,1146.0,Nurnberg,300.0,Wehen,0,2,0.0,1.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,30.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
 174694.0,1348.0,St. Pauli,43.0,Hannover 96,0,1,0.0,1.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,30.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
 174695.0,953.0,Dynamo Dresden,1142.0,Holstein Kiel,1,2,0.0,2.0,DDV-Stadion,Dresden,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,30.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
 174696.0,1380.0,Bochum,1381.0,Erzgebirge Aue,2,0,0.0,0.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,30.0,Saturday,11.0,2019.0,T,,,,,,,,,,,,,,
@@ -7467,17 +7467,17 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 176266.0,953.0,Dynamo Dresden,305.0,Sandhausen,1,1,1.0,1.0,DDV-Stadion,Dresden,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,8.0,Sunday,12.0,2019.0,T,4.0,2.0,0.0,0.0,49.0,51.0,10.0,11.0,7.0,6.0,13.0,14.0,68.0,91.0
 176267.0,1144.0,Jahn Regensburg,1348.0,St. Pauli,1,0,1.0,0.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,8.0,Sunday,12.0,2019.0,T,,,,,,,,,,,,,,
 176268.0,300.0,Wehen,306.0,Darmstadt,0,0,0.0,0.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,8.0,Sunday,12.0,2019.0,T,,,,,,,,,,,,,,
-176531.0,54.0,VfB Stuttgart,1146.0,Arminia Bielefeld,3,1,0.0,1.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,9.0,Monday,12.0,2019.0,T,,,,,,,,,,,,,,
+176531.0,54.0,VfB Stuttgart,1146.0,Nurnberg,3,1,0.0,1.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,9.0,Monday,12.0,2019.0,T,,,,,,,,,,,,,,
 176744.0,1381.0,Erzgebirge Aue,1144.0,Jahn Regensburg,1,0,1.0,0.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,13.0,Friday,12.0,2019.0,T,,,,,,,,,,,,,,
 176745.0,1380.0,Bochum,43.0,Hannover 96,2,1,2.0,0.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,13.0,Friday,12.0,2019.0,T,,,,,,,,,,,,,,
 176821.0,1077.0,FC Heidenheim,289.0,Arminia Bielefeld,0,0,0.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,14.0,Saturday,12.0,2019.0,T,0.0,2.0,0.0,0.0,50.0,50.0,8.0,8.0,3.0,3.0,6.0,9.0,84.0,119.0
 176822.0,1348.0,St. Pauli,300.0,Wehen,3,1,1.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,14.0,Saturday,12.0,2019.0,T,,,,,,,,,,,,,,
 176823.0,1081.0,Karlsruher SC,1731.0,Greuther Fuerth,1,5,1.0,2.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,14.0,Saturday,12.0,2019.0,T,,,,,,,,,,,,,,
-177147.0,1146.0,Arminia Bielefeld,1142.0,Holstein Kiel,2,2,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,15.0,Sunday,12.0,2019.0,T,,,,,,,,,,,,,,
+177147.0,1146.0,Nurnberg,1142.0,Holstein Kiel,2,2,1.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,15.0,Sunday,12.0,2019.0,T,,,,,,,,,,,,,,
 177148.0,305.0,Sandhausen,47.0,Hamburger SV,1,1,1.0,0.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,15.0,Sunday,12.0,2019.0,T,,,,,,,,,,,,,,
 177149.0,302.0,Osnabrueck,953.0,Dynamo Dresden,3,0,1.0,0.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,15.0,Sunday,12.0,2019.0,T,,,,,,,,,,,,,,
 177363.0,306.0,Darmstadt,54.0,VfB Stuttgart,1,1,1.0,1.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,16.0,Monday,12.0,2019.0,T,,,,,,,,,,,,,,
-177632.0,1146.0,Arminia Bielefeld,953.0,Dynamo Dresden,2,0,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,20.0,Friday,12.0,2019.0,T,,,,,,,,,,,,,,
+177632.0,1146.0,Nurnberg,953.0,Dynamo Dresden,2,0,1.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,20.0,Friday,12.0,2019.0,T,,,,,,,,,,,,,,
 177633.0,1081.0,Karlsruher SC,300.0,Wehen,0,1,0.0,0.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,20.0,Friday,12.0,2019.0,T,0.0,2.0,0.0,0.0,41.0,59.0,6.0,1.0,1.0,1.0,0.0,12.0,44.0,46.0
 177690.0,1381.0,Erzgebirge Aue,1731.0,Greuther Fuerth,3,1,1.0,0.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,21.0,Saturday,12.0,2019.0,T,1.0,4.0,0.0,0.0,36.0,64.0,15.0,8.0,8.0,4.0,12.0,19.0,77.0,113.0
 177691.0,1348.0,St. Pauli,289.0,Arminia Bielefeld,3,0,2.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,21.0,Saturday,12.0,2019.0,T,1.0,0.0,0.0,0.0,50.0,50.0,8.0,15.0,4.0,4.0,9.0,5.0,89.0,112.0
@@ -7487,19 +7487,19 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 177971.0,305.0,Sandhausen,1142.0,Holstein Kiel,2,2,0.0,1.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,22.0,Sunday,12.0,2019.0,T,,,,,,,,,,,,,,
 177972.0,1380.0,Bochum,1144.0,Jahn Regensburg,2,3,1.0,2.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,22.0,Sunday,12.0,2019.0,T,,,,,,,,,,,,,,
 188572.0,1077.0,FC Heidenheim,953.0,Dynamo Dresden,0,0,0.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,2.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
-188573.0,1146.0,Arminia Bielefeld,305.0,Sandhausen,2,0,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,2.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
+188573.0,1146.0,Nurnberg,305.0,Sandhausen,2,0,1.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,2.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
 188574.0,306.0,Darmstadt,302.0,Osnabrueck,2,2,1.0,1.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,2.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
 188837.0,1380.0,Bochum,47.0,Hamburger SV,1,3,0.0,0.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,3.0,Monday,2.0,2020.0,T,,,,,,,,,,,,,,
 189181.0,953.0,Dynamo Dresden,306.0,Darmstadt,2,3,1.0,3.0,DDV-Stadion,Dresden,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,7.0,Friday,2.0,2020.0,T,,,,,,,,,,,,,,
 189182.0,305.0,Sandhausen,1077.0,FC Heidenheim,0,1,0.0,1.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,7.0,Friday,2.0,2020.0,T,,,,,,,,,,,,,,
 189300.0,47.0,Hamburger SV,1081.0,Karlsruher SC,2,0,0.0,0.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,8.0,Saturday,2.0,2020.0,T,,,,,,,,,,,,,,
 189301.0,54.0,VfB Stuttgart,1381.0,Erzgebirge Aue,3,0,2.0,0.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,8.0,Saturday,2.0,2020.0,T,,,,,,,,,,,,,,
-189302.0,302.0,Osnabrueck,1146.0,Arminia Bielefeld,0,1,0.0,0.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,8.0,Saturday,2.0,2020.0,T,,,,,,,,,,,,,,
+189302.0,302.0,Osnabrueck,1146.0,Nurnberg,0,1,0.0,0.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,8.0,Saturday,2.0,2020.0,T,,,,,,,,,,,,,,
 189681.0,289.0,Arminia Bielefeld,1144.0,Jahn Regensburg,6,0,2.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,9.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
 189682.0,300.0,Wehen,1380.0,Bochum,0,1,0.0,1.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,9.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
 189683.0,1731.0,Greuther Fuerth,43.0,Hannover 96,1,3,0.0,1.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,9.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
 189971.0,1142.0,Holstein Kiel,1348.0,St. Pauli,2,1,1.0,0.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,10.0,Monday,2.0,2020.0,T,,,,,,,,,,,,,,
-190284.0,1077.0,FC Heidenheim,1146.0,Arminia Bielefeld,2,2,1.0,1.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,14.0,Friday,2.0,2020.0,T,1.0,3.0,0.0,0.0,54.0,46.0,8.0,8.0,5.0,4.0,12.0,12.0,117.0,108.0
+190284.0,1077.0,FC Heidenheim,1146.0,Nurnberg,2,2,1.0,1.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,14.0,Friday,2.0,2020.0,T,1.0,3.0,0.0,0.0,54.0,46.0,8.0,8.0,5.0,4.0,12.0,12.0,117.0,108.0
 190285.0,1348.0,St. Pauli,953.0,Dynamo Dresden,0,0,0.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,14.0,Friday,2.0,2020.0,T,2.0,3.0,0.0,0.0,60.0,40.0,12.0,3.0,6.0,1.0,8.0,11.0,143.0,93.0
 190405.0,43.0,Hannover 96,47.0,Hamburger SV,1,1,0.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,15.0,Saturday,2.0,2020.0,T,4.0,0.0,0.0,0.0,48.0,52.0,3.0,9.0,1.0,2.0,20.0,13.0,80.0,82.0
 190406.0,1144.0,Jahn Regensburg,300.0,Wehen,1,0,0.0,0.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,15.0,Saturday,2.0,2020.0,T,2.0,2.0,0.0,0.0,51.0,49.0,6.0,6.0,6.0,3.0,12.0,11.0,112.0,105.0
@@ -7514,10 +7514,10 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 191471.0,1142.0,Holstein Kiel,1077.0,FC Heidenheim,0,1,0.0,0.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,22.0,Saturday,2.0,2020.0,T,,,,,,,,,,,,,,
 191472.0,953.0,Dynamo Dresden,1380.0,Bochum,1,2,0.0,0.0,DDV-Stadion,Dresden,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,22.0,Saturday,2.0,2020.0,T,,,,,,,,,,,,,,
 191473.0,54.0,VfB Stuttgart,1144.0,Jahn Regensburg,2,0,0.0,0.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,22.0,Saturday,2.0,2020.0,T,,,,,,,,,,,,,,
-191929.0,1146.0,Arminia Bielefeld,306.0,Darmstadt,1,2,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,23.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
+191929.0,1146.0,Nurnberg,306.0,Darmstadt,1,2,1.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,23.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
 191930.0,289.0,Arminia Bielefeld,43.0,Hannover 96,1,0,0.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,13.0,0.0,23.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
 191931.0,305.0,Sandhausen,1081.0,Karlsruher SC,0,2,0.0,2.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,23.0,Sunday,2.0,2020.0,T,,,,,,,,,,,,,,
-192487.0,1081.0,Karlsruher SC,1146.0,Arminia Bielefeld,0,1,0.0,0.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,28.0,Friday,2.0,2020.0,T,,,,,,,,,,,,,,
+192487.0,1081.0,Karlsruher SC,1146.0,Nurnberg,0,1,0.0,0.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,28.0,Friday,2.0,2020.0,T,,,,,,,,,,,,,,
 192488.0,1144.0,Jahn Regensburg,953.0,Dynamo Dresden,1,2,0.0,0.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,28.0,Friday,2.0,2020.0,T,,,,,,,,,,,,,,
 192627.0,1381.0,Erzgebirge Aue,47.0,Hamburger SV,3,0,1.0,0.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,29.0,Saturday,2.0,2020.0,T,,,,,,,,,,,,,,
 192628.0,306.0,Darmstadt,1077.0,FC Heidenheim,2,0,2.0,0.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,29.0,Saturday,2.0,2020.0,T,,,,,,,,,,,,,,
@@ -7526,7 +7526,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 193505.0,1348.0,St. Pauli,302.0,Osnabrueck,3,1,2.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,1.0,Sunday,3.0,2020.0,T,,,,,,,,,,,,,,
 193506.0,1380.0,Bochum,305.0,Sandhausen,4,4,2.0,2.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,1.0,Sunday,3.0,2020.0,T,,,,,,,,,,,,,,
 193850.0,43.0,Hannover 96,1142.0,Holstein Kiel,3,1,1.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,19.0,30.0,2.0,Monday,3.0,2020.0,T,,,,,,,,,,,,,,
-194223.0,1146.0,Arminia Bielefeld,43.0,Hannover 96,0,3,0.0,2.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,6.0,Friday,3.0,2020.0,T,,,,,,,,,,,,,,
+194223.0,1146.0,Nurnberg,43.0,Hannover 96,0,3,0.0,2.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,6.0,Friday,3.0,2020.0,T,,,,,,,,,,,,,,
 194224.0,302.0,Osnabrueck,300.0,Wehen,2,6,2.0,5.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,6.0,Friday,3.0,2020.0,T,,,,,,,,,,,,,,
 194357.0,1077.0,FC Heidenheim,1081.0,Karlsruher SC,3,1,3.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,7.0,Saturday,3.0,2020.0,T,1.0,1.0,0.0,1.0,37.0,63.0,12.0,9.0,7.0,4.0,9.0,13.0,70.0,89.0
 194358.0,47.0,Hamburger SV,1144.0,Jahn Regensburg,2,1,1.0,1.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,7.0,Saturday,3.0,2020.0,T,2.0,4.0,0.0,0.0,61.0,39.0,8.0,6.0,5.0,3.0,14.0,13.0,89.0,87.0
@@ -7541,10 +7541,10 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 196128.0,1081.0,Karlsruher SC,306.0,Darmstadt,2,0,0.0,0.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,16.0,Saturday,5.0,2020.0,T,3.0,1.0,0.0,0.0,45.0,55.0,9.0,5.0,5.0,0.0,20.0,13.0,71.0,60.0
 196157.0,289.0,Arminia Bielefeld,302.0,Osnabrueck,1,1,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,17.0,Sunday,5.0,2020.0,T,3.0,0.0,0.0,0.0,58.0,42.0,4.0,4.0,3.0,2.0,9.0,6.0,88.0,66.0
 196158.0,1731.0,Greuther Fuerth,47.0,Hamburger SV,2,2,1.0,1.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,17.0,Sunday,5.0,2020.0,T,2.0,3.0,0.0,0.0,50.0,50.0,7.0,10.0,5.0,6.0,14.0,14.0,99.0,84.0
-196159.0,1348.0,St. Pauli,1146.0,Arminia Bielefeld,1,0,0.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,17.0,Sunday,5.0,2020.0,T,1.0,0.0,0.0,1.0,49.0,51.0,10.0,10.0,7.0,4.0,13.0,8.0,76.0,97.0
+196159.0,1348.0,St. Pauli,1146.0,Nurnberg,1,0,0.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,17.0,Sunday,5.0,2020.0,T,1.0,0.0,0.0,1.0,49.0,51.0,10.0,10.0,7.0,4.0,13.0,8.0,76.0,97.0
 196160.0,300.0,Wehen,54.0,VfB Stuttgart,2,1,0.0,0.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,17.0,Sunday,5.0,2020.0,T,2.0,1.0,0.0,0.0,40.0,60.0,11.0,10.0,6.0,4.0,16.0,14.0,82.0,134.0
 196237.0,1077.0,FC Heidenheim,300.0,Wehen,1,0,0.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,22.0,Friday,5.0,2020.0,T,1.0,2.0,0.0,0.0,61.0,39.0,7.0,5.0,6.0,1.0,11.0,13.0,94.0,70.0
-196238.0,1146.0,Arminia Bielefeld,1381.0,Erzgebirge Aue,1,1,0.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,22.0,Friday,5.0,2020.0,T,5.0,3.0,0.0,0.0,62.0,38.0,7.0,6.0,3.0,2.0,12.0,11.0,106.0,56.0
+196238.0,1146.0,Nurnberg,1381.0,Erzgebirge Aue,1,1,0.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,22.0,Friday,5.0,2020.0,T,5.0,3.0,0.0,0.0,62.0,38.0,7.0,6.0,3.0,2.0,12.0,11.0,106.0,56.0
 196260.0,306.0,Darmstadt,1348.0,St. Pauli,4,0,1.0,0.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,23.0,Saturday,5.0,2020.0,T,0.0,2.0,0.0,0.0,42.0,58.0,14.0,8.0,9.0,4.0,6.0,17.0,78.0,95.0
 196261.0,302.0,Osnabrueck,43.0,Hannover 96,2,4,1.0,1.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,23.0,Saturday,5.0,2020.0,T,3.0,2.0,0.0,0.0,54.0,46.0,6.0,8.0,3.0,5.0,16.0,18.0,72.0,77.0
 196262.0,305.0,Sandhausen,1144.0,Jahn Regensburg,0,0,0.0,0.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,23.0,Saturday,5.0,2020.0,T,3.0,3.0,0.0,0.0,47.0,53.0,10.0,2.0,5.0,0.0,20.0,15.0,85.0,87.0
@@ -7553,7 +7553,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 196311.0,1081.0,Karlsruher SC,1380.0,Bochum,0,0,0.0,0.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,24.0,Sunday,5.0,2020.0,T,3.0,2.0,0.0,0.0,53.0,47.0,6.0,9.0,2.0,4.0,13.0,13.0,79.0,102.0
 196365.0,1381.0,Erzgebirge Aue,306.0,Darmstadt,1,3,1.0,1.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,26.0,Tuesday,5.0,2020.0,T,3.0,2.0,0.0,0.0,42.0,58.0,5.0,14.0,2.0,13.0,15.0,10.0,85.0,98.0
 196366.0,1731.0,Greuther Fuerth,302.0,Osnabrueck,0,2,0.0,1.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,26.0,Tuesday,5.0,2020.0,T,2.0,3.0,0.0,0.0,63.0,37.0,13.0,8.0,2.0,5.0,16.0,15.0,98.0,65.0
-196367.0,1144.0,Jahn Regensburg,1146.0,Arminia Bielefeld,2,2,1.0,1.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,26.0,Tuesday,5.0,2020.0,T,2.0,3.0,0.0,0.0,48.0,52.0,9.0,5.0,2.0,1.0,19.0,12.0,84.0,98.0
+196367.0,1144.0,Jahn Regensburg,1146.0,Nurnberg,2,2,1.0,1.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,26.0,Tuesday,5.0,2020.0,T,2.0,3.0,0.0,0.0,48.0,52.0,9.0,5.0,2.0,1.0,19.0,12.0,84.0,98.0
 196368.0,300.0,Wehen,305.0,Sandhausen,0,1,0.0,1.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,26.0,Tuesday,5.0,2020.0,T,5.0,3.0,0.0,0.0,57.0,43.0,5.0,13.0,2.0,5.0,22.0,14.0,116.0,102.0
 196394.0,1380.0,Bochum,1142.0,Holstein Kiel,2,1,0.0,0.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,27.0,Wednesday,5.0,2020.0,T,3.0,1.0,0.0,0.0,50.0,50.0,8.0,5.0,6.0,3.0,9.0,5.0,94.0,114.0
 196395.0,43.0,Hannover 96,1081.0,Karlsruher SC,1,1,0.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,27.0,Wednesday,5.0,2020.0,T,2.0,0.0,0.0,0.0,54.0,46.0,16.0,7.0,4.0,1.0,12.0,18.0,67.0,67.0
@@ -7563,7 +7563,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 196459.0,302.0,Osnabrueck,1144.0,Jahn Regensburg,2,2,0.0,2.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,29.0,Friday,5.0,2020.0,T,3.0,2.0,0.0,0.0,61.0,39.0,10.0,6.0,5.0,3.0,21.0,20.0,95.0,88.0
 196486.0,1142.0,Holstein Kiel,289.0,Arminia Bielefeld,1,2,0.0,1.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,30.0,Saturday,5.0,2020.0,T,1.0,2.0,0.0,0.0,45.0,55.0,8.0,14.0,3.0,8.0,17.0,10.0,92.0,111.0
 196487.0,1081.0,Karlsruher SC,1348.0,St. Pauli,1,1,0.0,0.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,30.0,Saturday,5.0,2020.0,T,3.0,1.0,0.0,0.0,63.0,37.0,6.0,6.0,5.0,3.0,15.0,13.0,104.0,81.0
-196488.0,1146.0,Arminia Bielefeld,1380.0,Bochum,0,0,0.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,30.0,Saturday,5.0,2020.0,T,1.0,2.0,0.0,0.0,50.0,50.0,5.0,5.0,0.0,1.0,14.0,11.0,109.0,100.0
+196488.0,1146.0,Nurnberg,1380.0,Bochum,0,0,0.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,30.0,Saturday,5.0,2020.0,T,1.0,2.0,0.0,0.0,50.0,50.0,5.0,5.0,0.0,1.0,14.0,11.0,109.0,100.0
 196489.0,305.0,Sandhausen,43.0,Hannover 96,3,1,0.0,0.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,30.0,Saturday,5.0,2020.0,T,3.0,2.0,0.0,0.0,41.0,59.0,12.0,10.0,6.0,3.0,15.0,9.0,82.0,93.0
 196579.0,953.0,Dynamo Dresden,54.0,VfB Stuttgart,0,2,0.0,1.0,DDV-Stadion,Dresden,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,31.0,Sunday,5.0,2020.0,T,2.0,2.0,0.0,0.0,41.0,59.0,5.0,10.0,2.0,6.0,12.0,16.0,76.0,98.0
 196580.0,1077.0,FC Heidenheim,1381.0,Erzgebirge Aue,3,0,0.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,31.0,Sunday,5.0,2020.0,T,1.0,3.0,0.0,0.0,59.0,41.0,8.0,3.0,5.0,1.0,7.0,10.0,60.0,47.0
@@ -7571,7 +7571,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 196718.0,43.0,Hannover 96,953.0,Dynamo Dresden,3,0,3.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,3.0,Wednesday,6.0,2020.0,T,0.0,2.0,0.0,0.0,45.0,55.0,9.0,3.0,4.0,0.0,6.0,7.0,107.0,78.0
 196796.0,1380.0,Bochum,1348.0,St. Pauli,2,0,1.0,0.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,5.0,Friday,6.0,2020.0,T,3.0,3.0,0.0,0.0,58.0,42.0,8.0,3.0,6.0,1.0,14.0,12.0,95.0,87.0
 196797.0,1731.0,Greuther Fuerth,305.0,Sandhausen,1,2,0.0,2.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,5.0,Friday,6.0,2020.0,T,2.0,2.0,0.0,0.0,64.0,36.0,7.0,7.0,3.0,3.0,11.0,20.0,101.0,86.0
-196856.0,289.0,Arminia Bielefeld,1146.0,Arminia Bielefeld,1,1,1.0,1.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,6.0,Saturday,6.0,2020.0,T,2.0,2.0,0.0,0.0,56.0,44.0,9.0,10.0,4.0,6.0,14.0,14.0,93.0,78.0
+196856.0,289.0,Arminia Bielefeld,1146.0,Nurnberg,1,1,1.0,1.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,6.0,Saturday,6.0,2020.0,T,2.0,2.0,0.0,0.0,56.0,44.0,9.0,10.0,4.0,6.0,14.0,14.0,93.0,78.0
 196857.0,1144.0,Jahn Regensburg,306.0,Darmstadt,3,0,1.0,0.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,6.0,Saturday,6.0,2020.0,T,4.0,1.0,0.0,0.0,43.0,57.0,4.0,15.0,3.0,4.0,16.0,16.0,73.0,90.0
 196858.0,300.0,Wehen,953.0,Dynamo Dresden,2,3,2.0,2.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,6.0,Saturday,6.0,2020.0,T,2.0,1.0,0.0,0.0,57.0,43.0,12.0,7.0,3.0,4.0,11.0,16.0,120.0,111.0
 196973.0,1381.0,Erzgebirge Aue,1081.0,Karlsruher SC,1,0,1.0,0.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,7.0,Sunday,6.0,2020.0,T,1.0,2.0,0.0,0.0,42.0,58.0,9.0,7.0,4.0,3.0,10.0,9.0,87.0,110.0
@@ -7583,7 +7583,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 197261.0,305.0,Sandhausen,289.0,Arminia Bielefeld,0,0,0.0,0.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,12.0,Friday,6.0,2020.0,T,2.0,1.0,0.0,0.0,46.0,54.0,15.0,6.0,3.0,0.0,16.0,9.0,85.0,90.0
 197309.0,1077.0,FC Heidenheim,1144.0,Jahn Regensburg,4,1,1.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,13.0,Saturday,6.0,2020.0,T,3.0,2.0,0.0,0.0,52.0,48.0,11.0,7.0,7.0,4.0,13.0,10.0,80.0,88.0
 197310.0,1142.0,Holstein Kiel,300.0,Wehen,1,2,1.0,1.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,13.0,Saturday,6.0,2020.0,T,2.0,1.0,0.0,0.0,59.0,41.0,7.0,8.0,4.0,2.0,13.0,10.0,93.0,69.0
-197311.0,1146.0,Arminia Bielefeld,1731.0,Greuther Fuerth,0,1,0.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,13.0,Saturday,6.0,2020.0,T,3.0,3.0,0.0,0.0,47.0,53.0,9.0,9.0,5.0,1.0,21.0,14.0,94.0,110.0
+197311.0,1146.0,Nurnberg,1731.0,Greuther Fuerth,0,1,0.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,13.0,Saturday,6.0,2020.0,T,3.0,3.0,0.0,0.0,47.0,53.0,9.0,9.0,5.0,1.0,21.0,14.0,94.0,110.0
 197312.0,302.0,Osnabrueck,1380.0,Bochum,0,2,0.0,1.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,13.0,Saturday,6.0,2020.0,T,1.0,3.0,0.0,0.0,46.0,54.0,10.0,10.0,2.0,6.0,8.0,18.0,86.0,97.0
 197451.0,306.0,Darmstadt,43.0,Hannover 96,3,2,1.0,0.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,14.0,Sunday,6.0,2020.0,T,3.0,0.0,0.0,0.0,47.0,53.0,9.0,10.0,4.0,6.0,9.0,7.0,95.0,121.0
 197452.0,1081.0,Karlsruher SC,54.0,VfB Stuttgart,2,1,1.0,1.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,14.0,Sunday,6.0,2020.0,T,2.0,3.0,0.0,0.0,44.0,56.0,11.0,7.0,3.0,3.0,13.0,20.0,72.0,92.0
@@ -7591,7 +7591,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 197593.0,289.0,Arminia Bielefeld,953.0,Dynamo Dresden,4,0,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,15.0,Monday,6.0,2020.0,T,1.0,4.0,0.0,0.0,57.0,43.0,10.0,6.0,4.0,2.0,11.0,16.0,83.0,66.0
 197627.0,1731.0,Greuther Fuerth,1077.0,FC Heidenheim,0,0,0.0,0.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,16.0,Tuesday,6.0,2020.0,T,3.0,5.0,0.0,0.0,54.0,46.0,7.0,10.0,2.0,3.0,14.0,22.0,94.0,79.0
 197628.0,47.0,Hamburger SV,302.0,Osnabrueck,1,1,1.0,0.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,16.0,Tuesday,6.0,2020.0,T,1.0,3.0,0.0,0.0,70.0,30.0,5.0,9.0,2.0,4.0,16.0,12.0,110.0,88.0
-197629.0,300.0,Wehen,1146.0,Arminia Bielefeld,0,6,0.0,3.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,16.0,Tuesday,6.0,2020.0,T,2.0,1.0,0.0,0.0,49.0,51.0,6.0,13.0,2.0,7.0,10.0,12.0,80.0,94.0
+197629.0,300.0,Wehen,1146.0,Nurnberg,0,6,0.0,3.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,16.0,Tuesday,6.0,2020.0,T,2.0,1.0,0.0,0.0,49.0,51.0,6.0,13.0,2.0,7.0,10.0,12.0,80.0,94.0
 197727.0,1381.0,Erzgebirge Aue,1380.0,Bochum,1,2,0.0,2.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,17.0,Wednesday,6.0,2020.0,T,,,,,,,,,,,,,,
 197728.0,43.0,Hannover 96,1348.0,St. Pauli,4,0,2.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,17.0,Wednesday,6.0,2020.0,T,,,,,,,,,,,,,,
 197729.0,1144.0,Jahn Regensburg,1081.0,Karlsruher SC,2,1,1.0,0.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,17.0,Wednesday,6.0,2020.0,T,,,,,,,,,,,,,,
@@ -7603,7 +7603,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 198157.0,1381.0,Erzgebirge Aue,43.0,Hannover 96,2,1,1.0,0.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,21.0,Sunday,6.0,2020.0,T,1.0,3.0,0.0,0.0,34.0,66.0,8.0,12.0,3.0,7.0,5.0,13.0,77.0,122.0
 198158.0,1077.0,FC Heidenheim,47.0,Hamburger SV,2,1,0.0,0.0,Voith-Arena,Heidenheim,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,21.0,Sunday,6.0,2020.0,T,2.0,3.0,0.0,0.0,43.0,57.0,12.0,10.0,5.0,4.0,17.0,8.0,87.0,112.0
 198159.0,1081.0,Karlsruher SC,289.0,Arminia Bielefeld,3,3,1.0,3.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,21.0,Sunday,6.0,2020.0,T,2.0,1.0,0.0,0.0,40.0,60.0,7.0,6.0,4.0,3.0,16.0,10.0,89.0,91.0
-198160.0,1146.0,Arminia Bielefeld,54.0,VfB Stuttgart,0,6,0.0,3.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,21.0,Sunday,6.0,2020.0,T,2.0,1.0,0.0,0.0,45.0,55.0,5.0,12.0,1.0,9.0,15.0,14.0,93.0,98.0
+198160.0,1146.0,Nurnberg,54.0,VfB Stuttgart,0,6,0.0,3.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,21.0,Sunday,6.0,2020.0,T,2.0,1.0,0.0,0.0,45.0,55.0,5.0,12.0,1.0,9.0,15.0,14.0,93.0,98.0
 198161.0,302.0,Osnabrueck,1142.0,Holstein Kiel,4,1,2.0,0.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,21.0,Sunday,6.0,2020.0,T,0.0,2.0,0.0,1.0,56.0,44.0,14.0,4.0,10.0,1.0,8.0,2.0,63.0,53.0
 198162.0,305.0,Sandhausen,953.0,Dynamo Dresden,0,1,0.0,0.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,21.0,Sunday,6.0,2020.0,T,5.0,3.0,0.0,1.0,47.0,53.0,6.0,4.0,3.0,1.0,20.0,15.0,94.0,88.0
 198163.0,1348.0,St. Pauli,1144.0,Jahn Regensburg,1,1,1.0,1.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,21.0,Sunday,6.0,2020.0,T,3.0,0.0,0.0,0.0,54.0,46.0,10.0,3.0,7.0,2.0,12.0,12.0,118.0,91.0
@@ -7612,14 +7612,14 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 198908.0,1731.0,Greuther Fuerth,1081.0,Karlsruher SC,1,2,1.0,1.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,28.0,Sunday,6.0,2020.0,T,3.0,2.0,0.0,0.0,60.0,40.0,9.0,10.0,5.0,5.0,17.0,13.0,116.0,78.0
 198909.0,47.0,Hamburger SV,305.0,Sandhausen,1,5,0.0,2.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,28.0,Sunday,6.0,2020.0,T,0.0,2.0,0.0,0.0,70.0,30.0,5.0,12.0,2.0,6.0,8.0,17.0,97.0,66.0
 198910.0,43.0,Hannover 96,1380.0,Bochum,2,0,1.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,28.0,Sunday,6.0,2020.0,T,2.0,0.0,0.0,0.0,40.0,60.0,7.0,15.0,2.0,5.0,13.0,12.0,103.0,118.0
-198911.0,1142.0,Holstein Kiel,1146.0,Arminia Bielefeld,1,1,0.0,1.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,28.0,Sunday,6.0,2020.0,T,0.0,4.0,0.0,0.0,43.0,57.0,12.0,9.0,4.0,1.0,12.0,15.0,102.0,95.0
+198911.0,1142.0,Holstein Kiel,1146.0,Nurnberg,1,1,0.0,1.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,28.0,Sunday,6.0,2020.0,T,0.0,4.0,0.0,0.0,43.0,57.0,12.0,9.0,4.0,1.0,12.0,15.0,102.0,95.0
 198912.0,1144.0,Jahn Regensburg,1381.0,Erzgebirge Aue,1,2,1.0,1.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,28.0,Sunday,6.0,2020.0,T,4.0,4.0,0.0,0.0,45.0,55.0,12.0,11.0,6.0,4.0,16.0,15.0,86.0,85.0
 198913.0,54.0,VfB Stuttgart,306.0,Darmstadt,1,3,1.0,1.0,Mercedes-Benz-Arena,Stuttgart,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,28.0,Sunday,6.0,2020.0,T,2.0,2.0,0.0,0.0,60.0,40.0,8.0,5.0,2.0,3.0,14.0,11.0,110.0,59.0
 198914.0,300.0,Wehen,1348.0,St. Pauli,5,3,3.0,2.0,BRITA-Arena,Wiesbaden,Germany,Europe,2. Bundesliga,League,2.0,13.0,30.0,28.0,Sunday,6.0,2020.0,T,0.0,1.0,0.0,0.0,63.0,37.0,19.0,9.0,9.0,6.0,11.0,9.0,122.0,83.0
-199854.0,1146.0,Arminia Bielefeld,1145.0,Ingolstadt,2,0,2.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,16.0,15.0,7.0,Tuesday,7.0,2020.0,T,2.0,3.0,0.0,0.0,54.0,46.0,15.0,2.0,5.0,1.0,13.0,13.0,74.0,77.0
-200283.0,1145.0,Ingolstadt,1146.0,Arminia Bielefeld,3,1,0.0,0.0,Audi-Sportpark,Ingolstadt,Germany,Europe,2. Bundesliga,League,2.0,16.0,15.0,11.0,Saturday,7.0,2020.0,T,2.0,4.0,0.0,0.0,35.0,65.0,7.0,12.0,4.0,5.0,15.0,11.0,84.0,119.0
+199854.0,1146.0,Nurnberg,1145.0,Ingolstadt,2,0,2.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,16.0,15.0,7.0,Tuesday,7.0,2020.0,T,2.0,3.0,0.0,0.0,54.0,46.0,15.0,2.0,5.0,1.0,13.0,13.0,74.0,77.0
+200283.0,1145.0,Ingolstadt,1146.0,Nurnberg,3,1,0.0,0.0,Audi-Sportpark,Ingolstadt,Germany,Europe,2. Bundesliga,League,2.0,16.0,15.0,11.0,Saturday,7.0,2020.0,T,2.0,4.0,0.0,0.0,35.0,65.0,7.0,12.0,4.0,5.0,15.0,11.0,84.0,119.0
 209829.0,47.0,Hamburger SV,1423.0,Fortuna Düsseldorf,2,1,1.0,0.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,18.0,Friday,9.0,2020.0,T,2.0,2.0,0.0,0.0,56.0,44.0,7.0,10.0,4.0,5.0,18.0,10.0,78.0,110.0
-209830.0,1144.0,Jahn Regensburg,1146.0,Arminia Bielefeld,1,1,0.0,1.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,18.0,Friday,9.0,2020.0,T,2.0,3.0,0.0,0.0,60.0,40.0,8.0,5.0,6.0,4.0,16.0,13.0,84.0,76.0
+209830.0,1144.0,Jahn Regensburg,1146.0,Nurnberg,1,1,0.0,1.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,18.0,Friday,9.0,2020.0,T,2.0,3.0,0.0,0.0,60.0,40.0,8.0,5.0,6.0,4.0,16.0,13.0,84.0,76.0
 209961.0,43.0,Hannover 96,1081.0,Karlsruher SC,2,0,1.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,19.0,Saturday,9.0,2020.0,T,0.0,1.0,0.0,0.0,49.0,51.0,10.0,7.0,6.0,3.0,14.0,12.0,76.0,112.0
 209962.0,305.0,Sandhausen,306.0,Darmstadt,3,2,2.0,1.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,19.0,Saturday,9.0,2020.0,T,4.0,1.0,0.0,0.0,44.0,56.0,10.0,13.0,6.0,9.0,20.0,15.0,82.0,107.0
 209963.0,1382.0,Wuerzburger Kickers,1381.0,Erzgebirge Aue,0,3,0.0,0.0,Flyeralarm-Arena,Wuerzburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,19.0,Saturday,9.0,2020.0,T,1.0,0.0,0.0,0.0,53.0,47.0,6.0,10.0,2.0,6.0,10.0,19.0,122.0,105.0
@@ -7633,7 +7633,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 211464.0,290.0,Eintracht Braunschweig,1142.0,Holstein Kiel,0,0,0.0,0.0,Eintracht-Stadion,Braunschweig,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,26.0,Saturday,9.0,2020.0,T,0.0,5.0,0.0,0.0,44.0,56.0,9.0,9.0,2.0,3.0,10.0,13.0,76.0,115.0
 211465.0,1423.0,Fortuna Düsseldorf,1382.0,Wuerzburger Kickers,1,0,0.0,0.0,Merkur Spiel-Arena,Dusseldorf,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,26.0,Saturday,9.0,2020.0,T,6.0,2.0,0.0,0.0,56.0,44.0,11.0,8.0,4.0,4.0,15.0,13.0,127.0,90.0
 211932.0,1081.0,Karlsruher SC,1380.0,Bochum,0,1,0.0,1.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,27.0,Sunday,9.0,2020.0,T,4.0,3.0,0.0,0.0,53.0,47.0,11.0,5.0,4.0,2.0,11.0,16.0,70.0,64.0
-211933.0,1146.0,Arminia Bielefeld,305.0,Sandhausen,1,0,0.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,27.0,Sunday,9.0,2020.0,T,3.0,1.0,0.0,0.0,57.0,43.0,13.0,5.0,9.0,2.0,9.0,12.0,95.0,77.0
+211933.0,1146.0,Nurnberg,305.0,Sandhausen,1,0,0.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,27.0,Sunday,9.0,2020.0,T,3.0,1.0,0.0,0.0,57.0,43.0,13.0,5.0,9.0,2.0,9.0,12.0,95.0,77.0
 211934.0,1348.0,St. Pauli,1077.0,FC Heidenheim,4,2,2.0,0.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,27.0,Sunday,9.0,2020.0,T,1.0,1.0,0.0,0.0,47.0,53.0,3.0,16.0,3.0,8.0,9.0,11.0,113.0,148.0
 212270.0,1098.0,Paderborn,47.0,Hamburger SV,3,4,3.0,2.0,Benteler-Arena,Paderborn,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,28.0,Monday,9.0,2020.0,T,3.0,2.0,0.0,0.0,51.0,49.0,9.0,10.0,6.0,10.0,10.0,9.0,90.0,80.0
 212682.0,1380.0,Bochum,302.0,Osnabrueck,0,0,0.0,0.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,2.0,Friday,10.0,2020.0,T,3.0,2.0,0.0,0.0,58.0,42.0,12.0,6.0,3.0,1.0,8.0,13.0,122.0,73.0
@@ -7643,7 +7643,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 212790.0,1144.0,Jahn Regensburg,1081.0,Karlsruher SC,1,0,1.0,0.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,3.0,Saturday,10.0,2020.0,T,3.0,5.0,0.0,0.0,52.0,48.0,8.0,7.0,3.0,3.0,15.0,18.0,85.0,89.0
 213235.0,1382.0,Wuerzburger Kickers,1731.0,Greuther Fuerth,2,2,1.0,1.0,Flyeralarm-Arena,Wuerzburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,4.0,Sunday,10.0,2020.0,T,1.0,3.0,0.0,0.0,41.0,59.0,7.0,9.0,5.0,2.0,13.0,17.0,84.0,104.0
 213236.0,1142.0,Holstein Kiel,1423.0,Fortuna Düsseldorf,2,1,1.0,0.0,Holstein-Stadion,Kiel,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,4.0,Sunday,10.0,2020.0,T,0.0,3.0,0.0,0.0,54.0,46.0,7.0,5.0,5.0,2.0,10.0,14.0,103.0,119.0
-213573.0,1146.0,Arminia Bielefeld,306.0,Darmstadt,2,3,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,5.0,Monday,10.0,2020.0,T,2.0,2.0,0.0,0.0,32.0,68.0,11.0,16.0,4.0,6.0,12.0,19.0,87.0,99.0
+213573.0,1146.0,Nurnberg,306.0,Darmstadt,2,3,1.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,5.0,Monday,10.0,2020.0,T,2.0,2.0,0.0,0.0,32.0,68.0,11.0,16.0,4.0,6.0,12.0,19.0,87.0,99.0
 214917.0,290.0,Eintracht Braunschweig,1380.0,Bochum,2,1,1.0,1.0,Eintracht-Stadion,Braunschweig,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,17.0,Saturday,10.0,2020.0,T,3.0,2.0,1.0,0.0,44.0,56.0,13.0,9.0,6.0,3.0,11.0,9.0,96.0,88.0
 214918.0,1731.0,Greuther Fuerth,47.0,Hamburger SV,0,1,0.0,1.0,Sportpark Ronhof Thomas Sommer,Furth,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,17.0,Saturday,10.0,2020.0,T,4.0,1.0,0.0,1.0,55.0,45.0,12.0,5.0,5.0,3.0,23.0,15.0,109.0,73.0
 214919.0,1081.0,Karlsruher SC,305.0,Sandhausen,3,0,2.0,0.0,Wildparkstadion,Karlsruher,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,17.0,Saturday,10.0,2020.0,T,3.0,4.0,0.0,0.0,53.0,47.0,13.0,7.0,9.0,5.0,14.0,19.0,85.0,83.0
@@ -7651,9 +7651,9 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 215452.0,1423.0,Fortuna Düsseldorf,1144.0,Jahn Regensburg,2,2,0.0,2.0,Merkur Spiel-Arena,Dusseldorf,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,18.0,Sunday,10.0,2020.0,T,1.0,3.0,0.0,0.0,54.0,46.0,6.0,15.0,3.0,5.0,13.0,12.0,79.0,83.0
 215453.0,1098.0,Paderborn,43.0,Hannover 96,1,0,1.0,0.0,Benteler-Arena,Paderborn,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,18.0,Sunday,10.0,2020.0,T,2.0,0.0,0.0,0.0,57.0,43.0,8.0,6.0,2.0,0.0,6.0,7.0,84.0,100.0
 215454.0,1382.0,Wuerzburger Kickers,1142.0,Holstein Kiel,0,2,0.0,1.0,Flyeralarm-Arena,Wuerzburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,30.0,18.0,Sunday,10.0,2020.0,T,4.0,4.0,0.0,0.0,47.0,53.0,8.0,4.0,2.0,2.0,16.0,15.0,91.0,102.0
-215750.0,1348.0,St. Pauli,1146.0,Arminia Bielefeld,2,2,1.0,1.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,19.0,Monday,10.0,2020.0,T,3.0,6.0,0.0,0.0,55.0,45.0,14.0,7.0,9.0,4.0,17.0,19.0,92.0,67.0
+215750.0,1348.0,St. Pauli,1146.0,Nurnberg,2,2,1.0,1.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,18.0,30.0,19.0,Monday,10.0,2020.0,T,3.0,6.0,0.0,0.0,55.0,45.0,14.0,7.0,9.0,4.0,17.0,19.0,92.0,67.0
 216209.0,1144.0,Jahn Regensburg,290.0,Eintracht Braunschweig,3,0,1.0,0.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,23.0,Friday,10.0,2020.0,T,1.0,1.0,0.0,0.0,53.0,47.0,16.0,9.0,8.0,3.0,9.0,10.0,68.0,74.0
-216210.0,1146.0,Arminia Bielefeld,1081.0,Karlsruher SC,1,1,1.0,0.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,23.0,Friday,10.0,2020.0,T,1.0,4.0,0.0,0.0,47.0,53.0,5.0,4.0,3.0,2.0,10.0,15.0,83.0,79.0
+216210.0,1146.0,Nurnberg,1081.0,Karlsruher SC,1,1,1.0,0.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,16.0,30.0,23.0,Friday,10.0,2020.0,T,1.0,4.0,0.0,0.0,47.0,53.0,5.0,4.0,3.0,2.0,10.0,15.0,83.0,79.0
 216307.0,306.0,Darmstadt,1348.0,St. Pauli,2,2,1.0,0.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,24.0,Saturday,10.0,2020.0,T,2.0,4.0,0.0,0.0,47.0,53.0,13.0,10.0,5.0,7.0,9.0,22.0,84.0,96.0
 216308.0,47.0,Hamburger SV,1382.0,Wuerzburger Kickers,3,1,0.0,1.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,24.0,Saturday,10.0,2020.0,T,1.0,3.0,0.0,0.0,61.0,39.0,16.0,4.0,3.0,2.0,9.0,7.0,114.0,81.0
 216309.0,43.0,Hannover 96,1423.0,Fortuna Düsseldorf,3,0,0.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,11.0,0.0,24.0,Saturday,10.0,2020.0,T,2.0,1.0,0.0,0.0,65.0,35.0,11.0,0.0,5.0,0.0,13.0,13.0,101.0,62.0
@@ -7664,7 +7664,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 217292.0,302.0,Osnabrueck,306.0,Darmstadt,1,1,0.0,1.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,28.0,Wednesday,10.0,2020.0,T,2.0,2.0,0.0,0.0,53.0,47.0,10.0,10.0,6.0,5.0,10.0,16.0,85.0,61.0
 217525.0,1423.0,Fortuna Düsseldorf,1077.0,FC Heidenheim,1,0,1.0,0.0,Merkur Spiel-Arena,Dusseldorf,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,30.0,Friday,10.0,2020.0,T,2.0,4.0,0.0,0.0,45.0,55.0,4.0,7.0,2.0,2.0,11.0,13.0,108.0,86.0
 217526.0,47.0,Hamburger SV,1348.0,St. Pauli,2,2,1.0,1.0,Volksparkstadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,30.0,Friday,10.0,2020.0,T,1.0,1.0,0.0,0.0,56.0,44.0,12.0,7.0,4.0,4.0,11.0,17.0,98.0,80.0
-217642.0,290.0,Eintracht Braunschweig,1146.0,Arminia Bielefeld,3,2,1.0,2.0,Eintracht-Stadion,Braunschweig,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,31.0,Saturday,10.0,2020.0,T,2.0,1.0,0.0,0.0,33.0,67.0,10.0,11.0,3.0,4.0,14.0,11.0,75.0,100.0
+217642.0,290.0,Eintracht Braunschweig,1146.0,Nurnberg,3,2,1.0,2.0,Eintracht-Stadion,Braunschweig,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,31.0,Saturday,10.0,2020.0,T,2.0,1.0,0.0,0.0,33.0,67.0,10.0,11.0,3.0,4.0,14.0,11.0,75.0,100.0
 217643.0,1381.0,Erzgebirge Aue,1142.0,Holstein Kiel,1,1,1.0,1.0,Erzgebirgsstadion,Aue-Bad Schlema,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,31.0,Saturday,10.0,2020.0,T,2.0,3.0,0.0,1.0,56.0,44.0,12.0,6.0,8.0,1.0,15.0,7.0,100.0,66.0
 217644.0,1098.0,Paderborn,1144.0,Jahn Regensburg,3,1,1.0,1.0,Benteler-Arena,Paderborn,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,31.0,Saturday,10.0,2020.0,T,1.0,2.0,0.0,0.0,59.0,41.0,9.0,5.0,4.0,3.0,9.0,17.0,84.0,82.0
 217645.0,302.0,Osnabrueck,305.0,Sandhausen,2,1,2.0,0.0,Bremer Brücke,Osnabrueck,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,31.0,Saturday,10.0,2020.0,T,1.0,3.0,0.0,0.0,49.0,51.0,11.0,4.0,8.0,3.0,12.0,21.0,80.0,88.0
@@ -7675,7 +7675,7 @@ match_id,home_id,home_name,away_id,away_name,home_ft_goals,away_ft_goals,home_ht
 218887.0,305.0,Sandhausen,290.0,Eintracht Braunschweig,2,2,2.0,0.0,BWT-Stadion am Hardtwald,Sandhausen,Germany,Europe,2. Bundesliga,League,2.0,17.0,30.0,6.0,Friday,11.0,2020.0,T,2.0,2.0,0.0,0.0,50.0,50.0,3.0,6.0,3.0,3.0,15.0,16.0,55.0,79.0
 218986.0,1380.0,Bochum,1731.0,Greuther Fuerth,0,2,0.0,2.0,Vonovia Ruhrstadion,Bochum,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,7.0,Saturday,11.0,2020.0,T,1.0,3.0,0.0,0.0,45.0,55.0,11.0,10.0,1.0,7.0,14.0,14.0,89.0,72.0
 218987.0,43.0,Hannover 96,1381.0,Erzgebirge Aue,0,0,0.0,0.0,HDI-Arena,Hanover,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,7.0,Saturday,11.0,2020.0,T,3.0,3.0,0.0,0.0,55.0,45.0,13.0,7.0,7.0,3.0,14.0,11.0,88.0,81.0
-218988.0,1146.0,Arminia Bielefeld,1423.0,Fortuna Düsseldorf,1,1,1.0,1.0,SchücoArena,Bielefeld,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,7.0,Saturday,11.0,2020.0,T,2.0,2.0,0.0,0.0,55.0,45.0,3.0,2.0,2.0,1.0,12.0,13.0,97.0,78.0
+218988.0,1146.0,Nurnberg,1423.0,Fortuna Düsseldorf,1,1,1.0,1.0,Max-Morlock-Stadion,Nurnberg,Germany,Europe,2. Bundesliga,League,2.0,12.0,0.0,7.0,Saturday,11.0,2020.0,T,2.0,2.0,0.0,0.0,55.0,45.0,3.0,2.0,2.0,1.0,12.0,13.0,97.0,78.0
 219424.0,306.0,Darmstadt,1098.0,Paderborn,0,4,0.0,3.0,Merck-Stadion am Böllenfalltor,Darmstadt,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,8.0,Sunday,11.0,2020.0,T,4.0,4.0,0.0,0.0,43.0,57.0,4.0,17.0,2.0,13.0,8.0,16.0,60.0,106.0
 219425.0,1144.0,Jahn Regensburg,302.0,Osnabrueck,2,4,1.0,2.0,Continental Arena,Regensburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,8.0,Sunday,11.0,2020.0,T,2.0,2.0,0.0,0.0,56.0,44.0,8.0,7.0,5.0,6.0,12.0,13.0,74.0,71.0
 219426.0,1348.0,St. Pauli,1081.0,Karlsruher SC,0,3,0.0,1.0,Millerntor-Stadion,Hamburg,Germany,Europe,2. Bundesliga,League,2.0,12.0,30.0,8.0,Sunday,11.0,2020.0,T,1.0,1.0,0.0,0.0,55.0,45.0,11.0,9.0,4.0,4.0,12.0,15.0,97.0,78.0
