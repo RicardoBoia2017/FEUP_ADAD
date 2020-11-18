@@ -6,6 +6,7 @@
     <extended_description/>
     <trans_version/>
     <trans_type>Normal</trans_type>
+    <trans_status>0</trans_status>
     <directory>/</directory>
     <parameters>
     </parameters>
@@ -554,12 +555,12 @@
     <hop>
       <from>Combination stadium</from>
       <to>Combination team</to>
-      <enabled>N</enabled>
+      <enabled>Y</enabled>
     </hop>
     <hop>
       <from>Group by</from>
       <to>Table output</to>
-      <enabled>N</enabled>
+      <enabled>Y</enabled>
     </hop>
     <hop>
       <from>Sort rows</from>
@@ -572,13 +573,13 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Combination team</from>
-      <to>Combination time</to>
+      <from>Combination time</from>
+      <to>Sort rows</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Combination time</from>
-      <to>Sort rows</to>
+      <from>Combination team</from>
+      <to>Combination time</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -605,18 +606,18 @@
     <fields>
       <key>
         <name>competition_name</name>
-        <lookup>competition_name</lookup>
+        <lookup>CompetitionName</lookup>
       </key>
       <key>
         <name>type</name>
-        <lookup>type</lookup>
+        <lookup>Type</lookup>
       </key>
       <key>
         <name>tier</name>
-        <lookup>tier</lookup>
+        <lookup>Tier</lookup>
       </key>
       <return>
-        <name>idCourt</name>
+        <name>idCompetition</name>
         <creation_method>tablemax</creation_method>
         <use_autoinc>N</use_autoinc>
       </return>
@@ -632,7 +633,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>320</xloc>
+      <xloc>304</xloc>
       <yloc>144</yloc>
       <draw>Y</draw>
     </GUI>
@@ -641,7 +642,7 @@
     <name>Combination team</name>
     <type>CombinationLookup</type>
     <description/>
-    <distribute>N</distribute>
+    <distribute>Y</distribute>
     <custom_distribution/>
     <copies>1</copies>
     <partitioning>
@@ -660,14 +661,14 @@
     <fields>
       <key>
         <name>home_name</name>
-        <lookup>home_name</lookup>
+        <lookup>HomeTeamName</lookup>
       </key>
       <key>
         <name>away_name</name>
-        <lookup>away_name</lookup>
+        <lookup>AwayTeamName</lookup>
       </key>
       <return>
-        <name>idMatch</name>
+        <name>idTeam</name>
         <creation_method>tablemax</creation_method>
         <use_autoinc>N</use_autoinc>
       </return>
@@ -683,8 +684,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>728</xloc>
-      <yloc>147</yloc>
+      <xloc>672</xloc>
+      <yloc>144</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -711,22 +712,22 @@
     <fields>
       <key>
         <name>stadium_name</name>
-        <lookup>stadium_name</lookup>
+        <lookup>StadiumName</lookup>
       </key>
       <key>
         <name>city</name>
-        <lookup>city</lookup>
+        <lookup>City</lookup>
       </key>
       <key>
         <name>country</name>
-        <lookup>country</lookup>
+        <lookup>Country</lookup>
       </key>
       <key>
         <name>continent</name>
-        <lookup>continent</lookup>
+        <lookup>Continent</lookup>
       </key>
       <return>
-        <name>idTournament</name>
+        <name>idStadium</name>
         <creation_method>tablemax</creation_method>
         <use_autoinc>N</use_autoinc>
       </return>
@@ -742,8 +743,75 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>520</xloc>
-      <yloc>147</yloc>
+      <xloc>512</xloc>
+      <yloc>144</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Combination time</name>
+    <type>CombinationLookup</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <schema/>
+    <table>dimtime</table>
+    <connection>c-grupo5</connection>
+    <commit>100</commit>
+    <cache_size>9999</cache_size>
+    <replace>Y</replace>
+    <preloadCache>N</preloadCache>
+    <crc>N</crc>
+    <crcfield>hashcode</crcfield>
+    <fields>
+      <key>
+        <name>hour</name>
+        <lookup>Hour</lookup>
+      </key>
+      <key>
+        <name>minute</name>
+        <lookup>Minutes</lookup>
+      </key>
+      <key>
+        <name>day</name>
+        <lookup>Day</lookup>
+      </key>
+      <key>
+        <name>dayofweek</name>
+        <lookup>DayOfWeek</lookup>
+      </key>
+      <key>
+        <name>month</name>
+        <lookup>Month</lookup>
+      </key>
+      <key>
+        <name>year</name>
+        <lookup>Year</lookup>
+      </key>
+      <return>
+        <name>idTime</name>
+        <creation_method>tablemax</creation_method>
+        <use_autoinc>N</use_autoinc>
+      </return>
+    </fields>
+    <sequence/>
+    <last_update_field/>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>144</xloc>
+      <yloc>320</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -886,7 +954,7 @@
       <field>
         <aggregate>away_attacks</aggregate>
         <subject>away_attacks</subject>
-        <type>-</type>
+        <type>COUNT_ALL</type>
         <valuefield/>
       </field>
     </fields>
@@ -899,8 +967,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>680</xloc>
-      <yloc>291</yloc>
+      <xloc>448</xloc>
+      <yloc>320</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -965,8 +1033,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>536</xloc>
-      <yloc>291</yloc>
+      <xloc>304</xloc>
+      <yloc>320</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1856,8 +1924,8 @@ FROM matches</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>136</xloc>
-      <yloc>147</yloc>
+      <xloc>128</xloc>
+      <yloc>144</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1891,84 +1959,92 @@ FROM matches</sql>
     <return_field/>
     <fields>
       <field>
-        <column_name>WRank</column_name>
-        <stream_name>WRank</stream_name>
+        <column_name>home_ft_goals</column_name>
+        <stream_name>home_ft_goals</stream_name>
       </field>
       <field>
-        <column_name>LRank</column_name>
-        <stream_name>LRank</stream_name>
+        <column_name>away_ft_goals</column_name>
+        <stream_name>away_ft_goals</stream_name>
       </field>
       <field>
-        <column_name>WPts</column_name>
-        <stream_name>WPts</stream_name>
+        <column_name>home_ht_goals</column_name>
+        <stream_name>home_ht_goals</stream_name>
       </field>
       <field>
-        <column_name>LPts</column_name>
-        <stream_name>LPts</stream_name>
+        <column_name>away_ht_goals</column_name>
+        <stream_name>away_ht_goals</stream_name>
       </field>
       <field>
-        <column_name>W1</column_name>
-        <stream_name>W1</stream_name>
+        <column_name>home_yc</column_name>
+        <stream_name>home_yc</stream_name>
       </field>
       <field>
-        <column_name>L1</column_name>
-        <stream_name>L1</stream_name>
+        <column_name>away_yc</column_name>
+        <stream_name>away_yc</stream_name>
       </field>
       <field>
-        <column_name>W2</column_name>
-        <stream_name>W2</stream_name>
+        <column_name>home_rc</column_name>
+        <stream_name>home_rc</stream_name>
       </field>
       <field>
-        <column_name>L2</column_name>
-        <stream_name>L2</stream_name>
+        <column_name>away_rc</column_name>
+        <stream_name>away_rc</stream_name>
       </field>
       <field>
-        <column_name>W3</column_name>
-        <stream_name>W3</stream_name>
+        <column_name>home_possession</column_name>
+        <stream_name>home_possession</stream_name>
       </field>
       <field>
-        <column_name>L3</column_name>
-        <stream_name>L3</stream_name>
+        <column_name>away_possession</column_name>
+        <stream_name>away_possession</stream_name>
       </field>
       <field>
-        <column_name>W4</column_name>
-        <stream_name>W4</stream_name>
+        <column_name>home_shots</column_name>
+        <stream_name>home_shots</stream_name>
       </field>
       <field>
-        <column_name>L4</column_name>
-        <stream_name>L4</stream_name>
+        <column_name>away_shots</column_name>
+        <stream_name>away_shots</stream_name>
       </field>
       <field>
-        <column_name>W5</column_name>
-        <stream_name>W5</stream_name>
+        <column_name>home_shots_on_target</column_name>
+        <stream_name>home_shots_on_target</stream_name>
       </field>
       <field>
-        <column_name>L5</column_name>
-        <stream_name>L5</stream_name>
+        <column_name>away_shots_on_target</column_name>
+        <stream_name>away_shots_on_target</stream_name>
       </field>
       <field>
-        <column_name>Wsets</column_name>
-        <stream_name>Wsets</stream_name>
+        <column_name>home_fouls</column_name>
+        <stream_name>home_fouls</stream_name>
       </field>
       <field>
-        <column_name>Lsets</column_name>
-        <stream_name>Lsets</stream_name>
+        <column_name>away_fouls</column_name>
+        <stream_name>away_fouls</stream_name>
       </field>
       <field>
-        <column_name>idCourt</column_name>
-        <stream_name>idCourt</stream_name>
+        <column_name>home_attacks</column_name>
+        <stream_name>home_attacks</stream_name>
       </field>
       <field>
-        <column_name>idTournament</column_name>
-        <stream_name>idTournament</stream_name>
+        <column_name>away_attacks</column_name>
+        <stream_name>away_attacks</stream_name>
       </field>
       <field>
-        <column_name>idMatch</column_name>
-        <stream_name>idMatch</stream_name>
+        <column_name>idCompetition</column_name>
+        <stream_name>idCompetition</stream_name>
       </field>
       <field>
-        <column_name>idDate</column_name>
-        <stream_name>idDate</stream_name>
+        <column_name>idStadium</column_name>
+        <stream_name>idStadium</stream_name>
+      </field>
+      <field>
+        <column_name>idTeam</column_name>
+        <stream_name>idTeam</stream_name>
+      </field>
+      <field>
+        <column_name>idTime</column_name>
+        <stream_name>idTime</stream_name>
       </field>
     </fields>
     <attributes/>
@@ -1980,75 +2056,8 @@ FROM matches</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>824</xloc>
-      <yloc>291</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Combination time</name>
-    <type>CombinationLookup</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <schema/>
-    <table>dimtime</table>
-    <connection>c-grupo5</connection>
-    <commit>100</commit>
-    <cache_size>9999</cache_size>
-    <replace>Y</replace>
-    <preloadCache>N</preloadCache>
-    <crc>N</crc>
-    <crcfield>hashcode</crcfield>
-    <fields>
-      <key>
-        <name>hour</name>
-        <lookup>hour</lookup>
-      </key>
-      <key>
-        <name>minute</name>
-        <lookup>minute</lookup>
-      </key>
-      <key>
-        <name>day</name>
-        <lookup>day</lookup>
-      </key>
-      <key>
-        <name>month</name>
-        <lookup>month</lookup>
-      </key>
-      <key>
-        <name>year</name>
-        <lookup>year</lookup>
-      </key>
-      <key>
-        <name>dayofweek</name>
-        <lookup>dayofweek</lookup>
-      </key>
-      <return>
-        <name>technical/surrogate key field</name>
-        <creation_method>tablemax</creation_method>
-        <use_autoinc>N</use_autoinc>
-      </return>
-    </fields>
-    <sequence/>
-    <last_update_field/>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>928</xloc>
-      <yloc>147</yloc>
+      <xloc>592</xloc>
+      <yloc>320</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
