@@ -554,7 +554,7 @@
     </hop>
     <hop>
       <from>Combination stadium</from>
-      <to>Combination team</to>
+      <to>Combination home team</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -578,11 +578,63 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Combination team</from>
+      <from>Combination away team</from>
       <to>Combination time</to>
       <enabled>Y</enabled>
     </hop>
+    <hop>
+      <from>Combination home team</from>
+      <to>Combination away team</to>
+      <enabled>Y</enabled>
+    </hop>
   </order>
+  <step>
+    <name>Combination away team</name>
+    <type>CombinationLookup</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <schema/>
+    <table>dimteam</table>
+    <connection>c-grupo5</connection>
+    <commit>100</commit>
+    <cache_size>9999</cache_size>
+    <replace>Y</replace>
+    <preloadCache>N</preloadCache>
+    <crc>N</crc>
+    <crcfield>hashcode</crcfield>
+    <fields>
+      <key>
+        <name>away_name</name>
+        <lookup>TeamName</lookup>
+      </key>
+      <return>
+        <name>idTeam</name>
+        <creation_method>tablemax</creation_method>
+        <use_autoinc>N</use_autoinc>
+      </return>
+    </fields>
+    <sequence/>
+    <last_update_field/>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>64</xloc>
+      <yloc>336</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
   <step>
     <name>Combination competition</name>
     <type>CombinationLookup</type>
@@ -639,7 +691,7 @@
     </GUI>
   </step>
   <step>
-    <name>Combination team</name>
+    <name>Combination home team</name>
     <type>CombinationLookup</type>
     <description/>
     <distribute>Y</distribute>
@@ -661,11 +713,7 @@
     <fields>
       <key>
         <name>home_name</name>
-        <lookup>HomeTeamName</lookup>
-      </key>
-      <key>
-        <name>away_name</name>
-        <lookup>AwayTeamName</lookup>
+        <lookup>TeamName</lookup>
       </key>
       <return>
         <name>idTeam</name>
@@ -684,7 +732,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>672</xloc>
+      <xloc>688</xloc>
       <yloc>144</yloc>
       <draw>Y</draw>
     </GUI>
@@ -810,8 +858,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>144</xloc>
-      <yloc>320</yloc>
+      <xloc>224</xloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -967,8 +1015,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>448</xloc>
-      <yloc>320</yloc>
+      <xloc>528</xloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1033,8 +1081,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>304</xloc>
-      <yloc>320</yloc>
+      <xloc>384</xloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1942,7 +1990,7 @@ FROM matches</sql>
     </partitioning>
     <connection>c-grupo5</connection>
     <schema/>
-    <table>factresults</table>
+    <table>factresult</table>
     <commit>1000</commit>
     <truncate>N</truncate>
     <ignore_errors>N</ignore_errors>
@@ -1959,75 +2007,75 @@ FROM matches</sql>
     <return_field/>
     <fields>
       <field>
-        <column_name>home_ft_goals</column_name>
+        <column_name>Home_FT_goals</column_name>
         <stream_name>home_ft_goals</stream_name>
       </field>
       <field>
-        <column_name>away_ft_goals</column_name>
+        <column_name>Away_FT_goals</column_name>
         <stream_name>away_ft_goals</stream_name>
       </field>
       <field>
-        <column_name>home_ht_goals</column_name>
+        <column_name>Home_HT_goals</column_name>
         <stream_name>home_ht_goals</stream_name>
       </field>
       <field>
-        <column_name>away_ht_goals</column_name>
+        <column_name>Away_HT_goals</column_name>
         <stream_name>away_ht_goals</stream_name>
       </field>
       <field>
-        <column_name>home_yc</column_name>
+        <column_name>Home_YC</column_name>
         <stream_name>home_yc</stream_name>
       </field>
       <field>
-        <column_name>away_yc</column_name>
+        <column_name>Away_YC</column_name>
         <stream_name>away_yc</stream_name>
       </field>
       <field>
-        <column_name>home_rc</column_name>
+        <column_name>Home_RC</column_name>
         <stream_name>home_rc</stream_name>
       </field>
       <field>
-        <column_name>away_rc</column_name>
+        <column_name>Away_RC</column_name>
         <stream_name>away_rc</stream_name>
       </field>
       <field>
-        <column_name>home_possession</column_name>
+        <column_name>Home_possession</column_name>
         <stream_name>home_possession</stream_name>
       </field>
       <field>
-        <column_name>away_possession</column_name>
+        <column_name>Away_possession</column_name>
         <stream_name>away_possession</stream_name>
       </field>
       <field>
-        <column_name>home_shots</column_name>
+        <column_name>Home_shots</column_name>
         <stream_name>home_shots</stream_name>
       </field>
       <field>
-        <column_name>away_shots</column_name>
+        <column_name>Away_shots</column_name>
         <stream_name>away_shots</stream_name>
       </field>
       <field>
-        <column_name>home_shots_on_target</column_name>
+        <column_name>Home_shots_on_target</column_name>
         <stream_name>home_shots_on_target</stream_name>
       </field>
       <field>
-        <column_name>away_shots_on_target</column_name>
+        <column_name>Away_shots_on_target</column_name>
         <stream_name>away_shots_on_target</stream_name>
       </field>
       <field>
-        <column_name>home_fouls</column_name>
+        <column_name>Home_fouls</column_name>
         <stream_name>home_fouls</stream_name>
       </field>
       <field>
-        <column_name>away_fouls</column_name>
+        <column_name>Away_fouls</column_name>
         <stream_name>away_fouls</stream_name>
       </field>
       <field>
-        <column_name>home_attacks</column_name>
+        <column_name>Home_attacks</column_name>
         <stream_name>home_attacks</stream_name>
       </field>
       <field>
-        <column_name>away_attacks</column_name>
+        <column_name>Away_attacks</column_name>
         <stream_name>away_attacks</stream_name>
       </field>
       <field>
@@ -2039,7 +2087,11 @@ FROM matches</sql>
         <stream_name>idStadium</stream_name>
       </field>
       <field>
-        <column_name>idTeam</column_name>
+        <column_name>idAway</column_name>
+        <stream_name>idTeam</stream_name>
+      </field>
+      <field>
+        <column_name>idHome</column_name>
         <stream_name>idTeam</stream_name>
       </field>
       <field>
@@ -2056,8 +2108,8 @@ FROM matches</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>592</xloc>
-      <yloc>320</yloc>
+      <xloc>672</xloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
