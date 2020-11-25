@@ -353,7 +353,7 @@
       <description/>
       <type>MAIL</type>
       <attributes/>
-      <server>smtp.fe.up.pt</server>
+      <server>smtp.gmail.com</server>
       <port>465</port>
       <destination>ricab98@gmail.com</destination>
       <destinationCc/>
